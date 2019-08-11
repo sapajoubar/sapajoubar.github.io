@@ -1,0 +1,40 @@
+body {
+        
+	background-color:#FFFFFF;
+}
+.indent{
+	margin-left: 30px;
+}
+
+
+.sousligne
+{
+        background-color: #BBB;
+   	color: #0000FF; 
+	text-align: center;
+	letter-spacing: 1px;
+	font-family: Monospace; 
+	font-size:20px; 
+	padding: 5px;
+}
+
+.showbox{
+	font-size:20px; 
+
+	margin: auto;
+	width: 800px;
+	height: 500px;
+	border: 10px solid black;
+	color: #BBB;
+	background-color: #0000FF;
+	line-height: 60px;
+	text-align: justify;
+	padding: 10%;
+}
+#under{
+
+	width: 150px;	
+	height: 110px;
+	position:relative; left: 150px; bottom: 100px;
+	background: url(score.gif) no-repeat;
+	}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Le Temps est assassin</title>
+  <id>urn:book:8376ae21-6fa9-4fde-a1fe-d23f60b178b3</id>
+  <updated>2018-02-24T11:11:46Z</updated>
+  <link href="./book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le Temps est assassin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/Le%20Temps%20est%20assassin%20-%20Michel%20Bussi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="494 KB" />
+  <author>
+    <name>Michel Bussi</name>
+    <uri>../authors_0/authors_10_Page_1.xml</uri>
+  </author>
+  <published>2016-05-04T04:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>French and European Publications Inc</dcterms:publisher>
+  <category term="Thriller" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Thriller, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">
+      La Corse, presqu'île de la Revellata, entre mer et
+    montagne.
+      <br />
+      Une route en corniche, un ravin de vingt mètres, une
+    voiture qui roule trop vite... et bascule dans le vide.
+      <br />
+      Une seule survivante : Clotilde, quinze ans. Ses parents
+    et son frère sont morts sous ses yeux.
+      <br />
+      Eté 2016
+      <br />
+      Clotilde revient pour la première fois sur les lieux
+    de l'accident, avec son mari et sa fille ado, en vacances, pour
+    exorciser le passé.
+      <br />
+      A l'endroit même où elle a passé son
+    dernier été avec ses parents, elle reçoit une
+    lettre.
+      <br />
+      Une lettre signée de sa mère.
+      <br />
+      Vivante ?
+    </p>
+  </content>
+  <link href="../authors_0/authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Bussi" />
+  <link href="http://www.goodreads.com/book/title/Le%20Temps%20est%20assassin" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Le%20Temps%20est%20assassin" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Le%20Temps%20est%20assassin%20Michel%20Bussi" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20Temps%20est%20assassin&amp;field-author=Michel%20Bussi" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/BussiMichel" type="text/html" rel="related" title="Michel Bussi sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur ISFDB" target="_blank" />
+</entry>

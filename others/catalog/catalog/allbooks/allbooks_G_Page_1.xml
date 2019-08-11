@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par G</title>
+  <id>Calibre2opds:allbooks:G</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par G" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <entry>
+    <title>Gaspard, Melchior Et Balthazar</title>
+    <id>calibre:book:17</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/Gaspard%2C%20Melchior%20Et%20Balthazar%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Gaspard%2C%20Melchior%20Et%20Balthazar%20%2817%29/Gaspard%2C%20Melchior%20Et%20Balthazar%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="236 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2012-01-06T09:56:43Z</published>
+    <dcterms:publisher>Gallimard</dcterms:publisher>
+    <category term="Aventure" />
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gilles &amp; Jeanne</title>
+    <id>calibre:book:13</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/Gilles%20%26%20Jeanne%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="143 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-09-30T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Folio</dcterms:publisher>
+    <category term="Histoire" />
+    <category term="Lang:fr" />
+    <summary>Comment Jeanne d’Arc, si lucide, au bon sens si fort, a-t-elle pu accepter pour compagnon ce Gilles de Rais dont la monstruosité continue à révolter et à fasciner, un demi-millénaire après son supplice ? À cette question – toujours esquivée ou laissé...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Glissement De Temps Sur Mars</title>
+    <id>calibre:book:84</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Glissement%20De%20Temps%20Sur%20Mars%20%2884%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Glissement%20De%20Temps%20Sur%20Mars%20%2884%29/Glissement%20De%20Temps%20Sur%20Mars%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="345 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2006-01-15T06:41:03Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Pocket</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Présentation de l'éditeurJack Bohlen vit avec sa famille dans une paisible colonie martienne, loin du bruit et de la foule terrienne. Il gagne sa vie en réparant toutes sortes de machines. Mais pourrait-il réparer un être humain ? C'est ce que lui de...</summary>
+    <link href="../book_0/book_84.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Guerisseur De Cathedrales</title>
+    <id>calibre:book:63</id>
+    <updated>2018-06-05T05:23:09Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Guerisseur%20De%20Cathedrales%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Guerisseur%20De%20Cathedrales%20%2863%29/Le%20Guerisseur%20De%20Cathedrales%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="244 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1980-01-15T06:40:28Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Pocket</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Présentation de l'éditeurJoe Farnwright ne vit que par son métier. Homme ordinaire broyé par une société rigide et tyrannique, Joe recolle des morceaux de céramique, il guérit des objets avec un talent merveilleux. Hélas, arrive un jour où plus perso...</summary>
+    <link href="../book_0/book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Guide de démarrage rapide</title>
+    <id>calibre:book:1</id>
+    <updated>2018-02-24T11:08:54Z</updated>
+    <link href="../../John%20Schember/Guide%20de%20demarrage%20rapide%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Schember/Guide%20de%20demarrage%20rapide%20%281%29/Guide%20de%20demarrage%20rapide%20-%20John%20Schember.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="56 KB" />
+    <author>
+      <name>John Schember</name>
+      <uri>../authors_0/authors_1_Page_1.xml</uri>
+    </author>
+    <published>2015-04-26T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="calibre" />
+    <category term="Guide" />
+    <category term="Lang:fr" />
+    <summary>Guide de démarrage rapide pour calibre</summary>
+    <link href="../book_0/book_1.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

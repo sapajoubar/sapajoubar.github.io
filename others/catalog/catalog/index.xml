@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Biblioth�que g�r�e par Calibre</title>
+  <id />
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <entry>
+    <title>Documentation de Calibre2opds</title>
+    <id>urn:calibre2opds:about</id>
+    <content type="text">Notes d'utilisation</content>
+    <link href="http://calibre2opds.com/" type="text/html" />
+    <link href="c2o.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <author>
+      <name>David Pierron</name>
+      <uri>http://calibre2opds.com/</uri>
+      <email>dpierron+calibre2opds@gmail.com</email>
+    </author>
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Auteurs</title>
+    <id>Calibre2opds:authorlist</id>
+    <content type="text">Index alphab�tique des 40 auteurs</content>
+    <link href="./authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="./authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ajouts r�cents</title>
+    <id>Calibre2opds:recent</id>
+    <content type="text">131 livres les plus r�cents</content>
+    <link href="./recent/recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="./recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tous les livres</title>
+    <id>Calibre2opds:allbooks</id>
+    <content type="text">Index alphab�tique des 131 livres</content>
+    <link href="./allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="./allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

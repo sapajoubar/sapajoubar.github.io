@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'abomination de Dunwich</title>
+  <id>urn:book:3e14bf78-68a0-4e97-8154-ea6f3158ec5d</id>
+  <updated>2019-05-02T04:59:48Z</updated>
+  <link href="./book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'abomination de Dunwich" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/L%27abomination%20de%20Dunwich%20-%20Lovecraft%2C%20Howard%20Philips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="278 KB" />
+  <author>
+    <name>Lovecraft, Howard Philips</name>
+    <uri>../authors_0/authors_41_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="SF" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      SF, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      Parce qu'un de leurs ancêtres s'est approprié un
+    secret que les humains ne doivent pas connaître, ou parce
+    qu'il a entr'ouvert une porte sur l'extérieur, certaines
+    familles se transmettent une malédiction de
+    génération en génération.
+      <br />
+      C'est le cas des Whateley, dont le dernier rejeton
+    croît si vite qu'il paraît adulte à dix ans.
+    C'est le cas des Jermyn, hantés par la momie d'une
+    déesse, et celui des Harris, décimés par leur
+    propre maison.
+      <br />
+      Il existe aussi des endroits maudits : la Cité Sans
+    Nom, le prieuré d'Exham ou la rue d'Anseil, que ne
+    mentionne aucune carte d'aucune ville. Dans ces lieux, un
+    musicien déchire la nuit de mélodies étranges,
+    un peintre restitue l'horreur sur des toiles insoutenables et
+    deux violeurs de sépultures collectionnent les objets
+    macabres.
+      <br />
+      Bien sûr, on peut mettre un terme à toutes ces
+    malédictions. Il suffit de se procurer le
+    Nécronomicon...
+    </div>
+  </content>
+  <link href="../authors_0/authors_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Lovecraft, Howard Philips" />
+  <link href="http://www.goodreads.com/book/title/L%27abomination%20de%20Dunwich" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/L%27abomination%20de%20Dunwich" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/L%27abomination%20de%20Dunwich%20Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27abomination%20de%20Dunwich&amp;field-author=Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/LovecraftHowardPhilips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur ISFDB" target="_blank" />
+</entry>

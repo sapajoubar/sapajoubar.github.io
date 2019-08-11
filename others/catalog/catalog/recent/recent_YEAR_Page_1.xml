@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'ann�e pr�c�dente</title>
+  <id>Calibre2opds:recent:YEAR</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_YEAR_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="L'ann�e pr�c�dente" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ajouts r�cents" />
+  <entry>
+    <title>Debout-payé [22 janvier 2019]</title>
+    <id>calibre:book:117</id>
+    <updated>2019-01-24T11:58:19Z</updated>
+    <link href="../../Gauz/Debout-paye%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gauz/Debout-paye%20%28117%29/Debout-paye%20-%20Gauz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="375 KB" />
+    <author>
+      <name>Gauz</name>
+      <uri>../authors_0/authors_40_Page_1.xml</uri>
+    </author>
+    <published>2015-10-27T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Le Livre de Poche</dcterms:publisher>
+    <category term="Social Science" />
+    <category term="Essays" />
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="Lang:fr" />
+    <summary>Debout-payé est le roman d’Ossiri, étudiant ivoirien devenu vigile après avoir atterri sans papiers à Paris en 1990. C’est un chant en l’honneur d’une famille, d’une mère et de la communauté africaine avec ses travers, ses souffrances et ses différen...</summary>
+    <link href="../book_0/book_117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Dernier Jour d'un Condamné [17 janvier 2019]</title>
+    <id>calibre:book:105</id>
+    <updated>2019-01-17T04:50:54Z</updated>
+    <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="137 KB" />
+    <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format MOBI" displaysize="299 KB" />
+    <author>
+      <name>Victor Hugo</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Atramenta (www.atramenta.net)</dcterms:publisher>
+    <category term="Romans" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_105.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sérotonine [17 janvier 2019]</title>
+    <id>calibre:book:104</id>
+    <updated>2019-01-17T04:36:48Z</updated>
+    <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/Serotonine%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="316 KB" />
+    <author>
+      <name>Michel Houellebecq</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2019-01-02T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Flammarion</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="amazon" />
+    <category term="Lang:fr" />
+    <summary>"Mes croyances sont limitées, mais elles sont violentes. Je crois à la possibilité du royaume restreint. Je crois à l’amour" écrivait récemment Michel Houellebecq. Le narrateur de Sérotonine approuverait sans réserve. Son récit traverse une France qu...</summary>
+    <link href="../book_0/book_104.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Loup des mers [17 janvier 2019]</title>
+    <id>calibre:book:103</id>
+    <updated>2019-01-17T04:33:56Z</updated>
+    <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/Le%20Loup%20des%20mers%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="329 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2013-08-14T10:44:06Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Aventures" />
+    <category term="Lang:fr" />
+    <summary>1904 Traduction de Paul Gruyer et Louis Postif À la suite d'un naufrage, l'auteur est repêché par une goélette armée pour la chasse aux phoques, où sévit un capitaine cynique, d'une brutalité sauvage. Il restera «indomptable et sceptique jusqu'au bou...</summary>
+    <link href="../book_0/book_103.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Avant Adam ( (Les demi-hommes)) [15 novembre 2018]</title>
+    <id>calibre:book:98</id>
+    <updated>2018-11-15T06:30:56Z</updated>
+    <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="179 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2014-05-24T06:09:19Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Aventures" />
+    <category term="Lang:fr" />
+    <summary>1907 Traduction de Louis Postif Un homme de notre temps rêve, mais ce rêve est la vie d'un de nos lointains ancêtres du Paléolithique supérieur, un jeune adolescent préhistorique, chassé du nid par un mâle dominant, contraint à l’exil, tantôt chasseu...</summary>
+    <link href="../book_0/book_98.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Talon de Fer [15 novembre 2018]</title>
+    <id>calibre:book:97</id>
+    <updated>2018-11-15T06:30:19Z</updated>
+    <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/Le%20Talon%20de%20Fer%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="345 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2013-09-12T10:10:52Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Anticipation" />
+    <category term="Lang:fr" />
+    <summary>1908 Traduction de Louis Postif. Jack London écrit ce roman en 1908. Il est constitué par les souvenirs d'Avis Cunnigham, épouse d'Ernest Everhard. Ces souvenirs déroulent la vie de son mari, dirigeant socialiste des USA, depuis 1900 jusqu'à son exéc...</summary>
+    <link href="../book_0/book_97.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Peuple de l'Abîme [15 novembre 2018]</title>
+    <id>calibre:book:96</id>
+    <updated>2018-11-15T06:29:53Z</updated>
+    <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/Le%20Peuple%20de%20l%27Abime%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="231 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2013-11-13T01:29:06Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Documents - Essais" />
+    <category term="Lang:fr" />
+    <summary>The People of the Abyss (Le Peuple de l'Abîme) a paru en feuilletons dans le magazine socialiste mensuel « Wilshire's », de mars 1903 à janvier 1904. Il a été édité en volume par Macmillan à New York, en octobre 1903. Durant l'été 1902, Jack London v...</summary>
+    <link href="../book_0/book_96.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Une invasion sans précédent [15 novembre 2018]</title>
+    <id>calibre:book:95</id>
+    <updated>2018-11-15T06:29:28Z</updated>
+    <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/Une%20invasion%20sans%20precedent%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="35 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2011-02-05T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Nouvelle - Anticipation politique" />
+    <category term="Lang:fr" />
+    <summary>Une étonnante nouvelle d'anticipation politique écrite en 1910. A lire...</summary>
+    <link href="../book_0/book_95.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le vagabond des étoiles [15 novembre 2018]</title>
+    <id>calibre:book:94</id>
+    <updated>2018-11-15T06:27:33Z</updated>
+    <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/Le%20vagabond%20des%20etoiles%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="390 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2013-06-11T09:43:18Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_94.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

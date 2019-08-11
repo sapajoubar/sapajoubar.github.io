@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par J</title>
+  <id>Calibre2opds:allbooks:J</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par J" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <entry>
+    <title>Le vagabond des étoiles</title>
+    <id>calibre:book:94</id>
+    <updated>2018-11-15T06:27:33Z</updated>
+    <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/Le%20vagabond%20des%20etoiles%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="390 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2013-06-11T09:43:18Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_94.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Je vais encore me faire des amis !</title>
+    <id>calibre:book:40</id>
+    <updated>2018-02-24T11:11:49Z</updated>
+    <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="341 KB" />
+    <author>
+      <name>Mocky,Jean-Pierre</name>
+      <uri>../authors_0/authors_27_Page_1.xml</uri>
+    </author>
+    <published>2015-04-22T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>LE CHERCHE MIDI</dcterms:publisher>
+    <category term="Autobiographie" />
+    <category term="Lang:en" />
+    <summary>Jean-Pierre Mocky n’est pas seulement une légende du cinéma français : inclassable et rebelle, il ressemble aux personnages de ses films. Aujourd’hui, une fois n’est pas coutume, il troque sa caméra contre une plume bien affûtée… et tout le monde y p...</summary>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Journal Extime</title>
+    <id>calibre:book:18</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/Journal%20Extime%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="156 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2012-04-27T01:05:46Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Auto-biographie" />
+    <category term="Lang:fr" />
+    <summary>Les douze mois de l’année jalonnés par quelque quatre cents notules, observations, gloses, citations et autres historiettes.</summary>
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Jules (LITT.GENERALE) (French Edition)</title>
+    <id>calibre:book:6</id>
+    <updated>2018-02-24T11:11:46Z</updated>
+    <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20-%20Didier%20Van%20Cauwelaert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="242 KB" />
+    <author>
+      <name>Didier Van Cauwelaert</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>2015-04-28T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Albin Michel</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>J’ai toujours cette musique dans la tête</title>
+    <id>calibre:book:4</id>
+    <updated>2018-02-24T11:11:46Z</updated>
+    <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20-%20Agnes%20Martin-Lugand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="566 KB" />
+    <author>
+      <name>Agnès Martin-Lugand</name>
+      <uri>../authors_0/authors_4_Page_1.xml</uri>
+    </author>
+    <published>2017-03-14T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Michel Lafon</dcterms:publisher>
+    <category term="Lang:fr" />
+    <summary>Yanis et Véra ont la petite quarantaine et tout pour être heureux. Ils s'aiment comme au premier jour et sont les parents de trois magnifiques enfants. Seulement voilà, Yanis, talentueux autodidacte dans le bâtiment, vit de plus en plus mal sa collab...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

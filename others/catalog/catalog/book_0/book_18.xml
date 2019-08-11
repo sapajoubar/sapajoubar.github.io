@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Journal Extime</title>
+  <id>urn:book:a46ec8fe-7838-4404-8719-29c2e92d578b</id>
+  <updated>2018-02-24T11:11:47Z</updated>
+  <link href="./book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Journal Extime" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/Journal%20Extime%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="156 KB" />
+  <author>
+    <name>Michel Tournier</name>
+    <uri>../authors_0/authors_3_Page_1.xml</uri>
+  </author>
+  <published>2012-04-27T01:05:46Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Auto-biographie" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Auto-biographie, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Les douze mois de l’année jalonnés par
+    quelque quatre cents notules, observations, gloses, citations
+    et autres historiettes.</p>
+  </content>
+  <link href="../authors_0/authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Tournier" />
+  <link href="http://www.goodreads.com/book/title/Journal%20Extime" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Journal%20Extime" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Journal%20Extime%20Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Journal%20Extime&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/TournierMichel" type="text/html" rel="related" title="Michel Tournier sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur ISFDB" target="_blank" />
+</entry>

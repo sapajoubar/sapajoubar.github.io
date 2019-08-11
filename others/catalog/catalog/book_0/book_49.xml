@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Le bec en l'air</title>
+  <id>urn:book:59dbeae4-914f-43fc-beeb-338e533f5ee0</id>
+  <updated>2018-05-11T03:44:43Z</updated>
+  <link href="./book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le bec en l'air" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/Le%20bec%20en%20l%27air%20-%20Alphonse%20Allais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="167 KB" />
+  <author>
+    <name>Alphonse Allais</name>
+    <uri>../authors_0/authors_31_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Lang:en
+    </p>
+  </content>
+  <link href="../authors_0/authors_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Alphonse Allais" />
+  <link href="http://www.goodreads.com/book/title/Le%20bec%20en%20l%27air" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Le%20bec%20en%20l%27air" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Le%20bec%20en%20l%27air%20Alphonse%20Allais" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20bec%20en%20l%27air&amp;field-author=Alphonse%20Allais" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Alphonse%20Allais" type="text/html" rel="related" title="Alphonse Allais sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Alphonse%20Allais" type="text/html" rel="related" title="Alphonse Allais sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/AllaisAlphonse" type="text/html" rel="related" title="Alphonse Allais sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Alphonse%20Allais" type="text/html" rel="related" title="Alphonse Allais sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Alphonse%20Allais" type="text/html" rel="related" title="Alphonse Allais sur ISFDB" target="_blank" />
+</entry>

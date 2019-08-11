@@ -1,0 +1,102 @@
+@import url('/fr/global/styles/blackout.css');
+
+/*---- product header ----*/
+#productheader h2 a { width:168px; text-indent: 0; }
+
+/*---- layout ----*/
+html { background-color: #f2f2f2; }
+
+.content { background: #fff url(bg_gradient_20100727.gif) repeat-x top left; position: relative; font-size: 14px; margin: 0 auto; padding: 0 50px 0; width: 880px; -webkit-box-shadow: rgba(0,0,0,0.3) 0 1px 3px; -moz-box-shadow: rgba(0,0,0,0.3) 0 1px 3px; *border:1px solid; *border-color:#e5e5e5 #dbdbdb #d2d2d2; }
+
+.content .flushleft { position: relative; float: left; margin: 2px 20px 16px -50px; }
+.content .flushright { position: relative; float: right; margin: 2px -50px 16px 20px; }
+.content .left { float: left; }
+.content .right { float: right; }
+
+.content .back-to-top { padding-right: 12px; _margin-right: 0px; background: url(/euro/global/elements/arrows/uparrow_08c.gif) no-repeat right center; }
+
+.content h1,
+.content h2,
+.content p.intro { font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif; }
+.content p.intro { font-size: 18px; }
+
+.content h2 { font-size: 22px; font-weight: normal; }
+.content h3 { font-size: 14px; font-weight: 600; }
+
+.content p.intro a.more { background-image: url(/euro/global/elements/arrows/morearrow_big_08c.gif); background-position: right 30%; padding-right: 13px; }
+
+.section { border-top: 1px solid #e5e5e5; padding-top: 50px; padding-bottom: 40px; }
+.section.borderless { border: none; }
+.section h2 { margin-bottom: .5em; }
+.section h4 { margin-bottom: .1em; }
+
+.content a em.more { font-style:normal; color: #08c; white-space: nowrap; padding-right: 10px; background: url(/euro/global/elements/arrows/morearrow_08c.gif) no-repeat 100% 50%; zoom: 1; cursor: pointer; }
+.content a:hover em.more { text-decoration: underline; }
+
+.content .endState { background:none; }
+.content .vr .controllerPanel { display:none; }
+
+/* sosumi */
+.sosumi { width:400px; margin:0 auto; margin-bottom:10px !important; padding:14px 0px 0; }
+ol.sosumi { margin-left:auto; padding-left:0; }
+.sosumi a { color:#333; }
+.sosumi li { line-height:14px; padding-bottom:5px; margin-bottom:0; }
+ol.sosumi li { margin-left:2em; }
+
+
+/* footnotes */
+sup { font-size: 9px !important; }
+sup a { color:#76797c; }
+sup a:hover { color:#08c; text-decoration:none; }
+
+/* site-specific buy now promo footer */
+#promofooter #promos li.buy { position:relative; float:left; width:244px; padding-right:1px; margin-top:-16px; }
+#promofooter #promos li.buy { padding:0 0 0 1px; }
+#promofooter #promos li.buy .button a {float:left; margin-top:16px; }
+#promofooter #promos li.buy .product { float:right; margin: 10px 20px 2px -60px; _margin-right:8px; }
+#promofooter #promos li.buy .product.battery { border: 1px solid; }
+#promofooter #promos li.buy ul { list-style: none; margin:76px 0 0 0; *margin-top:30px; font-size: 11px; line-height: 16px; }
+#promofooter #promos li.buy ul.clear { clear:left; }
+#promofooter #promos li.buy ul li { margin-top:2px; padding-bottom:3px; color:#666; }
+
+/*---- overview ----*/
+#overview #hero { color: #fff; height: 426px; }
+#overview #hero h1 { padding-top: 130px; margin: 0; width: 530px; }
+#overview #hero p { width: 496px; }
+#overview #hero .battery { position: absolute; right: 81px; top: 32px; }
+
+#overview .enviro { padding-bottom: 0; }
+#overview .enviro .column.first { width: 425px; }
+#overview .enviro .column.last { width: 415px; }
+
+#overview .rechargeable { padding: 35px 0 0 0; }
+#overview .rechargeable .left { padding: 40px 50px 79px 41px; }
+#overview .rechargeable p { margin-right: 40px; }
+img.left { float:left; margin:2px 20px 16px 0; }
+
+#overview .loaded { clear: both; padding-top: 40px; }
+#overview .loaded .column.first { width: 600px; }
+#overview .loaded .column.last { margin-right: 10px; width: 247px; }
+#overview .loaded .callout { float: right; font-size: 12px; width: 185px; padding: 0 23px 0 29px; -webkit-box-shadow: rgba(0,0,0,0.2) 0 1px 2px; -moz-box-shadow: rgba(0,0,0,0.2) 0 1px 2px; background: transparent url(/euro/battery-charger/images/battery_bg_20100727.gif) repeat-x top left; border-left: 1px solid #e5e5e5; border-right: 1px solid #e5e5e5; border-bottom: 1px solid #b3b3b3; *border:1px solid #e4e4e4; }
+#overview .loaded .callout h3 { color: #333; font-size: 13px; padding-top: 20px; }
+#overview .loaded .callout img { margin: 14px 0 24px 0; }
+#overview .loaded .flushleft { margin-bottom: -10px; margin-top: -30px; }
+
+#overview .box { margin-top: 40px; margin-right: 5px; padding: 20px 20px 5px 25px; border: 1px solid #e0e0e0; color: #777; }
+#overview .box p { color: #666; }
+
+#overview .chart { background: url(/euro/battery-charger/images/bg_gradient_power.gif) repeat-x bottom left; height:227px; *height:227px; padding:0 16px 15px; border:1px solid #d6d6d6; color:#666; font-size:13px; -webkit-gradient(linear, left bottom, left top, from(#f0f0f0), color-stop(1, #ffffff)); *background:url(/imac/images/performance_chart_bg_20091020.gif) repeat-y top left; }
+#overview .chart h3 { font-size: 18px; font-weight: normal; margin: 20px 0 0 0; }
+#overview .chart p { color: #666; font-size: 11px; margin-right: 20px; }
+#overview .chart .bar p { border-right: 1px solid #e6e6e6; color: #666666; font-size: 10px; height: 48px; line-height: 1.3em; margin: 0 !important; padding: 6px 0 0 0; width: 63px; }
+#overview .chart .bar span { display: block; float: right; font-size: 15px; height: 28px; margin-right: -9px; padding: 12px 9px 0 0; position: relative; text-align: right; }
+#overview .chart .bar.first { background: url(bg_batterycharger_20100727.gif) 63px 9px no-repeat; }
+#overview .chart .bar.last { background: url(bg_batterycharger_3rdparty_20100727.gif) 63px 13px no-repeat; }
+#overview .chart .bar.last p { color: #999; }
+#overview .chart .bar.last span { padding-top: 15px; }
+
+/*LOCAL FIXES*/
+
+#promofooter #promos li.promo { min-height: 16em; }
+
+.sosumi { margin-bottom: 10px !important; margin-left: auto; margin-right: auto; margin-top: 0; padding: 18px 20px 0; width: 940px; }

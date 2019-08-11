@@ -1,0 +1,6 @@
+- name: Ebooks
+  link: /about.html
+- name: Apple
+  link: /others/apple.html
+- name: Windows
+  link: /others/bsod.html

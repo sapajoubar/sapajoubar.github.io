@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fille Aux Cheveux Noirs</title>
+  <id>urn:book:3285a553-d2a9-46ae-93c7-35a5eff10be6</id>
+  <updated>2018-06-05T05:23:10Z</updated>
+  <link href="./book_76.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Fille Aux Cheveux Noirs" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
+  <link href="../../Philip%20K.%20Dick/Fille%20Aux%20Cheveux%20Noirs%20%2876%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Philip%20K.%20Dick/Fille%20Aux%20Cheveux%20Noirs%20%2876%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Philip%20K.%20Dick/Fille%20Aux%20Cheveux%20Noirs%20%2876%29/Fille%20Aux%20Cheveux%20Noirs%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="174 KB" />
+  <author>
+    <name>Philip K. Dick</name>
+    <uri>../authors_0/authors_29_Page_1.xml</uri>
+  </author>
+  <published>2002-01-15T06:41:59Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Gallimard</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Science Fiction, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Première édition</p>
+    <h3 xmlns="">Quatrième de couverture</h3>
+    <p xmlns="">Elle est Emily Hnatt dan Le Dieu venu du Centaure, Donna
+    Hawthorne dans Substance Mort, Sherri Solvig dans Siva, Rybys
+    Romney dans L'invasion divine...Multiple, fantasmée, elle
+    traverse une existence marquée par des expériences
+    mystiques, le doute et l'abus de drogue. Ses cheveux sont noirs
+    comme la nuit ; figure invariante, démiurgique, elle
+    est chaque femme que Philip K. Dick a connue et aimée.La
+    fille aux cheveux noirs rassemble toutes les lettres qu'il a
+    adressées à cette mystérieuse muse, personnage
+    aussi réel que virtuel et raison d'être de son
+    travail littéraire. Au détour de cette correspondance
+    à sens unique, où se mêlent fiction et
+    autobiographie, apparaît en filigrane le portrait d'un
+    auteur qui fit de sa vie son meilleur roman.</p>
+    <h3 xmlns="">Biographie de l'auteur</h3>
+    <p xmlns="">Philip K. Dick (1928-1982) a laissé une oeuvre
+    essentielle, quia profondément marqué toute une
+    génération d'auteurs et de lecteurs. Parmi ses
+    nombreux chefs-d'oeuvre on peut citer Substance Mort, Ubik ou
+    La Trilogie divine, parue en un volume dans la collection Lunes
+    d'encre aux Editions Denoël. Plusieurs de ses récits
+    ont été adaptés au cinéma, notamment Blade
+    Runner et Total Recall.</p>
+  </content>
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Philip K. Dick" />
+  <link href="http://www.goodreads.com/book/title/Fille%20Aux%20Cheveux%20Noirs" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Fille%20Aux%20Cheveux%20Noirs" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Fille%20Aux%20Cheveux%20Noirs%20Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Fille%20Aux%20Cheveux%20Noirs&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DickPhilipK." type="text/html" rel="related" title="Philip K. Dick sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur ISFDB" target="_blank" />
+</entry>

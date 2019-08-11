@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Le Dernier Jour d'un Condamné</title>
+  <id>urn:book:574c2c2b-761d-4880-a7fd-72aa8e22a095</id>
+  <updated>2019-01-17T04:50:54Z</updated>
+  <link href="./book_105.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le Dernier Jour d'un Condamné" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="137 KB" />
+  <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format MOBI" displaysize="299 KB" />
+  <author>
+    <name>Victor Hugo</name>
+    <uri>../authors_0/authors_39_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Atramenta (www.atramenta.net)</dcterms:publisher>
+  <category term="Romans" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Romans, Lang:fr
+    </p>
+  </content>
+  <link href="../authors_0/authors_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Victor Hugo" />
+  <link href="http://www.goodreads.com/book/title/Le%20Dernier%20Jour%20d%27un%20Condamn%C3%A9" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Le%20Dernier%20Jour%20d%27un%20Condamn%C3%A9" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Le%20Dernier%20Jour%20d%27un%20Condamn%C3%A9%20Victor%20Hugo" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20Dernier%20Jour%20d%27un%20Condamn%C3%A9&amp;field-author=Victor%20Hugo" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Victor%20Hugo" type="text/html" rel="related" title="Victor Hugo sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Victor%20Hugo" type="text/html" rel="related" title="Victor Hugo sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/HugoVictor" type="text/html" rel="related" title="Victor Hugo sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Victor%20Hugo" type="text/html" rel="related" title="Victor Hugo sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Victor%20Hugo" type="text/html" rel="related" title="Victor Hugo sur ISFDB" target="_blank" />
+</entry>

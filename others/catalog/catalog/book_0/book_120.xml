@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Plateforme</title>
+  <id>urn:book:24cecfa0-9412-44da-98a4-c2654191ce4b</id>
+  <updated>2019-02-20T05:42:02Z</updated>
+  <link href="./book_120.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Plateforme" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Michel%20Houellebecq/plateforme%20%28120%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Michel%20Houellebecq/plateforme%20%28120%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Michel%20Houellebecq/plateforme%20%28120%29/plateforme%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="305 KB" />
+  <author>
+    <name>Michel Houellebecq</name>
+    <uri>../authors_0/authors_38_Page_1.xml</uri>
+  </author>
+  <published>2001-10-04T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Non lu" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Non lu, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      <p class="description">Ville de banlieue, chambre anonyme,
+      petit travail, salaire correct, peu d'intérêt, pas
+      d'amis, de vagues relations. Aucune envie, plus de
+      désir, quelques habitudes. C'est tout un monde de
+      désespoir et de non-sens qui s'ouvre en même temps
+      que commence ce roman des perdants et des abandonnés,
+      ceux qui ont érigé la routine en mode de vie, le
+      renoncement en principe, le défaitisme en valeur. On
+      pourrait en rester là : mais l'auteur va tellement loin
+      dans sa peinture clinique, crue, désenchantée,
+      qu'on relève la tête et le défi. Plus que son
+      antihéros, en tout cas : c'est du moins ce qu'il faut se
+      souhaiter...</p>
+      <p class="description">
+        Écrit avant Les Particules
+      élémentaires, le roman sulfureux qui fit la
+      notoriété de Michel Houellebecq, Extension du
+      domaine de la lutte est de la même veine : plume
+      acérée, aride, assassine. On en sort laminé,
+      mais bien déterminé à continuer la lutte, et
+      c'est là que tout le paradoxe de la littérature
+      prend un sens. Un roman saisissant à lire avec
+      précautions. --Karla Manuele
+        <br />
+        Quatrième de couverture
+      </p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Houellebecq" />
+  <link href="http://www.goodreads.com/book/title/Plateforme" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Plateforme" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Plateforme%20Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Plateforme&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/HouellebecqMichel" type="text/html" rel="related" title="Michel Houellebecq sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur ISFDB" target="_blank" />
+</entry>

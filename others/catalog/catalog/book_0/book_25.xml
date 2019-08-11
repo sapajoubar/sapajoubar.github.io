@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'Arrache-coeur</title>
+  <id>urn:book:d2ab7673-9a8d-4f3f-8fab-e1b2158415ef</id>
+  <updated>2018-02-24T11:11:48Z</updated>
+  <link href="./book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'Arrache-coeur" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/L%27Arrache-coeur%20-%20Boris%20Vian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="208 KB" />
+  <author>
+    <name>Boris Vian</name>
+    <uri>../authors_0/authors_19_Page_1.xml</uri>
+  </author>
+  <published>2010-10-29T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+  <category term="Roman" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Roman, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Vian, comme toujours, nous emmène dans son monde
+    absurde et imaginaire. Le Docteur Jacquemort, psychiatre,
+    arrive dans le village juste au moment de l'accouchement des
+    triplés de Clémentine. Jacquemort reste et s'installe
+    chez elle. En mal de psychanalyse, il part en quête d'un
+    sujet à étudier. Dans un style débordant
+    d'absurdité, mais plein de poésie, Vian décrit
+    les dures réalités de la vie jusqu'à la
+    nausée où Jacquemort se trouvera confronté
+    à l'amour maternel complètement abusif et tyrannique
+    de Clémentine pour ses trois enfants.</p>
+  </content>
+  <link href="../authors_0/authors_19_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Boris Vian" />
+  <link href="http://www.goodreads.com/book/title/L%27Arrache-coeur" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/L%27Arrache-coeur" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/L%27Arrache-coeur%20Boris%20Vian" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27Arrache-coeur&amp;field-author=Boris%20Vian" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Boris%20Vian" type="text/html" rel="related" title="Boris Vian sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Boris%20Vian" type="text/html" rel="related" title="Boris Vian sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/VianBoris" type="text/html" rel="related" title="Boris Vian sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Boris%20Vian" type="text/html" rel="related" title="Boris Vian sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Boris%20Vian" type="text/html" rel="related" title="Boris Vian sur ISFDB" target="_blank" />
+</entry>

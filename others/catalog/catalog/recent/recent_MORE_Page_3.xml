@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Plus anciens encore</title>
+  <id>Calibre2opds:recent:MORE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_MORE_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Plus anciens encore" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ajouts r�cents" />
+  <link href="./recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Plus anciens encore" />
+  <link href="../recent/recent_MORE_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="page suivante (4 sur 4)" />
+  <entry>
+    <title>Det_Entrez dans la danse [17 avril 2018]</title>
+    <id>calibre:book:43</id>
+    <updated>2018-04-17T05:50:57Z</updated>
+    <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/det_Entrez%20dans%20la%20danse%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="806 KB" />
+    <author>
+      <name>Jean Teulé</name>
+      <uri>../authors_0/authors_18_Page_1.xml</uri>
+    </author>
+    <published>2018-01-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Julliard</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="General" />
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Une étrange épidémie a eu lieu dernièrement Et s'est répandue dans Strasbourg De telle sorte que, dans leur folie, Beaucoup se mirent à danser Et ne cessèrent jour et nuit, pendant deux mois Sans interruption, Jusqu'à tomber inconscients. Beaucoup so...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Baise-moi (Littérature Française) (French Edition) [24 février 2018]</title>
+    <id>calibre:book:39</id>
+    <updated>2018-02-24T11:11:49Z</updated>
+    <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="293 KB" />
+    <author>
+      <name>Virginie Despentes</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2012-12-18T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Grasset</dcterms:publisher>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Chanson douce [24 février 2018]</title>
+    <id>calibre:book:42</id>
+    <updated>2018-02-24T11:11:49Z</updated>
+    <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/Chanson%20douce%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="355 KB" />
+    <author>
+      <name>Leïla Slimani</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2016-08-16T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Gallimard</dcterms:publisher>
+    <category term="Littérature française" />
+    <category term="Lang:fr" />
+    <summary>Lorsque Myriam, mère de deux jeunes enfants, décide malgré les réticences de son mari de reprendre son activité au sein d'un cabinet d'avocats, le couple se met à la recherche d'une nounou. Après un casting sévère, ils engagent Louise, qui conquiert ...</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les Chiennes savantes [24 février 2018]</title>
+    <id>calibre:book:41</id>
+    <updated>2018-02-24T11:11:49Z</updated>
+    <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/Les%20Chiennes%20savantes%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="268 KB" />
+    <author>
+      <name>Virginie Despentes</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2001-01-02T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Grasset</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>"La cabine no1 avait quelque chose du confessionnal, version luciférienne. Granules épais rouge sombre le long des murs, comme repeints d'un vomi de viande saignante. C'était une pièce étroite et haute de plafond, séparée en son milieu par un gros gr...</summary>
+    <link href="../book_0/book_41.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Je vais encore me faire des amis ! [24 février 2018]</title>
+    <id>calibre:book:40</id>
+    <updated>2018-02-24T11:11:49Z</updated>
+    <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="341 KB" />
+    <author>
+      <name>Mocky,Jean-Pierre</name>
+      <uri>../authors_0/authors_27_Page_1.xml</uri>
+    </author>
+    <published>2015-04-22T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>LE CHERCHE MIDI</dcterms:publisher>
+    <category term="Autobiographie" />
+    <category term="Lang:en" />
+    <summary>Jean-Pierre Mocky n’est pas seulement une légende du cinéma français : inclassable et rebelle, il ressemble aux personnages de ses films. Aujourd’hui, une fois n’est pas coutume, il troque sa caméra contre une plume bien affûtée… et tout le monde y p...</summary>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Arrache-coeur [24 février 2018]</title>
+    <id>calibre:book:25</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/L%27Arrache-coeur%20-%20Boris%20Vian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="208 KB" />
+    <author>
+      <name>Boris Vian</name>
+      <uri>../authors_0/authors_19_Page_1.xml</uri>
+    </author>
+    <published>2010-10-29T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Vian, comme toujours, nous emmène dans son monde absurde et imaginaire. Le Docteur Jacquemort, psychiatre, arrive dans le village juste au moment de l'accouchement des triplés de Clémentine. Jacquemort reste et s'installe chez elle. En mal de psychan...</summary>
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Croc-Blanc [24 février 2018]</title>
+    <id>calibre:book:26</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Jack%20London/Croc-Blanc%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Croc-Blanc%20%2826%29/Croc-Blanc%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="577 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>1907-02-14T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Action &amp; Aventure" />
+    <category term="Lang:fr" />
+    <summary>Croc-Blanc (1906) est un roman de l'écrivain américain Jack London. Le titre original est White Fang.
+L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman suit la meute d'où il vient et ses premières semaines de vie sauvage, ...</summary>
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dans le jardin de l'ogre (Gallimard, 28 août) [24 février 2018]</title>
+    <id>calibre:book:36</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="216 KB" />
+    <author>
+      <name>Leïla Slimani</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2014-08-27T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Editions Gallimard</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>"Une semaine qu'elle tient. Une semaine qu'elle n'a pas cédé. Adèle a été sage. En quatre jours, elle a couru trente-deux kilomètres. Elle est allée de Pigalle aux Champs-Élysées, du musée d'Orsay à Bercy. Elle a couru le matin sur les quais déserts....</summary>
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Décadence, Vie et mort du judéo-christianisme [24 février 2018]</title>
+    <id>calibre:book:31</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christiani%20-%20Michel%20Onfray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="834 KB" />
+    <author>
+      <name>Michel Onfray</name>
+      <uri>../authors_0/authors_15_Page_1.xml</uri>
+    </author>
+    <published>2017-01-10T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Flammarion</dcterms:publisher>
+    <category term="Lang:fr" />
+    <summary>Chacun connaît les pyramides égyptiennes, les temples grecs, le forum romain et convient que ces traces de civilisations mortes prouvent… que les civilisations meurent – donc qu’elles sont mortelles ! Notre civilisation judéo-chrétienne vieille de de...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Miroir des idées [24 février 2018]</title>
+    <id>calibre:book:28</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Michel%20Tournier/Le%20Miroir%20des%20idees%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Le%20Miroir%20des%20idees%20%2828%29/Le%20Miroir%20des%20idees%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="185 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-04-20T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Documents - Essais" />
+    <category term="Lang:fr" />
+    <summary>Quatrième de couvertureÉdition revue et augmentée par l’auteurIl faut deux jambes pour marcher, et pour bien saisir on se sert des deux mains. Cette évidence a été le point de départ de ce petit traité où les idées s’éclairent en s’opposant deux à de...</summary>
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Roi des aulnes [24 février 2018]</title>
+    <id>calibre:book:32</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Michel%20Tournier/Le%20Roi%20des%20aulnes%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Le%20Roi%20des%20aulnes%20%2832%29/Le%20Roi%20des%20aulnes%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="355 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2010-11-08T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Romans" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le tueur en pantoufles [24 février 2018]</title>
+    <id>calibre:book:35</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/Le%20tueur%20en%20pantoufles%20-%20Frederic%20Dard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="421 KB" />
+    <author>
+      <name>Frédéric Dard</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Fayard</dcterms:publisher>
+    <category term="Policier" />
+    <category term="Lang:fr" />
+    <category term="Frédéric DARD" />
+    <summary>Frédéric DARD [1951]: « Il ne connaissait pas la musique. Par ailleurs, comme il n'était ni trompettiste dans un jazz nègre, ni pédéraste, ni vedette de music-hall, ni américain, il ne pouvait espérer se lancer dans la littérature avec quelque chance...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Macbeth [24 février 2018]</title>
+    <id>calibre:book:34</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../William%20Shakespeare/Macbeth%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Macbeth%20%2834%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="176 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
+    </author>
+    <published>2012-03-10T08:05:13Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Marie d’en haut [24 février 2018]</title>
+    <id>calibre:book:29</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/Marie%20d%27en%20haut%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <author>
+      <name>Agnès Ledig</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2012-12-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebookdz.com</dcterms:publisher>
+    <category term="Littérature" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Monstespan [24 février 2018]</title>
+    <id>calibre:book:24</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <author>
+      <name>Jean Teulé</name>
+      <uri>../authors_0/authors_18_Page_1.xml</uri>
+    </author>
+    <published>2007-12-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Roman Historique" />
+    <category term="Lang:fr" />
+    <summary>En 1663, Louis-Henri de Montespan, jeune marquis désargenté, épouse la somptueuse Françoise « Athénaïs » de Rochechouart. Lorsque cette dernière accède à la charge de dame de compagnie de la reine, ses charmes ne tardent pas à éblouir le monarque à q...</summary>
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Muchachas 1 [24 février 2018]</title>
+    <id>calibre:book:37</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/Muchachas%201%20-%20Katherine%20Pancol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="311 KB" />
+    <author>
+      <name>Katherine Pancol</name>
+      <uri>../authors_0/authors_26_Page_1.xml</uri>
+    </author>
+    <published>2014-02-11T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Albin Michel</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="Littérature" />
+    <category term="Lang:fr" />
+    <summary>Les filles sont partout dans ce roman.Elles mènent la danse.De New York à Paris, de la Bourgogne à Londres ou à Miami.Des filles qui inventent, s'enflamment, aiment.Des filles qui se battent pour la vie.Et les hommes ?Ils sont là aussi.Mais ce sont l...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Petites proses [24 février 2018]</title>
+    <id>calibre:book:27</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/Petites%20proses%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="218 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-08-30T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sur les cimes du désespoir [24 février 2018]</title>
+    <id>calibre:book:33</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/Sur%20les%20cimes%20du%20desespoir%20-%20Emil%20Cioran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="181 KB" />
+    <author>
+      <name>Emil Cioran</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>LGF (1991)</dcterms:publisher>
+    <category term="Essai" />
+    <category term="Essais et philosophie" />
+    <category term="Lang:fr" />
+    <summary>(édition originale de 1934)Une constatation que je peux vérifier, à mon grand regret, à chaque instant: seuls sont heureux ceux qui ne pensent jamais, autrement dit ceux qui ne pensent que le strict minimum nécessaire pour vivre. La vraie pensée ress...</summary>
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vendredi ou la vie sauvage [24 février 2018]</title>
+    <id>calibre:book:38</id>
+    <updated>2018-02-24T11:11:49Z</updated>
+    <link href="../../Michel%20Tournier/Vendredi%20ou%20la%20vie%20sauvage%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Vendredi%20ou%20la%20vie%20sauvage%20%2838%29/Vendredi%20ou%20la%20vie%20sauvage%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-02-05T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Jeunesse" />
+    <category term="Lang:fr" />
+    <summary>Vendredi ou la Vie sauvage est un roman de Michel Tournier paru en 1971. Vendredi ou la Vie sauvage constitue l'adaptation pour la jeunesse de son livre Vendredi ou les Limbes du Pacifique. Vendredi ou la Vie Sauvage met en scène Robinson, naufragé s...</summary>
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vernon Subutex 3 [24 février 2018]</title>
+    <id>calibre:book:30</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/Vernon%20Subutex%203%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="735 KB" />
+    <author>
+      <name>Virginie Despentes</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2017-05-23T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Grasset</dcterms:publisher>
+    <category term="Littérature française" />
+    <category term="Lang:fr" />
+    <summary>Viriginie Despentes conclut sa trilogie "Vernon Subutex" (Grasset) avec un 3e opus plus dark que jamais. On y retrouve Vernon, le disquaire gourou qui avait agrégé autour de lui et de sa musique une petite communauté joyeuse et pacifique. La bande po...</summary>
+    <link href="../book_0/book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Avenue Des Géants [24 février 2018]</title>
+    <id>calibre:book:23</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/Avenue%20Des%20Geants%20-%20Marc%20Dugain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="631 KB" />
+    <author>
+      <name>Marc Dugain</name>
+      <uri>../authors_0/authors_17_Page_1.xml</uri>
+    </author>
+    <published>2012-04-11T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Al Kenner serait un adolescent ordinaire s'il ne mesurait pas près de 2,20 mètres et si son QI n'était pas supérieur à celui d'Einstein. Sa vie bascule par hasard le jour de l'assassinat de John Fitzgerald Kennedy. Plus jamais il ne sera le même. Dés...</summary>
+    <link href="../book_0/book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gaspard, Melchior Et Balthazar [24 février 2018]</title>
+    <id>calibre:book:17</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/Gaspard%2C%20Melchior%20Et%20Balthazar%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Gaspard%2C%20Melchior%20Et%20Balthazar%20%2817%29/Gaspard%2C%20Melchior%20Et%20Balthazar%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="236 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2012-01-06T09:56:43Z</published>
+    <dcterms:publisher>Gallimard</dcterms:publisher>
+    <category term="Aventure" />
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gilles &amp; Jeanne [24 février 2018]</title>
+    <id>calibre:book:13</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/Gilles%20%26%20Jeanne%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="143 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-09-30T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Folio</dcterms:publisher>
+    <category term="Histoire" />
+    <category term="Lang:fr" />
+    <summary>Comment Jeanne d’Arc, si lucide, au bon sens si fort, a-t-elle pu accepter pour compagnon ce Gilles de Rais dont la monstruosité continue à révolter et à fasciner, un demi-millénaire après son supplice ? À cette question – toujours esquivée ou laissé...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Journal Extime [24 février 2018]</title>
+    <id>calibre:book:18</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/Journal%20Extime%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="156 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2012-04-27T01:05:46Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Auto-biographie" />
+    <category term="Lang:fr" />
+    <summary>Les douze mois de l’année jalonnés par quelque quatre cents notules, observations, gloses, citations et autres historiettes.</summary>
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Goutte d'or [24 février 2018]</title>
+    <id>calibre:book:14</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/La%20Goutte%20d%27or%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/La%20Goutte%20d%27or%20%2814%29/La%20Goutte%20d%27or%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="249 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-05-10T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Romans" />
+    <category term="Lang:fr" />
+    <summary>"Donne-moi la photo." Idriss gardait ses chèvres et ses moutons non loin de l'oasis de Tabelbala quand une Land Rover a surgi. Une jeune femme blonde aux jambes nues a pris en photo le petit berger saharien. Sa photo, elle la lui enverra dès son reto...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MORE_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (2 of 4)" />
+  <link href="../recent/recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 4)" />
+</feed>

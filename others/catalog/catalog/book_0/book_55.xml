@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dr Bloodmoney</title>
+  <id>urn:book:aaffce6e-5b0c-4041-a769-c36544299406</id>
+  <updated>2018-06-05T04:28:31Z</updated>
+  <link href="./book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Dr Bloodmoney" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
+  <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/Dr%20Bloodmoney%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+  <author>
+    <name>Philip K. Dick</name>
+    <uri>../authors_0/authors_29_Page_1.xml</uri>
+  </author>
+  <published>1965-01-04T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ***
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Science Fiction, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <h3 xmlns="">Quatrième de couverture</h3>
+    <p xmlns="">Les bombes étaient finalement tombées. Malgré
+    l'équilibre de la terreur, un jour un homme avait
+    été assez fou pour appuyer sur le bouton.</p>
+    <p xmlns="">Cependant, dans ce coin perdu de Californie, la vie
+    continuait: pour Bonny Keller que six ans d'analyse n'avait pas
+    réussi à rééquilibrer; pour Bruno
+    Bluthgeld, l'un des responsables de la grande Catastrophe ;
+    pour Hoppy, le phocomèle, l'ancien bébé
+    thalidomide... doté de pouvoirs supranormaux.</p>
+    <p xmlns="">
+      Elle continuait pour Walt Dangerfield, l'astronaute
+    expédié vers Mars, mais dont la cabine s'était
+    satellisée autour de la Terre. Là, à l'abri des
+    radiations, il s'était transformé en une sorte de
+    superdisc-jockey dont l'écoute était devenue une
+    drogue pour tous les survivants. Mais peut-on réellement
+    survivre dans un monde radioactif ?
+      <em>--Ce texte fait référence à une édition
+    épuisée ou non disponible de ce titre.</em>
+    </p>
+    <h3 xmlns="">Biographie de l'auteur</h3>
+    <p xmlns="">
+      Philip K. Dick Philip K. Dick a obtenu en 1962 le Prix Hugo.
+    Il est resté jusqu'à sa mort en 1982 au premier rang
+    des auteurs de S-F avec Loterie Solaire, Dr Bloodmoney, L'oeil
+    dans le ciel, etc.
+      <em>--Ce texte fait référence à une édition
+    épuisée ou non disponible de ce titre.</em>
+    </p>
+  </content>
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Philip K. Dick" />
+  <link href="http://www.goodreads.com/book/title/Dr%20Bloodmoney" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Dr%20Bloodmoney" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Dr%20Bloodmoney%20Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Dr%20Bloodmoney&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DickPhilipK." type="text/html" rel="related" title="Philip K. Dick sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La Vigie Et Autres Nouvelles</title>
+  <id>urn:book:5c6f7ac5-fdb6-4fb2-9d87-27f729420cc0</id>
+  <updated>2019-05-26T02:28:57Z</updated>
+  <link href="./book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La Vigie Et Autres Nouvelles" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/La%20Vigie%20Et%20Autres%20Nouvelles%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="187 KB" />
+  <author>
+    <name>Thierry Jonquet</name>
+    <uri>../authors_0/authors_44_Page_1.xml</uri>
+  </author>
+  <published>1998-09-05T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">La nouvelle est rare chez Thierry
+    Jonquet. En voici neuf, presque toutes - contre une quinzaine
+    de romans, noirs pour la plupart. Mais il y trouve un espace
+    d'écriture sans contraintes dont il s'empare avec une
+    jubilation féroce. Place au baroque et au mélange des
+    genres, au fantastique, à l'anticipation, à
+    l'exercice de style au vitriol, au portrait cruel et rigolard,
+    au plaisir de la chute qui secoue son lecteur. Visite
+    guidée : l'Administration dans ses pompes, les tour
+    operators de bientôt, les univers concentrationnaires de
+    demain, le Lucifer Paramount Fantastic Show, le nettoyage
+    ethnique des Buttes-Chaumont... Si le parcours de ces fables
+    noires fait froid dans le dos, ce n'est pas que l'auteur est
+    atrabilaire. Indigné, révolté, acerbe, ça
+    oui. Mais aussi conscient que la bêtise crée
+    l'horreur dès qu'elle a du pouvoir, et qu'en font les
+    frais ceux que la vie dépouille.</p>
+  </content>
+  <link href="../authors_0/authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Thierry Jonquet" />
+  <link href="http://www.goodreads.com/book/title/La%20Vigie%20Et%20Autres%20Nouvelles" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/La%20Vigie%20Et%20Autres%20Nouvelles" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/La%20Vigie%20Et%20Autres%20Nouvelles%20Thierry%20Jonquet" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20Vigie%20Et%20Autres%20Nouvelles&amp;field-author=Thierry%20Jonquet" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/JonquetThierry" type="text/html" rel="related" title="Thierry Jonquet sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Collection: Frédéric DARD</title>
+  <id>Calibre2opds:authors:24series:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_24_series_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Collection: Frédéric DARD" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="./authors_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Frédéric Dard" />
+  <entry>
+    <title>1951 - Le tueur en pantoufles</title>
+    <id>calibre:book:35</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/Le%20tueur%20en%20pantoufles%20-%20Frederic%20Dard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="421 KB" />
+    <author>
+      <name>Frédéric Dard</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Fayard</dcterms:publisher>
+    <category term="Policier" />
+    <category term="Lang:fr" />
+    <category term="Frédéric DARD" />
+    <summary>Frédéric DARD [1951]: « Il ne connaissait pas la musique. Par ailleurs, comme il n'était ni trompettiste dans un jazz nègre, ni pédéraste, ni vedette de music-hall, ni américain, il ne pouvait espérer se lancer dans la littérature avec quelque chance...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

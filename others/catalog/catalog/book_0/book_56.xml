@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Le Maître du Haut Château</title>
+  <id>urn:book:e9eeb667-b9ae-480e-bf1b-5b7cd30d05bd</id>
+  <updated>2018-06-05T04:35:49Z</updated>
+  <link href="./book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le Maître du Haut Château" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
+  <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/Le%20Maitre%20du%20Haut%20Chateau%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="386 KB" />
+  <author>
+    <name>Philip K. Dick</name>
+    <uri>../authors_0/authors_29_Page_1.xml</uri>
+  </author>
+  <published>1962-01-04T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="SF" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      SF, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      <div style="text-align: justify;">1948, fin de la Seconde
+      Guerre mondiale et capitulation des Alliés ; le Reich et
+      l'Empire du Soleil levant se partagent le monde. Vingt ans
+      plus tard, dans les Etats-Pacifiques d'Amérique sous
+      domination nippone, la vie a repris son cours. L'occupant a
+      apporté avec lui sa philosophie et son art de vivre. A
+      San Francisco, le Yi King, ou Livre des mutations, est devenu
+      un guide spirituel pour de nombreux Américains, tel
+      Robert Chidan, ce petit négociant en objets de
+      collection made in USA. Certains Japonais, comme M. Tagomi,
+      grand amateur de culture américaine d'avant-guerre,
+      dénichent chez lui d'authentiques merveilles.
+      D'ailleurs, que pourrait-il offrir à M. Baynes, venu
+      spécialement de Suède pour conclure un contrat
+      commercial avec lui ? Seul le Yi King le sait. Tandis qu'un
+      autre livre, qu'on s'échange sous le manteau, fait
+      également beaucoup parler de lui : Le poids de la
+      sauterelle raconte un monde où les Alliés, en 1945,
+      auraient gagné la Seconde Guerre mondiale...</div>
+      <div style="text-align: justify;">
+        <br />
+      </div>
+      <div style="text-align: justify;">
+        <a href="http://www.amazon.fr/Le-ma%C3%AEtre-du-haut-ch%C3%A2teau/dp/2290035475">http://www.amazon.fr/Le-maître-du-haut-château/dp/2290035475</a>
+        <br />
+      </div>
+    </div>
+  </content>
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Philip K. Dick" />
+  <link href="http://www.goodreads.com/book/title/Le%20Ma%C3%AEtre%20du%20Haut%20Ch%C3%A2teau" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Le%20Ma%C3%AEtre%20du%20Haut%20Ch%C3%A2teau" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Le%20Ma%C3%AEtre%20du%20Haut%20Ch%C3%A2teau%20Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20Ma%C3%AEtre%20du%20Haut%20Ch%C3%A2teau&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DickPhilipK." type="text/html" rel="related" title="Philip K. Dick sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur ISFDB" target="_blank" />
+</entry>

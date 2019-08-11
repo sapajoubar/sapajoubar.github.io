@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sérotonine</title>
+  <id>urn:book:b07414df-290e-49d4-b5b2-bcb31dbc58a5</id>
+  <updated>2019-01-17T04:36:48Z</updated>
+  <link href="./book_104.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sérotonine" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/Serotonine%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="316 KB" />
+  <author>
+    <name>Michel Houellebecq</name>
+    <uri>../authors_0/authors_38_Page_1.xml</uri>
+  </author>
+  <published>2019-01-02T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Flammarion</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="amazon" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Fiction, General, amazon, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">"Mes croyances sont limitées, mais
+    elles sont violentes. Je crois à la possibilité du
+    royaume restreint. Je crois à l’amour" écrivait
+    récemment Michel Houellebecq. Le narrateur de
+    Sérotonine approuverait sans réserve. Son récit
+    traverse une France qui piétine ses traditions, banalise
+    ses villes, détruit ses campagnes au bord de la
+    révolte. Il raconte sa vie d’ingénieur
+    agronome, son amitié pour un aristocrate agriculteur (un
+    inoubliable personnage de roman – son double
+    inversé), l’échec des idéaux de leur
+    jeunesse, l’espoir peut-être insensé de
+    retrouver une femme perdue. Ce roman sur les ravages d’un
+    monde sans bonté, sans solidarité, aux mutations
+    devenues incontrôlables, est aussi un roman sur le remords
+    et le regret.</p>
+  </content>
+  <link href="../authors_0/authors_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Houellebecq" />
+  <link href="http://www.goodreads.com/book/title/S%C3%A9rotonine" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/S%C3%A9rotonine" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/S%C3%A9rotonine%20Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=S%C3%A9rotonine&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/HouellebecqMichel" type="text/html" rel="related" title="Michel Houellebecq sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur ISFDB" target="_blank" />
+</entry>

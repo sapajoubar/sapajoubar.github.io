@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par D</title>
+  <id>Calibre2opds:allbooks:D</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par D" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <entry>
+    <title>Dans le jardin de l'ogre (Gallimard, 28 août)</title>
+    <id>calibre:book:36</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="216 KB" />
+    <author>
+      <name>Leïla Slimani</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2014-08-27T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Editions Gallimard</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>"Une semaine qu'elle tient. Une semaine qu'elle n'a pas cédé. Adèle a été sage. En quatre jours, elle a couru trente-deux kilomètres. Elle est allée de Pigalle aux Champs-Élysées, du musée d'Orsay à Bercy. Elle a couru le matin sur les quais déserts....</summary>
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Debout-payé</title>
+    <id>calibre:book:117</id>
+    <updated>2019-01-24T11:58:19Z</updated>
+    <link href="../../Gauz/Debout-paye%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gauz/Debout-paye%20%28117%29/Debout-paye%20-%20Gauz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="375 KB" />
+    <author>
+      <name>Gauz</name>
+      <uri>../authors_0/authors_40_Page_1.xml</uri>
+    </author>
+    <published>2015-10-27T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Le Livre de Poche</dcterms:publisher>
+    <category term="Social Science" />
+    <category term="Essays" />
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="Lang:fr" />
+    <summary>Debout-payé est le roman d’Ossiri, étudiant ivoirien devenu vigile après avoir atterri sans papiers à Paris en 1990. C’est un chant en l’honneur d’une famille, d’une mère et de la communauté africaine avec ses travers, ses souffrances et ses différen...</summary>
+    <link href="../book_0/book_117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Dernier Jour d'un Condamné</title>
+    <id>calibre:book:105</id>
+    <updated>2019-01-17T04:50:54Z</updated>
+    <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="137 KB" />
+    <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format MOBI" displaysize="299 KB" />
+    <author>
+      <name>Victor Hugo</name>
+      <uri>../authors_0/authors_39_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Atramenta (www.atramenta.net)</dcterms:publisher>
+    <category term="Romans" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_105.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Deus Irae</title>
+    <id>calibre:book:65</id>
+    <updated>2018-06-05T05:23:09Z</updated>
+    <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/Deus%20Irae%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="273 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Roger Zelazny</name>
+      <uri>../authors_0/authors_36_Page_1.xml</uri>
+    </author>
+    <published>1976-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Fruit d'une collaboration d'une douzaine d'années, Deus irae est un voyage halluciné dans les univers conjugués de deux géants de la science-fiction.Quatrième de couvertureAprès l'holocauste qui a mis fin à la Troisième Guerre mondiale, les rares sur...</summary>
+    <link href="../book_0/book_65.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dr Bloodmoney</title>
+    <id>calibre:book:55</id>
+    <updated>2018-06-05T04:28:31Z</updated>
+    <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/Dr%20Bloodmoney%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1965-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Quatrième de couvertureLes bombes étaient finalement tombées. Malgré l'équilibre de la terreur, un jour un homme avait été assez fou pour appuyer sur le bouton. Cependant, dans ce coin perdu de Californie, la vie continuait: pour Bonny Keller que six...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Du Passé Faisons Table Rase</title>
+    <id>calibre:book:132</id>
+    <updated>2019-05-26T02:27:50Z</updated>
+    <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/Du%20Passe%20Faisons%20Table%20Rase%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="196 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2006-09-14T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Le passé n'oublie rien. Il y aura toujours un ancien pour se souvenir. Une femme pour témoigner. Un enfant qui racontera... Dix ans après les faits, en France, dans les années quatre-vingt, le seul homme à " savoir " voit ressurgir le risque que la v...</summary>
+    <link href="../book_0/book_132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Décadence, Vie et mort du judéo-christianisme</title>
+    <id>calibre:book:31</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christiani%20-%20Michel%20Onfray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="834 KB" />
+    <author>
+      <name>Michel Onfray</name>
+      <uri>../authors_0/authors_15_Page_1.xml</uri>
+    </author>
+    <published>2017-01-10T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Flammarion</dcterms:publisher>
+    <category term="Lang:fr" />
+    <summary>Chacun connaît les pyramides égyptiennes, les temples grecs, le forum romain et convient que ces traces de civilisations mortes prouvent… que les civilisations meurent – donc qu’elles sont mortelles ! Notre civilisation judéo-chrétienne vieille de de...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le dieu venu du Centaure</title>
+    <id>calibre:book:83</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20dieu%20venu%20du%20Centaure%20%2883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20dieu%20venu%20du%20Centaure%20%2883%29/Le%20dieu%20venu%20du%20Centaure%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="301 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1965-01-11T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Leo Bulero, pourvoyeur du D-Liss, une formidable drogue, règne sans partage sur les délires d'une humanité devenue presque folle. Aux télépathes clairvoyants ou aux colons misérables exilés sur mars, il dispense une fuite salvatrice. Tout se gâte cep...</summary>
+    <link href="../book_0/book_83.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

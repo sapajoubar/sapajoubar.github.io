@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mangez-le si vous voulez</title>
+  <id>urn:book:0530d3ec-8571-443b-8006-d7a03c14efe1</id>
+  <updated>2018-04-17T06:01:26Z</updated>
+  <link href="./book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Mangez-le si vous voulez" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/Mangez-le%20si%20vous%20voulez%20-%20Teule%2CJean.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="290 KB" />
+  <author>
+    <name>Teulé,Jean</name>
+    <uri>../authors_0/authors_28_Page_1.xml</uri>
+  </author>
+  <published>2009-05-13T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="Roman" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Roman, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      <div style="text-align: justify;">Nul n'est à l'abri de
+      l'abominable. Nous sommes tous capables du pire ! Le mardi 16
+      août 1870, Alain de Monéys, jeune périgourdin,
+      sort du domicile de ses parents pour se rendre à la
+      foire de Hautefaye, le village voisin. C est un jeune homme
+      plaisant, aimable et intelligent. Il compte acheter une
+      génisse pour une voisine indigente et trouver un
+      couvreur pour réparer le toit de la grange d'un voisin
+      sans ressources. Il veut également profiter de
+      l'occasion pour promouvoir son projet d'assainissement des
+      marais de la région. </div>
+      <div style="text-align: justify;">Il arrive à quatorze
+      heures à l entrée de la foire. Deux heures plus
+      tard, la foule devenue folle l'aura lynché,
+      torturé, brûlé vif et même mangé.
+      Comment une telle horreur est-elle possible ? Comment une
+      population paisible (certes angoissée par la guerre
+      contre l'Allemagne et sous la menace d'une sécheresse
+      exceptionnelle) peut-elle être saisie en quelques
+      minutes par une telle frénésie barbare ? Au
+      prétexte d une phrase mal comprise et d'une accusation
+      d'espionnage totalement infondée, six cents personnes
+      tout à fait ordinaires vont pendant deux heures se
+      livrer aux pires atrocités. Rares sont celles qui
+      tenteront de s'interposer. Le curé et quelques amis du
+      jeune homme s'efforceront d'arracher la malheureuse victime
+      des mains de ces furieux et seule Anna, une jeune fille
+      amoureuse, risquera sa vie pour le sauver. </div>
+      <div style="text-align: justify;">
+        <a href="http://www.amazon.fr/Mangez-vous-voulez-Jean-Teul%C3%A9/dp/226001772X">http://www.amazon.fr/Mangez-vous-voulez-Jean-Teul%C3%A9/dp/226001772X</a>
+        <br />
+      </div>
+    </div>
+  </content>
+  <link href="../authors_0/authors_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Teulé,Jean" />
+  <link href="http://www.goodreads.com/book/title/Mangez-le%20si%20vous%20voulez" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Mangez-le%20si%20vous%20voulez" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Mangez-le%20si%20vous%20voulez%20Teul%C3%A9%2CJean" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Mangez-le%20si%20vous%20voulez&amp;field-author=Teul%C3%A9%2CJean" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Teul%C3%A9Jean" type="text/html" rel="related" title="Teulé,Jean sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur ISFDB" target="_blank" />
+</entry>

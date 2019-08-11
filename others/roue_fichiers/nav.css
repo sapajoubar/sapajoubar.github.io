@@ -1,0 +1,70 @@
+/*Navigation*/
+#globalheader #globalnav li a span {
+	background-image:url(/fr/global/nav/images/globalnav_text.png) !important;
+	_background-image:url(/fr/global/nav/images/globalnav_text.gif) !important;
+}
+
+
+/* PIPED LINKS */
+.piped { display: block; zoom: 1; }
+.piped:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.piped li { float: left; display: inline; }
+.piped a { border-left: 1px solid #797c80; padding: 0 0 0 0.75em; margin-left: 0.75em; }
+.piped a.first { border-left: 0 !important; padding-left: 0; margin-left: 0 !important; }
+
+
+/*--- Global Footer (legacy) ---*/
+#globalfooter .gf-buy { float: left; width: 60%; margin: 18px 0 9px; }
+#globalfooter .gf-links { float: right; margin: 18px 0 9px; }
+#globalfooter .gf-links a { padding: 0 10px; white-space: nowrap; }
+#globalfooter .gf-links a.last { padding-right: 0; _float: none !important; width: auto !important; }
+
+/*--- Global Footer ---*/
+#globalfooter { width: 980px; color: #888; font-size: 10px; margin: 18px auto; padding-bottom: 36px; text-align: left !important; }
+#globalfooter a { color: #08c; }
+#globalfooter p { margin-bottom: 1em; }
+#globalfooter p.gf-buy { float: left; width: 52%; margin: 18px 0 9px 3px; }
+#globalfooter ul.piped a { padding: 0 0 0 1.5em; margin-left: 1.5em; border-left: 1px solid #d0d0d0; }
+#globalfooter .gf-links { float: right; margin: 18px 3px 9px 0; }
+#globalfooter .gf-sosumi { clear: both; width: 100%; border-top: 1px solid #ddd; padding-top: 9px; }
+#globalfooter .gf-sosumi a { padding: 0 10px; }
+#globalfooter .gf-sosumi p { float: left; margin-left: 3px; }
+#globalfooter form { margin: 18px 10px; }
+#globalfooter .search-wrapper { margin: 0 auto; }
+#globalfooter .search-wrapper input.prettysearch { margin-left: 10px; }
+#globalfooter ul.piped a.contact_us { padding-right: 1.5em; border-right: 1px solid #d0d0d0; }
+#globalfooter ul.piped a.choose { margin-left: 0; border: 0; }
+#globalfooter ul.piped a.choose img { vertical-align: middle; margin-top: -5px; position: relative; border: 0px !important;}
+
+/* NEW BREADCRUMBS */
+#breadcrumbs { font-size: 11px; color: #444; background: url(/euro/global/nav/images/breadcrumb_bg.png) no-repeat;  behavior: url(/euro/global/scripts/0607/lib/iepngfix.htc); overflow: hidden; height: 36px; line-height: 34px; font-weight: bold; text-shadow: 2px 2px 1px #fff; }
+#breadcrumbs a { color: #444; text-decoration: none; float: left; padding: 0 10px; position: relative; margin-left: -10px; _cursor: hand; }
+#breadcrumbs a:hover { color: #333; text-decoration: none !important; }
+#breadcrumbs a.home { margin: 0; width: 15px; height: 0; padding-top: 36px; overflow: hidden; }
+#breadcrumbs span { float: left; width: 9px; margin: 0 10px 0 0; position: relative; height: 0; padding-top: 34px; margin-top: 1px; overflow: hidden; background: url(/euro/global/nav/images/breadcrumb_sep.png) no-repeat; behavior: url(/euro/global/scripts/0607/lib/iepngfix.htc); }
+
+/* DIRECTORY NAV */
+#directorynav { font-size: 11px; background: url(/euro/global/nav/images/directory_bg.png) repeat-y; border-top: 1px solid #e5e5e5; float: left; width: 100%; position: relative; margin-top: -4px; }
+#directorynav .column { width: 122px; padding: 9px 0 0 18px; }
+#directorynav .column.last { float: left !important; padding-right: 0; }
+#directorynav h3 { color: #444; font-weight: bold; }
+#directorynav h3.standalone { margin-bottom: 18px; }
+#directorynav a { display: block; _zoom: 1; }
+#directorynav a:link,
+#directorynav a:visited { color: #777; text-decoration: none; }
+#directorynav h3.standalone a:link,
+#directorynav h3.standalone a:visited { color: #444; }
+#directorynav a:hover { color: #333 !important; text-decoration: none !important; }
+#directorynav .capbottom { clear: both; position: relative; top: 5px; _top: 12px; height: 5px; width: 980px; background: url(/euro/global/nav/images/directory_capbg.png) no-repeat; behavior: url(/euro/global/scripts/0607/lib/iepngfix.htc); }
+
+/* DIRECTORY NAV CUSTOM WIDTHS */
+.gf-900 #directorynav .column { width: 120px; }
+.gf-980 #directorynav.mac #dn-colb { width: 100px; }
+.gf-980 #directorynav.mac #dn-colg { width: 130px; }
+#directorynav.ipoditunes .column { width: 178px; }
+#directorynav.ipoditunes .productred { font-size: 9px; white-space: nowrap; }
+#directorynav.iphone .column {width:174px;}
+.gf-980 #directorynav.mac #dn-cola { width: 145px; }
+.gf-980 #directorynav.mac #dn-cold { width: 110px; }
+#directorynav ul { margin-bottom: 9px; }
+

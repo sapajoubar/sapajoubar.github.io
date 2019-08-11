@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Debout-payé</title>
+  <id>urn:book:e27e3cbd-c94e-407e-876c-a4d96f7af8d7</id>
+  <updated>2019-01-24T11:58:19Z</updated>
+  <link href="./book_117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Debout-payé" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Gauz/Debout-paye%20%28117%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Gauz/Debout-paye%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Gauz/Debout-paye%20%28117%29/Debout-paye%20-%20Gauz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="375 KB" />
+  <author>
+    <name>Gauz</name>
+    <uri>../authors_0/authors_40_Page_1.xml</uri>
+  </author>
+  <published>2015-10-27T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Le Livre de Poche</dcterms:publisher>
+  <category term="Social Science" />
+  <category term="Essays" />
+  <category term="Political Science" />
+  <category term="General" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Social Science, Essays, Political Science, General, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">Debout-payé est le roman
+    d’Ossiri, étudiant ivoirien devenu vigile après
+    avoir atterri sans papiers à Paris en 1990. C’est un
+    chant en l’honneur d’une famille, d’une
+    mère et de la communauté africaine avec ses travers,
+    ses souffrances et ses différences. C’est
+    l’histoire politique d’un immigré et de son
+    regard sur notre pays, à travers l’évolution du
+    métier de vigile, de la Françafrique
+    jusqu’à l’après 11-Septembre. C’est
+    enfin le recueil des choses vues et entendues par
+    l’auteur lorsqu’il travaillait au Camaïeu de
+    Bastille et au Sephora des Champs-Élysées.Une satire
+    à la fibre sociale et au regard aigu sur les dérives
+    du monde marchand contemporain. Debout-payé est une de ces
+    imprévisibles pépites que chacun voudrait être
+    le premier à découvrir.Marguerite Baux, Elle.Une
+    écriture nouvelle et audacieuse, à la fois abrupte et
+    ciselée, acerbe et chaleureuse.Christine Legrand, La
+    Croix.</p>
+  </content>
+  <link href="../authors_0/authors_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Gauz" />
+  <link href="http://www.goodreads.com/book/title/Debout-pay%C3%A9" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Debout-pay%C3%A9" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Debout-pay%C3%A9%20Gauz" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Debout-pay%C3%A9&amp;field-author=Gauz" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Gauz" type="text/html" rel="related" title="Gauz sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Gauz" type="text/html" rel="related" title="Gauz sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Gauz" type="text/html" rel="related" title="Gauz sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gauz" type="text/html" rel="related" title="Gauz sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gauz" type="text/html" rel="related" title="Gauz sur ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lovecraft, Howard Phillips</title>
+  <id>Calibre2opds:authors:33</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lovecraft, Howard Phillips" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>L'Affaire Charles Dexter Ward</title>
+    <id>calibre:book:51</id>
+    <updated>2018-05-11T03:50:33Z</updated>
+    <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/L%27Affaire%20Charles%20Dexter%20Ward%20-%20Lovecraft%2C%20Howard%20Phillips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="377 KB" />
+    <author>
+      <name>Lovecraft, Howard Phillips</name>
+      <uri>../authors_0/authors_33_Page_1.xml</uri>
+    </author>
+    <published>2010-10-30T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Horreur" />
+    <category term="Nouvelles" />
+    <category term="Lang:fr" />
+    <summary>Providence, États-Unis, 1918. Charles Dexter Ward est un jeune homme passionné d'archéologie, d'histoire, et de généalogie. C'est par le biais de cette dernière que Ward se découvre un ancêtre nommé Joseph Curwen, qui avait fui la ville de Salem lors...</summary>
+    <link href="../book_0/book_51.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

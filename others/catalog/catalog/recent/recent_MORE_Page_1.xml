@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Plus anciens encore</title>
+  <id>Calibre2opds:recent:MORE</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Plus anciens encore" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ajouts r�cents" />
+  <link href="../recent/recent_MORE_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="page suivante (2 sur 4)" />
+  <entry>
+    <title>Blade Runner [5 juin 2018]</title>
+    <id>calibre:book:92</id>
+    <updated>2018-06-05T05:23:11Z</updated>
+    <link href="../../Philip%20K.%20Dick/Blade%20Runner%20%2892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Blade%20Runner%20%2892%29/Blade%20Runner%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="280 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2000-01-15T06:40:40Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Nel 1992 la Guerra Mondiale ha ucciso milioni di persone, e condannato all'estinzione intere specie, costringendo l'umanità ad andare nello spazio. Chi è rimasto sogna di possedere un animale vivente, e le compagnie producono copie incredibilmente re...</summary>
+    <link href="../book_0/book_92.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les clans de la lune alphane [5 juin 2018]</title>
+    <id>calibre:book:90</id>
+    <updated>2018-06-05T05:23:11Z</updated>
+    <link href="../../Philip%20K.%20Dick/Les%20clans%20de%20la%20lune%20alphane%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Les%20clans%20de%20la%20lune%20alphane%20%2890%29/Les%20clans%20de%20la%20lune%20alphane%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="289 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1964-01-13T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Chuck Rittersdorf est programmeur de simulacre pour le compte de la CIA, un travail médiocre et répétitif dont il s'accommode parfaitement. Ce n'est cependant pas le cas de sa femme, Mary, une brillante psychologue qui a décidé que son mari devait em...</summary>
+    <link href="../book_0/book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>En attendant l'année dernière [5 juin 2018]</title>
+    <id>calibre:book:93</id>
+    <updated>2018-06-05T05:23:11Z</updated>
+    <link href="../../Philip%20K.%20Dick/En%20attendant%20l%27annee%20derniere%20%2893%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/En%20attendant%20l%27annee%20derniere%20%2893%29/En%20attendant%20l%27annee%20derniere%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="308 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2011-07-15T07:18:38Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Librairie générale française</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Une Terre de l'avenir en guerre contre des fourmis de quatre mètres qui ne l'ont jamais envahie...Un dictateur bonhomme que l'on remplace par un double venu d'un univers parallèle, chaque fois qu'il meurt...Un ingénieur fou qui équipe de caisses à ro...</summary>
+    <link href="../book_0/book_93.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La transmigration de Timothy Archer [5 juin 2018]</title>
+    <id>calibre:book:91</id>
+    <updated>2018-06-05T05:23:11Z</updated>
+    <link href="../../Philip%20K.%20Dick/La%20transmigration%20de%20Timothy%20Archer%20%2891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/La%20transmigration%20de%20Timothy%20Archer%20%2891%29/La%20transmigration%20de%20Timothy%20Archer%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="353 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1982-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="la trilogie divine" />
+    <summary>la trilogie divine [3]: Angel Archer, la narratrice, assiste à un séminaire sur le soufisme le jour même où John Lennon vient de se faire assassiner. Désormais, elle croit savoir pourquoi nous sommes sur terre... Troisième volet de La trilogie divine...</summary>
+    <link href="../book_0/book_91.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Bal Des Schizos [5 juin 2018]</title>
+    <id>calibre:book:89</id>
+    <updated>2018-06-05T05:23:11Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Bal%20Des%20Schizos%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Bal%20Des%20Schizos%20%2889%29/Le%20Bal%20Des%20Schizos%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="288 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1991-01-15T06:40:23Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Pocket</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Autrefois, il y a eu un vrai Louis Rosen, mais il a disparu depuis belle lurette, et moi je suis là à sa place. S'il m'arrive quelque chose, ils ont les bandes pour en créer un autre. C'est réussi, hein ? Même mon père a failli s'y laisser prendre.– ...</summary>
+    <link href="../book_0/book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le dieu venu du Centaure [5 juin 2018]</title>
+    <id>calibre:book:83</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20dieu%20venu%20du%20Centaure%20%2883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20dieu%20venu%20du%20Centaure%20%2883%29/Le%20dieu%20venu%20du%20Centaure%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="301 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1965-01-11T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Leo Bulero, pourvoyeur du D-Liss, une formidable drogue, règne sans partage sur les délires d'une humanité devenue presque folle. Aux télépathes clairvoyants ou aux colons misérables exilés sur mars, il dispense une fuite salvatrice. Tout se gâte cep...</summary>
+    <link href="../book_0/book_83.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fille Aux Cheveux Noirs [5 juin 2018]</title>
+    <id>calibre:book:76</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Fille%20Aux%20Cheveux%20Noirs%20%2876%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Fille%20Aux%20Cheveux%20Noirs%20%2876%29/Fille%20Aux%20Cheveux%20Noirs%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="174 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2002-01-15T06:41:59Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Gallimard</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Première éditionQuatrième de couvertureElle est Emily Hnatt dan Le Dieu venu du Centaure, Donna Hawthorne dans Substance Mort, Sherri Solvig dans Siva, Rybys Romney dans L'invasion divine...Multiple, fantasmée, elle traverse une existence marquée par...</summary>
+    <link href="../book_0/book_76.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Glissement De Temps Sur Mars [5 juin 2018]</title>
+    <id>calibre:book:84</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Glissement%20De%20Temps%20Sur%20Mars%20%2884%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Glissement%20De%20Temps%20Sur%20Mars%20%2884%29/Glissement%20De%20Temps%20Sur%20Mars%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="345 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2006-01-15T06:41:03Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Pocket</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Présentation de l'éditeurJack Bohlen vit avec sa famille dans une paisible colonie martienne, loin du bruit et de la foule terrienne. Il gagne sa vie en réparant toutes sortes de machines. Mais pourrait-il réparer un être humain ? C'est ce que lui de...</summary>
+    <link href="../book_0/book_84.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'homme dont toutes les dents étaient exactement semblables [5 juin 2018]</title>
+    <id>calibre:book:88</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/L%27homme%20dont%20toutes%20les%20dents%20etaient%20exactement%20semblables%20%2888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/L%27homme%20dont%20toutes%20les%20dents%20etaient%20exactement%20semblables%20%2888%29/L%27homme%20dont%20toutes%20les%20dents%20etaient%20exac%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="383 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1984-02-28T05:57:18Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Un couple : Walt et Sherry Dombrosio. Ils habitent Carquinez, un petit village dans le comté de Marin Ouest. Lui travaille, elle est femme au foyer. Walt recherche la relation de couple typique des fifties US: l'homme assure la subsistance, la femme ...</summary>
+    <link href="../book_0/book_88.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'invasion divine [5 juin 2018]</title>
+    <id>calibre:book:78</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/L%27invasion%20divine%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="298 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1981-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="la trilogie divine" />
+    <summary>la trilogie divine [2]: «Ce monde présent, cette planète, tout ce qui la compose, tous ceux qui l'habitent - tout dort ici.» Voilà ce que déclare un enfant, Emmanuel. Un enfant entré en fraude sur la Terre. Deuxième volet de La trilogie divine.Quatri...</summary>
+    <link href="../book_0/book_78.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Temps Désarticulé [5 juin 2018]</title>
+    <id>calibre:book:87</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Temps%20Desarticule%20%2887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Temps%20Desarticule%20%2887%29/Le%20Temps%20Desarticule%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="381 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1959-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Le Temps désarticulé, tout comme Le Maître du haut-château ou En attendant l'année dernière, est un des romans essentiels du « cycle dickien », avec des personnages en rupture de cosmos, conscients du traître ruissellement de la réalité, perdus dans ...</summary>
+    <link href="../book_0/book_87.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le livre d'or de la science-fiction [5 juin 2018]</title>
+    <id>calibre:book:82</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20livre%20d%27or%20de%20la%20science-fiction%20%2882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20livre%20d%27or%20de%20la%20science-fiction%20%2882%29/Le%20livre%20d%27or%20de%20la%20science-fiction%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="354 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1996-01-30T06:41:35Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Vintage Books</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="Le livre d'or de la science-fiction" />
+    <summary>Le livre d'or de la science-fiction [8]: Philip K. Dick has established himself as a major figure in American literature. The landscape of his imagination features a wealth of concepts and fictional worlds: Nazi-rule in a postwar nightmare; androids ...</summary>
+    <link href="../book_0/book_82.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Message de Frolix 8 [5 juin 2018]</title>
+    <id>calibre:book:85</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/Message%20de%20Frolix%208%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="349 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1970-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Quatrième de couvertureSur Terre, en l'an 2135, ce sont les Exceptionnels et les Hommes Nouveaux qui gouvernent - surdoués, technocrates et tyranniques. Et les Ordinaires obéissent, sans désespérer tout à fait... Ils se souviennent, en effet, de Thor...</summary>
+    <link href="../book_0/book_85.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les pantins cosmiques [5 juin 2018]</title>
+    <id>calibre:book:86</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/Les%20pantins%20cosmiques%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="170 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1984-04-02T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>PRESSES DE LA CITE</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>presses de la cite, 18*11 cm, 158 pages.</summary>
+    <link href="../book_0/book_86.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Paycheck [5 juin 2018]</title>
+    <id>calibre:book:73</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/Paycheck%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="461 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2012-03-05T09:26:01Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Folio</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Traductions revues et harmonisées par Hélène CollonQuatrième de couvertureIngénieur de réputation mondiale, Michael Jennings travaille sur des projets top secrets commandités par des sociétés de haute technologie. À l'issue de chaque mission, sa mémo...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Profanateur [5 juin 2018]</title>
+    <id>calibre:book:74</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/Le%20Profanateur%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="192 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1991-01-15T06:41:26Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>LGF - Livre de Poche</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Allen Purcell, communicateur, était chargé de faire respecter l'ordre moral à coups de feuilletons télévisés dans un monde de comité de quartier, de minuscules mouchards robots et de conformisme absolu. Il était un citoyen parfait. Le seul ennui pour...</summary>
+    <link href="../book_0/book_74.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Simulacres [5 juin 2018]</title>
+    <id>calibre:book:72</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/Simulacres%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="299 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1964-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Vol. n°594</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Siva [5 juin 2018]</title>
+    <id>calibre:book:80</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/Siva%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="308 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2006-03-09T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Folio</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="la trilogie divine" />
+    <summary>la trilogie divine [1]: Mélange de science-fiction spéculative, de récit autobiographique, de questionnement métaphysique et de délires schizophréniques, La trilogie divine compte parmi les œuvres les plus déroutantes de Philip K. Dick.Quatrième de c...</summary>
+    <link href="../book_0/book_80.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Substance Mort [5 juin 2018]</title>
+    <id>calibre:book:77</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/Substance%20Mort%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1977-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Un voyage sans retour au bout de la schizophrénie, une plongée glaçante dans l'enfer des paradis artificiels.Quatrième de couvertureDans une Amérique imaginaire livrée à l'effacement des singularités et à la paranoïa technologique, les derniers survi...</summary>
+    <link href="../book_0/book_77.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sur le territoire de Milton Lumky [5 juin 2018]</title>
+    <id>calibre:book:79</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/Sur%20le%20territoire%20de%20Milton%20Lumky%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="308 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1958-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Bruce est un jeune commercial plein d'avenir. Au volant de sa Mercury flambant neuve, il arpente les Etats de l'Ouest à la recherche des meilleures affaires pour le compte de ses employeurs. Mais un jour, sa tournée l'amène dans la bourgade anonyme q...</summary>
+    <link href="../book_0/book_79.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ubik [5 juin 2018]</title>
+    <id>calibre:book:75</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Ubik%20%2875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Ubik%20%2875%29/Ubik%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="330 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1969-01-13T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Format poche - 256 pp - broché - , --Ce texte fait référence à une édition épuisée ou non disponible de ce titre.Amazon.fr"Une pulvérisation invisible d'Ubik et vous bannirez la crainte obsédante, irrésistible, de voir le monde entier se transformer ...</summary>
+    <link href="../book_0/book_75.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les voix de l'asphalte [5 juin 2018]</title>
+    <id>calibre:book:81</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Les%20voix%20de%20l%27asphalte%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Les%20voix%20de%20l%27asphalte%20%2881%29/Les%20voix%20de%20l%27asphalte%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="384 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2007-10-09T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>LE CHERCHE MIDI</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Dans ce roman inédit jusqu'à ce jour et miraculeusement retrouvé, Philip K Dick, plus visionnaire que jamais, nous livre la radioscopie d'une Amérique urbaine suffocante à travers le portrait mental d'un jeune homme au bord de la crise. Oakland, Cali...</summary>
+    <link href="../book_0/book_81.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Bulle Cassée [5 juin 2018]</title>
+    <id>calibre:book:68</id>
+    <updated>2018-06-05T05:23:09Z</updated>
+    <link href="../../Philip%20K.%20Dick/La%20Bulle%20Cassee%20%2868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/La%20Bulle%20Cassee%20%2868%29/La%20Bulle%20Cassee%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="352 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1993-01-15T06:41:18Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>10-18</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Présentation de l'éditeurEcouter de la musique reste le seul plaisir de Jim, disc-jockey vedette d'une station locale à San Francisco. C'est sûr qu'entre son ex-femme Pat dont il n'arrive pas à se défaire et un patron qui ne supporte plus ses espiègl...</summary>
+    <link href="../book_0/book_68.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ce que disent les morts [5 juin 2018]</title>
+    <id>calibre:book:62</id>
+    <updated>2018-06-05T05:23:09Z</updated>
+    <link href="../../Philip%20K.%20Dick/Ce%20que%20disent%20les%20morts%20%2862%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Ce%20que%20disent%20les%20morts%20%2862%29/Ce%20que%20disent%20les%20morts%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="102 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2006-01-15T06:40:53Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Folio</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Grand écrivain de l'imaginaire, Philip K. Dick abolit les frontières entre la vie et la mort, la réalité et la fiction...Quatrième de couvertureCryogénisé à sa mort, le très puissant et richissime Louis Sarapis n'a pu être ranimé ; pourtant, il conti...</summary>
+    <link href="../book_0/book_62.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Coulez Mes Larmes, Dit Le Policier [5 juin 2018]</title>
+    <id>calibre:book:69</id>
+    <updated>2018-06-05T05:23:09Z</updated>
+    <link href="../../Philip%20K.%20Dick/Coulez%20Mes%20Larmes%2C%20Dit%20Le%20Policier%20%2869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Coulez%20Mes%20Larmes%2C%20Dit%20Le%20Policier%20%2869%29/Coulez%20Mes%20Larmes%2C%20Dit%20Le%20Policier%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="398 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2002-01-15T06:40:58Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>10-18</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Présentation de l'éditeurCeci est l'histoire d'un homme dont tout le monde semble avoir oublié l'existence et l'identité. La veille encore, il était Jason Taverner, producteur de télévision respecté, chanteur à ses heures et idole d'au moins trente m...</summary>
+    <link href="../book_0/book_69.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_MORE_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (4 of 4)" />
+</feed>

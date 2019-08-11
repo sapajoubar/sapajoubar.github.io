@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Damasio,Alain</title>
+  <id>Calibre2opds:authors:47</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Damasio,Alain" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>La Horde du Contrevent</title>
+    <id>calibre:book:143</id>
+    <updated>2019-06-04T06:33:21Z</updated>
+    <link href="../../Damasio%2CAlain/La%20Horde%20du%20Contrevent%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Damasio%2CAlain/La%20Horde%20du%20Contrevent%20%28143%29/La%20Horde%20du%20Contrevent%20-%20Damasio%2CAlain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <author>
+      <name>Damasio,Alain</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>2010-12-27T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>La Volte</dcterms:publisher>
+    <category term="SF" />
+    <category term="Lang:en" />
+    <summary>Ils sont les vingt-trois membres de la trente-quatrième Horde. Ils ont été formés depuis l’enfance à accomplir une tâche précise, qui permettra la survie de la Horde. Car la longue ligne droite qui les mène à l’extrême Amont est dangereuse. Aucune de...</summary>
+    <link href="../book_0/book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La zone du dehors</title>
+    <id>calibre:book:144</id>
+    <updated>2019-06-04T06:36:18Z</updated>
+    <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/La%20zone%20du%20dehors%20-%20Damasio%2CAlain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="667 KB" />
+    <author>
+      <name>Damasio,Alain</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>2084. Orwell est loin désormais. Le totalitarisme a pris les traits bonhommes de la social-démocratie. Souriez, vous êtes gérés ! Le citoyen ne s'opprime plus : il se fabrique. À la pâte à norme, au confort, au consensus. Copie qu'on forme, tout simp...</summary>
+    <link href="../book_0/book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par L</title>
+  <id>Calibre2opds:allbooks:L</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par L" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <link href="../allbooks/allbooks_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="page suivante (2 sur 2)" />
+  <entry>
+    <title>L'abomination de Dunwich</title>
+    <id>calibre:book:125</id>
+    <updated>2019-05-02T04:59:48Z</updated>
+    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/L%27abomination%20de%20Dunwich%20-%20Lovecraft%2C%20Howard%20Philips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="278 KB" />
+    <author>
+      <name>Lovecraft, Howard Philips</name>
+      <uri>../authors_0/authors_41_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>Parce qu'un de leurs ancêtres s'est approprié un secret que les humains ne doivent pas connaître, ou parce qu'il a entr'ouvert une porte sur l'extérieur, certaines familles se transmettent une malédiction de génération en génération.C'est le cas des ...</summary>
+    <link href="../book_0/book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'homme dont toutes les dents étaient exactement semblables</title>
+    <id>calibre:book:88</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/L%27homme%20dont%20toutes%20les%20dents%20etaient%20exactement%20semblables%20%2888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/L%27homme%20dont%20toutes%20les%20dents%20etaient%20exactement%20semblables%20%2888%29/L%27homme%20dont%20toutes%20les%20dents%20etaient%20exac%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="383 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1984-02-28T05:57:18Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Un couple : Walt et Sherry Dombrosio. Ils habitent Carquinez, un petit village dans le comté de Marin Ouest. Lui travaille, elle est femme au foyer. Walt recherche la relation de couple typique des fifties US: l'homme assure la subsistance, la femme ...</summary>
+    <link href="../book_0/book_88.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'invasion divine</title>
+    <id>calibre:book:78</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/L%27invasion%20divine%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="298 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1981-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="la trilogie divine" />
+    <summary>la trilogie divine [2]: «Ce monde présent, cette planète, tout ce qui la compose, tous ceux qui l'habitent - tout dort ici.» Voilà ce que déclare un enfant, Emmanuel. Un enfant entré en fraude sur la Terre. Deuxième volet de La trilogie divine.Quatri...</summary>
+    <link href="../book_0/book_78.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Bête et La Belle</title>
+    <id>calibre:book:128</id>
+    <updated>2019-05-14T00:23:28Z</updated>
+    <link href="../../Thierry%20Jonquet/La%20Bete%20et%20La%20Belle%20%28128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/La%20Bete%20et%20La%20Belle%20%28128%29/La%20Bete%20et%20La%20Belle%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="138 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2010-04-15T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <summary>Il n'est pas si fréquent que les mots d'un écrivain trouvent un écho si puissant dans le coeur de celui qui les découvre ; un coeur qui bat, saigne et qui s'ouvre à la découverte de ces gosses, en plein Paris, victimes de barbarie ; un coeur qui hurl...</summary>
+    <link href="../book_0/book_128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Carte Et Le Territoire</title>
+    <id>calibre:book:122</id>
+    <updated>2019-03-28T05:18:02Z</updated>
+    <link href="../../Michel%20Houellebecq/La%20Carte%20Et%20Le%20Territoire%20%28122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Houellebecq/La%20Carte%20Et%20Le%20Territoire%20%28122%29/La%20Carte%20Et%20Le%20Territoire%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="403 KB" />
+    <author>
+      <name>Michel Houellebecq</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2010-09-02T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Si Jed Martin, le personnage principal de ce roman, devait vous en raconter l’histoire, il commencerait peut-être par vous parler d’une panne de chauffe-eau, un certain 15 décembre. Ou de son père, architecte connu et engagé, avec qui il passa seul d...</summary>
+    <link href="../book_0/book_122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Goutte d'or</title>
+    <id>calibre:book:14</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/La%20Goutte%20d%27or%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/La%20Goutte%20d%27or%20%2814%29/La%20Goutte%20d%27or%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="249 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-05-10T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Romans" />
+    <category term="Lang:fr" />
+    <summary>"Donne-moi la photo." Idriss gardait ses chèvres et ses moutons non loin de l'oasis de Tabelbala quand une Land Rover a surgi. Une jeune femme blonde aux jambes nues a pris en photo le petit berger saharien. Sa photo, elle la lui enverra dès son reto...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Horde du Contrevent</title>
+    <id>calibre:book:143</id>
+    <updated>2019-06-04T06:33:21Z</updated>
+    <link href="../../Damasio%2CAlain/La%20Horde%20du%20Contrevent%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Damasio%2CAlain/La%20Horde%20du%20Contrevent%20%28143%29/La%20Horde%20du%20Contrevent%20-%20Damasio%2CAlain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <author>
+      <name>Damasio,Alain</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>2010-12-27T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>La Volte</dcterms:publisher>
+    <category term="SF" />
+    <category term="Lang:en" />
+    <summary>Ils sont les vingt-trois membres de la trente-quatrième Horde. Ils ont été formés depuis l’enfance à accomplir une tâche précise, qui permettra la survie de la Horde. Car la longue ligne droite qui les mène à l’extrême Amont est dangereuse. Aucune de...</summary>
+    <link href="../book_0/book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Possibilite Dune Ile. Roman</title>
+    <id>calibre:book:121</id>
+    <updated>2019-03-28T05:17:44Z</updated>
+    <link href="../../Michel%20Houellebecq/La%20Possibilite%20Dune%20Ile.%20Roman%20%28121%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Houellebecq/La%20Possibilite%20Dune%20Ile.%20Roman%20%28121%29/La%20Possibilite%20Dune%20Ile.%20Roman%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="383 KB" />
+    <author>
+      <name>Michel Houellebecq</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2005-08-31T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Le pitch ? Quel pitch ?Il est impossible d’en dévoiler un. Le quatrième roman de Michel Houellebecq, par son ampleur, ses ambitions, sa façon bien à lui de déjouer tout pronostic, échappe à cette pratique paresseuse de la critique moderne.Alors qu’en...</summary>
+    <link href="../book_0/book_121.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Vigie Et Autres Nouvelles</title>
+    <id>calibre:book:134</id>
+    <updated>2019-05-26T02:28:57Z</updated>
+    <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/La%20Vigie%20Et%20Autres%20Nouvelles%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="187 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>1998-09-05T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <summary>La nouvelle est rare chez Thierry Jonquet. En voici neuf, presque toutes - contre une quinzaine de romans, noirs pour la plupart. Mais il y trouve un espace d'écriture sans contraintes dont il s'empare avec une jubilation féroce. Place au baroque et ...</summary>
+    <link href="../book_0/book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La brèche dans l'espace</title>
+    <id>calibre:book:66</id>
+    <updated>2018-06-05T05:23:09Z</updated>
+    <link href="../../Philip%20K.%20Dick/La%20breche%20dans%20l%27espace%20%2866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/La%20breche%20dans%20l%27espace%20%2866%29/La%20breche%20dans%20l%27espace%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="251 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1966-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>250pages. poche. Poche.</summary>
+    <link href="../book_0/book_66.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>-La bulle cassée</title>
+    <id>calibre:book:54</id>
+    <updated>2018-06-05T04:27:19Z</updated>
+    <link href="../../Philip%20K.%20Dick/-La%20bulle%20cassee%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/-La%20bulle%20cassee%20%2854%29/-La%20bulle%20cassee%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="352 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2005-04-30T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>10-18</dcterms:publisher>
+    <category term="Lang:fr" />
+    <summary>Jim Briskin est animateur dans une petite radio de San Francisco. Il y croise quotidiennement son ex-femme Patricia Gray, dont il a divorcé trois ans plus tôt (il ne pouvait lui donner d'enfants), mais qu'il aime toujours. Pour avoir refusé de lire u...</summary>
+    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La séparation</title>
+    <id>calibre:book:53</id>
+    <updated>2018-05-11T03:53:38Z</updated>
+    <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/La%20separation%20-%20Priest%2CChristopher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="496 KB" />
+    <author>
+      <name>Priest,Christopher</name>
+      <uri>../authors_0/authors_35_Page_1.xml</uri>
+    </author>
+    <published>2002-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>Que s'est-il réellement passé dans la nuit du 10 au 11 mai 1941, cette nuit où Rudolf Hess s'est envolé d'Allemagne pour négocier la paix avec la Grande-Bretagne ? Son avion a-t-il été abattu par laLuftwaffe ? Hess a-t-il réussi sa mission sans en in...</summary>
+    <link href="../book_0/book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La transmigration de Timothy Archer</title>
+    <id>calibre:book:91</id>
+    <updated>2018-06-05T05:23:11Z</updated>
+    <link href="../../Philip%20K.%20Dick/La%20transmigration%20de%20Timothy%20Archer%20%2891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/La%20transmigration%20de%20Timothy%20Archer%20%2891%29/La%20transmigration%20de%20Timothy%20Archer%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="353 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1982-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="la trilogie divine" />
+    <summary>la trilogie divine [3]: Angel Archer, la narratrice, assiste à un séminaire sur le soufisme le jour même où John Lennon vient de se faire assassiner. Désormais, elle croit savoir pourquoi nous sommes sur terre... Troisième volet de La trilogie divine...</summary>
+    <link href="../book_0/book_91.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La vérité avant-dernière</title>
+    <id>calibre:book:57</id>
+    <updated>2018-06-05T05:22:27Z</updated>
+    <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/La%20verite%20avant-derniere%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="347 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1989-03-15T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Librairie générale française</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Ils attendent dans des abris souterrains la fin de la guerre qui ravage la surface depuis quinze ans. Ils fabriquent à des cadences toujours accéléreés les solplombs qui se battent là-haut à leur place. Mais un jour, Nicholas Saint James, président d...</summary>
+    <link href="../book_0/book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La zone du dehors</title>
+    <id>calibre:book:144</id>
+    <updated>2019-06-04T06:36:18Z</updated>
+    <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/La%20zone%20du%20dehors%20-%20Damasio%2CAlain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="667 KB" />
+    <author>
+      <name>Damasio,Alain</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>2084. Orwell est loin désormais. Le totalitarisme a pris les traits bonhommes de la social-démocratie. Souriez, vous êtes gérés ! Le citoyen ne s'opprime plus : il se fabrique. À la pâte à norme, au confort, au consensus. Copie qu'on forme, tout simp...</summary>
+    <link href="../book_0/book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Bal Des Débris</title>
+    <id>calibre:book:135</id>
+    <updated>2019-05-26T02:29:13Z</updated>
+    <link href="../../Thierry%20Jonquet/Le%20Bal%20Des%20Debris%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Le%20Bal%20Des%20Debris%20%28135%29/Le%20Bal%20Des%20Debris%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="159 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2000-09-14T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Tout a changé dans la vie de Frédo, qui pousse des charlots dans un hôpital pour vieux, le jour où Alphonse Lepointre, plombier zingueur dans le civil mais resté truand dans l'âme, a été admis aux urgences. Ensemble, ils décident de monter le coup de...</summary>
+    <link href="../book_0/book_135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Coq de bruyère</title>
+    <id>calibre:book:7</id>
+    <updated>2018-02-24T11:11:46Z</updated>
+    <link href="../../Michel%20Tournier/Le%20Coq%20de%20bruyere%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Le%20Coq%20de%20bruyere%20%287%29/Le%20Coq%20de%20bruyere%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="281 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-03-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Nouvelles" />
+    <category term="Lang:fr" />
+    <summary>La famille Adam, La fin de Robinson Crusoé, La mère Noël, Amandine et les deux jardins, La fugue du petit Poucet, Tupik, Que ma joie demeure, Le Nain rouge, Tristan Vox, Les suaires de Véronique, La jeune fille et la mort, Le Coq de bruyère, L'aire d...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Manoir Des Immortelles</title>
+    <id>calibre:book:136</id>
+    <updated>2019-05-26T02:29:27Z</updated>
+    <link href="../../Thierry%20Jonquet/Le%20Manoir%20Des%20Immortelles%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Le%20Manoir%20Des%20Immortelles%20%28136%29/Le%20Manoir%20Des%20Immortelles%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="123 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>1986-01-01T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <summary>Pauvre Numéro 52 ! Il se promène, insouciant, satisfait. Il ignore que dans l'Empire des Morts, Hadès le guette, l'épie. Et que bientôt, il traversera les eaux noires du Styx pour venir le tuer. Comme il a tué Numéro 28. Comme il a tué Numéro 42. Et ...</summary>
+    <link href="../book_0/book_136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Maître du Haut Château</title>
+    <id>calibre:book:56</id>
+    <updated>2018-06-05T04:35:49Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/Le%20Maitre%20du%20Haut%20Chateau%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="386 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1962-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>1948, fin de la Seconde Guerre mondiale et capitulation des Alliés ; le Reich et l'Empire du Soleil levant se partagent le monde. Vingt ans plus tard, dans les Etats-Pacifiques d'Amérique sous domination nippone, la vie a repris son cours. L'occupant...</summary>
+    <link href="../book_0/book_56.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Miroir des idées</title>
+    <id>calibre:book:28</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Michel%20Tournier/Le%20Miroir%20des%20idees%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Le%20Miroir%20des%20idees%20%2828%29/Le%20Miroir%20des%20idees%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="185 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-04-20T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Documents - Essais" />
+    <category term="Lang:fr" />
+    <summary>Quatrième de couvertureÉdition revue et augmentée par l’auteurIl faut deux jambes pour marcher, et pour bien saisir on se sert des deux mains. Cette évidence a été le point de départ de ce petit traité où les idées s’éclairent en s’opposant deux à de...</summary>
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Médianoche amoureux</title>
+    <id>calibre:book:12</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Michel%20Tournier/Le%20Medianoche%20amoureux%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Le%20Medianoche%20amoureux%20%2812%29/Le%20Medianoche%20amoureux%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="249 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-05-23T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Nouvelles" />
+    <category term="Lang:fr" />
+    <summary>14 contes et nouvelles.C'étaient des statues sculptées dans le sable, d'une étrange et poignante beauté. Les corps se lovaient dans une faible dépression, ceints d'un lambeau de tissu gris souillé de vase. On songeait à Adam et Eve avant que Dieu vîn...</summary>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Roi des aulnes</title>
+    <id>calibre:book:32</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Michel%20Tournier/Le%20Roi%20des%20aulnes%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Le%20Roi%20des%20aulnes%20%2832%29/Le%20Roi%20des%20aulnes%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="355 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2010-11-08T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Romans" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_32.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Temps Désarticulé</title>
+    <id>calibre:book:87</id>
+    <updated>2018-06-05T05:23:10Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Temps%20Desarticule%20%2887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Temps%20Desarticule%20%2887%29/Le%20Temps%20Desarticule%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="381 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1959-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Le Temps désarticulé, tout comme Le Maître du haut-château ou En attendant l'année dernière, est un des romans essentiels du « cycle dickien », avec des personnages en rupture de cosmos, conscients du traître ruissellement de la réalité, perdus dans ...</summary>
+    <link href="../book_0/book_87.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le secret du rabbin</title>
+    <id>calibre:book:137</id>
+    <updated>2019-05-26T02:29:46Z</updated>
+    <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/Le%20secret%20du%20rabbin%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="205 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2011-09-05T09:28:18Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>En ce jour de 1920, le très savoureux et peu orthodoxe rabbin Mordechai Hirshbaum vient de rendre son âme à Dieu. Ses héritiers, des neveux dispersés dans le monde, sont instamment priés de se rendre en Pologne pour venir toucher leur part d'héritage...</summary>
+    <link href="../book_0/book_137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le tueur en pantoufles</title>
+    <id>calibre:book:35</id>
+    <updated>2018-02-24T11:11:48Z</updated>
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/Le%20tueur%20en%20pantoufles%20-%20Frederic%20Dard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="421 KB" />
+    <author>
+      <name>Frédéric Dard</name>
+      <uri>../authors_0/authors_24_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Fayard</dcterms:publisher>
+    <category term="Policier" />
+    <category term="Lang:fr" />
+    <category term="Frédéric DARD" />
+    <summary>Frédéric DARD [1951]: « Il ne connaissait pas la musique. Par ailleurs, comme il n'était ni trompettiste dans un jazz nègre, ni pédéraste, ni vedette de music-hall, ni américain, il ne pouvait espérer se lancer dans la littérature avec quelque chance...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Louis-Ferdinand Celine</title>
+  <id>Calibre2opds:authors:16</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Louis-Ferdinand Celine" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>VOYAGE au bout de la nuit</title>
+    <id>calibre:book:22</id>
+    <updated>2018-02-24T11:11:47Z</updated>
+    <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/VOYAGE%20au%20bout%20de%20la%20nuit%20-%20Louis-Ferdinand%20Celine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <author>
+      <name>Louis-Ferdinand Celine</name>
+      <uri>../authors_0/authors_16_Page_1.xml</uri>
+    </author>
+    <published>2010-10-25T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Voyage au bout de la nuit est un récit à la première personne dans lequel Bardamu raconte son expérience de la première guerre, du colonialisme en Afrique et de l'Amérique de l'entre-deux guerres.Bardamu a vu la Grande Guerre et l'ineptie meurtrière ...</summary>
+    <link href="../book_0/book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
