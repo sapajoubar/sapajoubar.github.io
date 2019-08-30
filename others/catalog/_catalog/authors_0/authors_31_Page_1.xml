@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alphonse Allais</title>
+  <id>Calibre2opds:authors:31</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Alphonse Allais" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>Le bec en l'air</title>
+    <id>calibre:book:49</id>
+    <updated>2019-08-30T11:38:23Z</updated>
+    <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/Le%20bec%20en%20l%27air%20-%20Alphonse%20Allais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="167 KB" />
+    <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/Le%20bec%20en%20l%27air%20-%20Alphonse%20Allais.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="252 KB" />
+    <author>
+      <name>Alphonse Allais</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vive la vie!</title>
+    <id>calibre:book:48</id>
+    <updated>2019-08-30T11:38:23Z</updated>
+    <link href="../../Alphonse%20Allais/Vive%20la%20vie%21%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alphonse%20Allais/Vive%20la%20vie%21%20%2848%29/Vive%20la%20vie%21%20-%20Alphonse%20Allais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="139 KB" />
+    <link href="../../Alphonse%20Allais/Vive%20la%20vie%21%20%2848%29/Vive%20la%20vie%21%20-%20Alphonse%20Allais.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="229 KB" />
+    <author>
+      <name>Alphonse Allais</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

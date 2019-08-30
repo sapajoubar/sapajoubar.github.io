@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Bye Bye Blondie</title>
+  <id>urn:book:ca4fc619-27a6-4196-bf08-807a2603dfc7</id>
+  <updated>2019-08-30T11:41:26Z</updated>
+  <link href="./book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Bye Bye Blondie" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/Bye%20Bye%20Blondie%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="225 KB" />
+  <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/Bye%20Bye%20Blondie%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="376 KB" />
+  <author>
+    <name>Virginie Despentes</name>
+    <uri>../authors_0/authors_5_Page_1.xml</uri>
+  </author>
+  <published>2006-02-28T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>LGF/Le Livre de Poche</dcterms:publisher>
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      General, Fiction, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">« Une fille qu’on rencontre
+    en HP n’est pas une fille qui rend heureux. Il voulait
+    jouer contre le reste du monde, avoir raison contre toutes les
+    évidences,il pensait que c’était ça
+    l’amour. Il voulait prendre ce risque, avec elle, et
+    qu’ils arrivent sur l’autre rive, sains et saufs.
+    Mais ils réussissent juste à s’entraîner
+    au fond. Il est temps de renoncer... »Gloria a
+    été internée en hôpital psychiatrique.
+    Contre toute attente, la punkette « prolo » y a
+    rencontré Éric, un fils de bourgeois aussi
+    infréquentable qu’elle ; ils se sont aimés
+    comme on s’aime à seize ans. Puis la vie, autant que
+    les contraintes sociales, les a séparés. Vingt ans
+    après, à nouveau, leurs chemins se croisent.Portrait
+    d’une femme blessée aux prises avec ses démons,
+    traversée des années punk, chronique d’un amour
+    naufragé, Bye Bye Blondie est sans doute le livre le plus
+    émouvant de Virginie Despentes.</p>
+  </content>
+  <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Virginie Despentes" />
+  <link href="http://www.goodreads.com/book/title/Bye%20Bye%20Blondie" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Bye%20Bye%20Blondie" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Bye%20Bye%20Blondie%20Virginie%20Despentes" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Bye%20Bye%20Blondie&amp;field-author=Virginie%20Despentes" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DespentesVirginie" type="text/html" rel="related" title="Virginie Despentes sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur ISFDB" target="_blank" />
+</entry>

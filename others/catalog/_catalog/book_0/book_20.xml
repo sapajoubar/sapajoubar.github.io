@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>On regrettera plus tard (LITT.GENERALE) (French Edition)</title>
+  <id>urn:book:a8ebb13d-5b71-42a5-be8f-df3b80f06177</id>
+  <updated>2019-08-30T11:40:48Z</updated>
+  <link href="./book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="On regrettera plus tard (LITT.GENERALE) (French Edition)" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Agnes%20Ledig/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2820%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Agnes%20Ledig/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Agnes%20Ledig/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2820%29/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28F%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="253 KB" />
+  <link href="../../Agnes%20Ledig/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2820%29/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28F%20-%20Agnes%20Ledig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="378 KB" />
+  <author>
+    <name>Agnès Ledig</name>
+    <uri>../authors_0/authors_14_Page_1.xml</uri>
+  </author>
+  <published>2016-03-01T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Albin Michel</dcterms:publisher>
+  <category term="Littérature" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Littérature, Lang:fr
+    </p>
+  </content>
+  <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Agnès Ledig" />
+  <link href="http://www.goodreads.com/book/title/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29&amp;field-author=Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/LedigAgn%C3%A8s" type="text/html" rel="related" title="Agnès Ledig sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur ISFDB" target="_blank" />
+</entry>

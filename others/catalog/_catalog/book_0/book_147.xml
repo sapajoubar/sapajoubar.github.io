@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>FNA 1614 - Un ange s'est pendu</title>
+  <id>urn:book:d0232ecd-50e3-4a34-bd05-507a8133400a</id>
+  <updated>2019-08-30T11:31:30Z</updated>
+  <link href="./book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="FNA 1614 - Un ange s'est pendu" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Roland%20C.%20Wagner/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20%28147%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Roland%20C.%20Wagner/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20%28147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Roland%20C.%20Wagner/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20%28147%29/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20-%20Roland%20C.%20Wagner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="238 KB" />
+  <link href="../../Roland%20C.%20Wagner/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20%28147%29/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20-%20Roland%20C.%20Wagner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="353 KB" />
+  <author>
+    <name>Roland C. Wagner</name>
+    <uri>../authors_0/authors_48_Page_1.xml</uri>
+  </author>
+  <published>1988-02-29T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Fleuve Noir</dcterms:publisher>
+  <category term="SF" />
+  <category term="FNA" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      SF, FNA, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Un repas bien arrosé au restaurant... Quoi de plus
+    normal ? Mais si trois des convives découvrent qu'ils
+    n'ont pas passé la soirée avec le quatrième et
+    que celui-ci se retrouve dans d'invraisemblables aventures au
+    cours desquelles on cherche à lui voler son visage,
+    peut-être ont-ils tout simplement basculé dans le
+    monde où les anges meurent pendus...</p>
+  </content>
+  <link href="../authors_0/authors_48_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Roland C. Wagner" />
+  <link href="http://www.goodreads.com/book/title/FNA%201614%20-%20Un%20ange%20s%27est%20pendu" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/FNA%201614%20-%20Un%20ange%20s%27est%20pendu" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20Roland%20C.%20Wagner" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=FNA%201614%20-%20Un%20ange%20s%27est%20pendu&amp;field-author=Roland%20C.%20Wagner" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Roland%20C.%20Wagner" type="text/html" rel="related" title="Roland C. Wagner sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Roland%20C.%20Wagner" type="text/html" rel="related" title="Roland C. Wagner sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/WagnerRolandC." type="text/html" rel="related" title="Roland C. Wagner sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Roland%20C.%20Wagner" type="text/html" rel="related" title="Roland C. Wagner sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Roland%20C.%20Wagner" type="text/html" rel="related" title="Roland C. Wagner sur ISFDB" target="_blank" />
+</entry>

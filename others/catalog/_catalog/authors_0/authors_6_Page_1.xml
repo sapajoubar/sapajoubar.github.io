@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Didier Van Cauwelaert</title>
+  <id>Calibre2opds:authors:6</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Didier Van Cauwelaert" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>Jules (LITT.GENERALE) (French Edition)</title>
+    <id>calibre:book:6</id>
+    <updated>2019-08-30T11:41:26Z</updated>
+    <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20-%20Didier%20Van%20Cauwelaert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="242 KB" />
+    <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20-%20Didier%20Van%20Cauwelaert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="343 KB" />
+    <author>
+      <name>Didier Van Cauwelaert</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>2015-04-28T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Albin Michel</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Retour de Jules</title>
+    <id>calibre:book:15</id>
+    <updated>2019-08-30T11:40:16Z</updated>
+    <link href="../../Didier%20Van%20Cauwelaert/Le%20Retour%20de%20Jules%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Didier%20Van%20Cauwelaert/Le%20Retour%20de%20Jules%20%2815%29/Le%20Retour%20de%20Jules%20-%20Didier%20Van%20Cauwelaert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="151 KB" />
+    <link href="../../Didier%20Van%20Cauwelaert/Le%20Retour%20de%20Jules%20%2815%29/Le%20Retour%20de%20Jules%20-%20Didier%20Van%20Cauwelaert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="211 KB" />
+    <author>
+      <name>Didier Van Cauwelaert</name>
+      <uri>../authors_0/authors_6_Page_1.xml</uri>
+    </author>
+    <published>2017-06-04T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Albin Michel</dcterms:publisher>
+    <category term="DET" />
+    <category term="Lang:fr" />
+    <summary>Jules, ancien chien guide d'aveugle, est redevenu un simple animal de compagnie depuis qu'Alice a recouvré la vue. Mais alors qu'il commençait à déprimer, il est sélectionné pour être formateur dans une école canine spécialisée dans la détection des ...</summary>
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

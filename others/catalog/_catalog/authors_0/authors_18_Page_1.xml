@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jean Teulé</title>
+  <id>Calibre2opds:authors:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jean Teulé" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>Det_Entrez dans la danse</title>
+    <id>calibre:book:43</id>
+    <updated>2019-08-30T11:38:44Z</updated>
+    <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/det_Entrez%20dans%20la%20danse%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="806 KB" />
+    <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/det_Entrez%20dans%20la%20danse%20-%20Jean%20Teule.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="934 KB" />
+    <author>
+      <name>Jean Teulé</name>
+      <uri>../authors_0/authors_18_Page_1.xml</uri>
+    </author>
+    <published>2018-01-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Julliard</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="General" />
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Une étrange épidémie a eu lieu dernièrement Et s'est répandue dans Strasbourg De telle sorte que, dans leur folie, Beaucoup se mirent à danser Et ne cessèrent jour et nuit, pendant deux mois Sans interruption, Jusqu'à tomber inconscients. Beaucoup so...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Monstespan</title>
+    <id>calibre:book:24</id>
+    <updated>2019-08-26T01:22:54Z</updated>
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
+    <author>
+      <name>Jean Teulé</name>
+      <uri>../authors_0/authors_18_Page_1.xml</uri>
+    </author>
+    <published>2007-12-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Roman Historique" />
+    <category term="Lang:fr" />
+    <summary>En 1663, Louis-Henri de Montespan, jeune marquis désargenté, épouse la somptueuse Françoise « Athénaïs » de Rochechouart. Lorsque cette dernière accède à la charge de dame de compagnie de la reine, ses charmes ne tardent pas à éblouir le monarque à q...</summary>
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

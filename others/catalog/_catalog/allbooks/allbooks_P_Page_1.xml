@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par P</title>
+  <id>Calibre2opds:allbooks:P</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par P" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <entry>
+    <title>Paycheck</title>
+    <id>calibre:book:73</id>
+    <updated>2019-08-30T11:35:14Z</updated>
+    <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/Paycheck%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="461 KB" />
+    <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/Paycheck%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="619 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2012-03-05T09:26:01Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Folio</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Traductions revues et harmonisées par Hélène CollonQuatrième de couvertureIngénieur de réputation mondiale, Michael Jennings travaille sur des projets top secrets commandités par des sociétés de haute technologie. À l'issue de chaque mission, sa mémo...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Petites proses</title>
+    <id>calibre:book:27</id>
+    <updated>2019-08-30T11:39:12Z</updated>
+    <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/Petites%20proses%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="218 KB" />
+    <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/Petites%20proses%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="287 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-08-30T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Peuple de l'Abîme</title>
+    <id>calibre:book:96</id>
+    <updated>2019-08-30T11:34:33Z</updated>
+    <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/Le%20Peuple%20de%20l%27Abime%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="231 KB" />
+    <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/Le%20Peuple%20de%20l%27Abime%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="349 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2013-11-13T01:29:06Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Documents - Essais" />
+    <category term="Lang:fr" />
+    <summary>The People of the Abyss (Le Peuple de l'Abîme) a paru en feuilletons dans le magazine socialiste mensuel « Wilshire's », de mars 1903 à janvier 1904. Il a été édité en volume par Macmillan à New York, en octobre 1903. Durant l'été 1902, Jack London v...</summary>
+    <link href="../book_0/book_96.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Plateforme</title>
+    <id>calibre:book:120</id>
+    <updated>2019-08-30T11:34:02Z</updated>
+    <link href="../../Michel%20Houellebecq/plateforme%20%28120%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Houellebecq/plateforme%20%28120%29/plateforme%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="305 KB" />
+    <link href="../../Michel%20Houellebecq/plateforme%20%28120%29/plateforme%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="444 KB" />
+    <author>
+      <name>Michel Houellebecq</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2001-10-04T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Ville de banlieue, chambre anonyme, petit travail, salaire correct, peu d'intérêt, pas d'amis, de vagues relations. Aucune envie, plus de désir, quelques habitudes. C'est tout un monde de désespoir et de non-sens qui s'ouvre en même temps que commenc...</summary>
+    <link href="../book_0/book_120.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Presque rien sur presque tout</title>
+    <id>calibre:book:52</id>
+    <updated>2019-08-30T11:38:13Z</updated>
+    <link href="../../Jean%20d%27Ormesson/Presque%20rien%20sur%20presque%20tout%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20d%27Ormesson/Presque%20rien%20sur%20presque%20tout%20%2852%29/Presque%20rien%20sur%20presque%20tout%20-%20Jean%20d%27Ormesson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="478 KB" />
+    <link href="../../Jean%20d%27Ormesson/Presque%20rien%20sur%20presque%20tout%20%2852%29/Presque%20rien%20sur%20presque%20tout%20-%20Jean%20d%27Ormesson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="496 KB" />
+    <author>
+      <name>Jean d'Ormesson</name>
+      <uri>../authors_0/authors_34_Page_1.xml</uri>
+    </author>
+    <published>2011-05-26T11:08:41Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Fayard</dcterms:publisher>
+    <category term="Documents - Essais" />
+    <category term="Lang:fr" />
+    <summary>Avant le tout, il n'y avait rien. Après le tout, qu'y aura-t-il ? [...]
+Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pas puisqu'ils sont comme une fleur et comme un fruit du tout. Nous sommes un très petit, un minuscul...</summary>
+    <link href="../book_0/book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Profanateur</title>
+    <id>calibre:book:74</id>
+    <updated>2019-08-30T11:35:09Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/Le%20Profanateur%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="192 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/Le%20Profanateur%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="293 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1991-01-15T06:41:26Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>LGF - Livre de Poche</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Allen Purcell, communicateur, était chargé de faire respecter l'ordre moral à coups de feuilletons télévisés dans un monde de comité de quartier, de minuscules mouchards robots et de conformisme absolu. Il était un citoyen parfait. Le seul ennui pour...</summary>
+    <link href="../book_0/book_74.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les pantins cosmiques</title>
+    <id>calibre:book:86</id>
+    <updated>2019-08-30T11:36:05Z</updated>
+    <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/Les%20pantins%20cosmiques%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="170 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/Les%20pantins%20cosmiques%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="254 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1984-04-02T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>PRESSES DE LA CITE</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>presses de la cite, 18*11 cm, 158 pages.</summary>
+    <link href="../book_0/book_86.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

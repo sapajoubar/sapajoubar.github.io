@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Muchachas 1</title>
+  <id>urn:book:c0781a07-3e8c-45d0-aa0c-71ae5e27fe68</id>
+  <updated>2019-08-30T11:40:10Z</updated>
+  <link href="./book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Muchachas 1" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/Muchachas%201%20-%20Katherine%20Pancol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="311 KB" />
+  <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/Muchachas%201%20-%20Katherine%20Pancol.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="534 KB" />
+  <author>
+    <name>Katherine Pancol</name>
+    <uri>../authors_0/authors_26_Page_1.xml</uri>
+  </author>
+  <published>2014-02-11T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Albin Michel</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="Literary" />
+  <category term="Littérature" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Fiction, Literary, Littérature, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      <p>Les filles sont partout dans ce roman.</p>
+      <p>Elles mènent la danse.</p>
+      <p>De New York à Paris, de la Bourgogne à Londres
+      ou à Miami.</p>
+      <p>Des filles qui inventent, s'enflamment, aiment.</p>
+      <p>Des filles qui se battent pour la vie.</p>
+      <p>Et les hommes ?</p>
+      <p>Ils sont là aussi.</p>
+      <p>Mais ce sont les muchachas qui dansent, dansent,
+      dansent.</p>
+      <p>Elles font voler les destins en éclats.</p>
+      <p>Et ça n'en finit pas !</p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Katherine Pancol" />
+  <link href="http://www.goodreads.com/book/title/Muchachas%201" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Muchachas%201" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Muchachas%201%20Katherine%20Pancol" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Muchachas%201&amp;field-author=Katherine%20Pancol" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Katherine%20Pancol" type="text/html" rel="related" title="Katherine Pancol sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Katherine%20Pancol" type="text/html" rel="related" title="Katherine Pancol sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/PancolKatherine" type="text/html" rel="related" title="Katherine Pancol sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Katherine%20Pancol" type="text/html" rel="related" title="Katherine Pancol sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Katherine%20Pancol" type="text/html" rel="related" title="Katherine Pancol sur ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Guide de démarrage rapide</title>
+  <id>urn:book:33f550bc-bcfd-4b9a-a252-7d0bba8ae205</id>
+  <updated>2019-08-30T11:32:02Z</updated>
+  <link href="./book_1.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Guide de démarrage rapide" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../John%20Schember/Guide%20de%20demarrage%20rapide%20%281%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../John%20Schember/Guide%20de%20demarrage%20rapide%20%281%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../John%20Schember/Guide%20de%20demarrage%20rapide%20%281%29/Guide%20de%20demarrage%20rapide%20-%20John%20Schember.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="56 KB" />
+  <link href="../../John%20Schember/Guide%20de%20demarrage%20rapide%20%281%29/Guide%20de%20demarrage%20rapide%20-%20John%20Schember.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="87 KB" />
+  <author>
+    <name>John Schember</name>
+    <uri>../authors_0/authors_1_Page_1.xml</uri>
+  </author>
+  <published>2015-04-26T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="calibre" />
+  <category term="Guide" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      calibre, Guide, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <font xmlns="" face="MS Shell Dlg 2, sans-serif">
+      <span style="font-size: 12px;">Guide de démarrage rapide
+      pour calibre</span>
+    </font>
+  </content>
+  <link href="../authors_0/authors_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de John Schember" />
+  <link href="http://www.goodreads.com/book/title/Guide%20de%20d%C3%A9marrage%20rapide" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Guide%20de%20d%C3%A9marrage%20rapide" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Guide%20de%20d%C3%A9marrage%20rapide%20John%20Schember" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Guide%20de%20d%C3%A9marrage%20rapide&amp;field-author=John%20Schember" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/John%20Schember" type="text/html" rel="related" title="John Schember sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/John%20Schember" type="text/html" rel="related" title="John Schember sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/SchemberJohn" type="text/html" rel="related" title="John Schember sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20Schember" type="text/html" rel="related" title="John Schember sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20Schember" type="text/html" rel="related" title="John Schember sur ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Testament Phonographe</title>
+  <id>urn:book:c5bfecbc-ec24-4d03-9816-1b5bd30d230f</id>
+  <updated>2019-08-30T11:33:45Z</updated>
+  <link href="./book_130.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Testament Phonographe" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="9 MB" />
+  <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="10 MB" />
+  <author>
+    <name>Léo Ferré</name>
+    <uri>../authors_0/authors_45_Page_1.xml</uri>
+  </author>
+  <published>1979-12-31T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Edizioni Gufo Del Tramonto</dcterms:publisher>
+  <category term="littérature XXes" />
+  <category term="Petite bibliotheque anarchiste" />
+  <category term="ABProd'" />
+  <category term="Poésie" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      littérature XXes, Petite bibliotheque anarchiste, ABProd', Poésie, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Léo Albert Charles Antoine Ferré, né le 24
+    août 1916 à Monaco et mort le 14 juillet 1993 à
+    Castellina in Chianti (Toscane), est un poète, musicien et
+    chanteur franco-monégasque. Ayant réalisé plus
+    d'une quarantaine d'albums originaux couvrant une période
+    d'activité de 46 ans, Léo Ferré est à ce
+    jour le plus prolifique auteur-compositeur-interprète
+    d'expression française.</p>
+    <br xmlns="" />
+    <br xmlns="" />
+    <p xmlns="">Testament phonographe regroupe 143 textes de Léo
+    Ferré. Il est unanimement reconnu comme l'un des plus
+    grands auteurs-compositeurs-interprètes de la chanson
+    française. Il a également contribué à faire
+    connaître au grand public des poètes comme Villon,
+    Baudelaire, Verlaine, Rimbaud, Apollinaire ou Aragon en mettant
+    leurs textes en musique.</p>
+  </content>
+  <link href="../authors_0/authors_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Léo Ferré" />
+  <link href="http://www.goodreads.com/book/title/Testament%20Phonographe" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Testament%20Phonographe" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Testament%20Phonographe%20L%C3%A9o%20Ferr%C3%A9" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Testament%20Phonographe&amp;field-author=L%C3%A9o%20Ferr%C3%A9" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/L%C3%A9o%20Ferr%C3%A9" type="text/html" rel="related" title="Léo Ferré sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/L%C3%A9o%20Ferr%C3%A9" type="text/html" rel="related" title="Léo Ferré sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Ferr%C3%A9L%C3%A9o" type="text/html" rel="related" title="Léo Ferré sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=L%C3%A9o%20Ferr%C3%A9" type="text/html" rel="related" title="Léo Ferré sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?L%C3%A9o%20Ferr%C3%A9" type="text/html" rel="related" title="Léo Ferré sur ISFDB" target="_blank" />
+</entry>

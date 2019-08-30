@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par M</title>
+  <id>Calibre2opds:allbooks:M</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par M" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <entry>
+    <title>Macbeth</title>
+    <id>calibre:book:34</id>
+    <updated>2019-08-30T11:39:55Z</updated>
+    <link href="../../William%20Shakespeare/Macbeth%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../William%20Shakespeare/Macbeth%20%2834%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="176 KB" />
+    <link href="../../William%20Shakespeare/Macbeth%20%2834%29/Macbeth%20-%20William%20Shakespeare.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="231 KB" />
+    <author>
+      <name>William Shakespeare</name>
+      <uri>../authors_0/authors_23_Page_1.xml</uri>
+    </author>
+    <published>2012-03-10T08:05:13Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les Machines à Illusions</title>
+    <id>calibre:book:67</id>
+    <updated>2019-08-30T11:36:57Z</updated>
+    <link href="../../Philip%20K.%20Dick/Les%20Machines%20a%20Illusions%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Les%20Machines%20a%20Illusions%20%2867%29/Les%20Machines%20a%20Illusions%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="219 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20Machines%20a%20Illusions%20%2867%29/Les%20Machines%20a%20Illusions%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="327 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Ray Nelson</name>
+      <uri>../authors_0/authors_37_Page_1.xml</uri>
+    </author>
+    <published>1990-01-15T06:41:55Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>J'ai lu</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>En ces sombres années 2050... Venus d'une lointaine planète, les Ganymédiens - monstres doués d'une intelligence aiguë et maîtres d'une implacable technologie - ont conquis la Terre, soumis les Terriens. Soumis ? Pas tout à fait. Dans les monts du Te...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mangez-le si vous voulez</title>
+    <id>calibre:book:44</id>
+    <updated>2019-08-30T11:38:32Z</updated>
+    <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/Mangez-le%20si%20vous%20voulez%20-%20Teule%2CJean.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="290 KB" />
+    <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/Mangez-le%20si%20vous%20voulez%20-%20Teule%2CJean.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="351 KB" />
+    <author>
+      <name>Teulé,Jean</name>
+      <uri>../authors_0/authors_28_Page_1.xml</uri>
+    </author>
+    <published>2009-05-13T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Nul n'est à l'abri de l'abominable. Nous sommes tous capables du pire ! Le mardi 16 août 1870, Alain de Monéys, jeune périgourdin, sort du domicile de ses parents pour se rendre à la foire de Hautefaye, le village voisin. C est un jeune homme plaisan...</summary>
+    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Marie d’en haut</title>
+    <id>calibre:book:29</id>
+    <updated>2019-08-30T11:39:24Z</updated>
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/Marie%20d%27en%20haut%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/Marie%20d%27en%20haut%20-%20Agnes%20Ledig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="2 MB" />
+    <author>
+      <name>Agnès Ledig</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2012-12-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebookdz.com</dcterms:publisher>
+    <category term="Littérature" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Message de Frolix 8</title>
+    <id>calibre:book:85</id>
+    <updated>2019-08-30T11:36:13Z</updated>
+    <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/Message%20de%20Frolix%208%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="349 KB" />
+    <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/Message%20de%20Frolix%208%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="495 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1970-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Quatrième de couvertureSur Terre, en l'an 2135, ce sont les Exceptionnels et les Hommes Nouveaux qui gouvernent - surdoués, technocrates et tyranniques. Et les Ordinaires obéissent, sans désespérer tout à fait... Ils se souviennent, en effet, de Thor...</summary>
+    <link href="../book_0/book_85.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Moloch</title>
+    <id>calibre:book:129</id>
+    <updated>2019-08-03T07:09:46Z</updated>
+    <link href="../../Thierry%20Jonquet/Moloch%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Moloch%20%28129%29/Moloch%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="747 KB" />
+    <link href="../../Thierry%20Jonquet/Moloch%20%28129%29/Moloch%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="936 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2013-09-19T07:23:04Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Crime" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mon Vieux</title>
+    <id>calibre:book:139</id>
+    <updated>2019-08-03T07:09:56Z</updated>
+    <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/Mon%20Vieux%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="323 KB" />
+    <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/Mon%20Vieux%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="484 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2004-09-14T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>"Alain Colmont, élevé par sa mère, a quitté l'enseignement suite au succès d'un roman. Il est devenu scénariste télé après l'échec d'autres livres. Il connaît des difficultés pour payer les opérations de chirurgie de sa fille, accidentée, et apprend ...</summary>
+    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Monstespan</title>
+    <id>calibre:book:24</id>
+    <updated>2019-08-26T01:22:54Z</updated>
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
+    <author>
+      <name>Jean Teulé</name>
+      <uri>../authors_0/authors_18_Page_1.xml</uri>
+    </author>
+    <published>2007-12-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Roman Historique" />
+    <category term="Lang:fr" />
+    <summary>En 1663, Louis-Henri de Montespan, jeune marquis désargenté, épouse la somptueuse Françoise « Athénaïs » de Rochechouart. Lorsque cette dernière accède à la charge de dame de compagnie de la reine, ses charmes ne tardent pas à éblouir le monarque à q...</summary>
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les Montagnes Hallucinées</title>
+    <id>calibre:book:126</id>
+    <updated>2019-08-30T11:32:56Z</updated>
+    <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/Les%20Montagnes%20Hallucinees%20-%20Howard%20Phillips%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="431 KB" />
+    <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/Les%20Montagnes%20Hallucinees%20-%20Howard%20Phillips%20Lovecraft.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="300 KB" />
+    <author>
+      <name>Howard Phillips Lovecraft</name>
+      <uri>../authors_0/authors_42_Page_1.xml</uri>
+    </author>
+    <published>1936-05-14T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Feedbooks</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Horreur" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_126.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Muchachas 1</title>
+    <id>calibre:book:37</id>
+    <updated>2019-08-30T11:40:10Z</updated>
+    <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/Muchachas%201%20-%20Katherine%20Pancol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="311 KB" />
+    <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/Muchachas%201%20-%20Katherine%20Pancol.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="534 KB" />
+    <author>
+      <name>Katherine Pancol</name>
+      <uri>../authors_0/authors_26_Page_1.xml</uri>
+    </author>
+    <published>2014-02-11T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Albin Michel</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Literary" />
+    <category term="Littérature" />
+    <category term="Lang:fr" />
+    <summary>Les filles sont partout dans ce roman.Elles mènent la danse.De New York à Paris, de la Bourgogne à Londres ou à Miami.Des filles qui inventent, s'enflamment, aiment.Des filles qui se battent pour la vie.Et les hommes ?Ils sont là aussi.Mais ce sont l...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mygale</title>
+    <id>calibre:book:140</id>
+    <updated>2019-08-03T07:09:49Z</updated>
+    <link href="../../Thierry%20Jonquet/Mygale%20%28140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Mygale%20%28140%29/Mygale%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="126 KB" />
+    <link href="../../Thierry%20Jonquet/Mygale%20%28140%29/Mygale%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="194 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2010-04-15T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Lang:fr" />
+    <summary>Il n'est pas si fréquent que les mots d'un écrivain trouvent un écho si puissant dans le coeur de celui qui les découvre ; un coeur qui bat, saigne et qui s'ouvre à la découverte de ces gosses, en plein Paris, victimes de barbarie ; un coeur qui hurl...</summary>
+    <link href="../book_0/book_140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La malédiction d'Edgar</title>
+    <id>calibre:book:45</id>
+    <updated>2019-08-30T11:38:46Z</updated>
+    <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/La%20malediction%20d%27Edgar%20-%20Marc%20Dugain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="634 KB" />
+    <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/La%20malediction%20d%27Edgar%20-%20Marc%20Dugain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="788 KB" />
+    <author>
+      <name>Marc Dugain</name>
+      <uri>../authors_0/authors_17_Page_1.xml</uri>
+    </author>
+    <published>2012-04-14T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Editions Gallimard</dcterms:publisher>
+    <category term="Lang:fr" />
+    <summary>Version 27974 - 2012-01-06 15:18:42 +0100</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

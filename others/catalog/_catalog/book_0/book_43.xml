@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Det_Entrez dans la danse</title>
+  <id>urn:book:73116d9b-e1ad-413e-b7c9-1b1387f5a150</id>
+  <updated>2019-08-30T11:38:44Z</updated>
+  <link href="./book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Det_Entrez dans la danse" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/det_Entrez%20dans%20la%20danse%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="806 KB" />
+  <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/det_Entrez%20dans%20la%20danse%20-%20Jean%20Teule.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="934 KB" />
+  <author>
+    <name>Jean Teulé</name>
+    <uri>../authors_0/authors_18_Page_1.xml</uri>
+  </author>
+  <published>2018-01-31T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Julliard</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="Literary" />
+  <category term="General" />
+  <category term="Roman" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Fiction, Literary, General, Roman, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">Une étrange épidémie a eu
+    lieu dernièrement Et s'est répandue dans Strasbourg
+    De telle sorte que, dans leur folie, Beaucoup se mirent à
+    danser Et ne cessèrent jour et nuit, pendant deux mois
+    Sans interruption, Jusqu'à tomber inconscients. Beaucoup
+    sont morts.Chronique alsacienne, 1519</p>
+  </content>
+  <link href="../authors_0/authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Jean Teulé" />
+  <link href="http://www.goodreads.com/book/title/Det_Entrez%20dans%20la%20danse" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Det_Entrez%20dans%20la%20danse" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Det_Entrez%20dans%20la%20danse%20Jean%20Teul%C3%A9" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Det_Entrez%20dans%20la%20danse&amp;field-author=Jean%20Teul%C3%A9" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/Teul%C3%A9Jean" type="text/html" rel="related" title="Jean Teulé sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La séparation</title>
+  <id>urn:book:6bf6fe0d-dd72-4b3f-89e6-65ab6cb5ff7d</id>
+  <updated>2019-08-30T11:38:07Z</updated>
+  <link href="./book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La séparation" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/La%20separation%20-%20Priest%2CChristopher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="496 KB" />
+  <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/La%20separation%20-%20Priest%2CChristopher.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="742 KB" />
+  <author>
+    <name>Priest,Christopher</name>
+    <uri>../authors_0/authors_35_Page_1.xml</uri>
+  </author>
+  <published>2002-01-04T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="SF" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      SF, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      <div align="justify">
+        Que s'est-il réellement passé
+      dans la nuit du 10 au 11 mai 1941, cette nuit où Rudolf
+      Hess s'est envolé d'Allemagne pour négocier la paix
+      avec la Grande-Bretagne ? Son avion a-t-il été
+      abattu par la
+        <i>Luftwaffe</i>
+         ? Hess a-t-il réussi sa mission
+      sans en informer Adolf Hitler ? Et pourquoi, dans
+      certains documents d'archives, la guerre semble-t-elle
+      s'être prolongée jusqu'en 1945 ? C'est à
+      toutes ces questions que va tenter de répondre
+      l'historien Stuart Gratton ; notamment en
+      s'intéressant au destin exceptionnel de deux frères
+      jumeaux, Joe et Jack Sawyer, qui ont rencontré Hess en
+      1936 aux Jeux olympiques de Berlin.
+      </div>
+      <div style="text-align: justify;">
+        <br />
+      </div>
+      <div align="justify">
+        Dominant sans partage un territoire
+      délimité, du côté de la littérature
+      générale, par 
+        <i>Les Vestiges du jour</i>
+        de Kazuo Ishiguro, et du
+      côté de la science-fiction par Le 
+        <i>Maître du haut château </i>
+        de Philip K.
+      Dick, 
+        <i>La Séparation</i>
+         a été
+      récompensé par le British Science Fiction Award et
+      le Arthur C. Clarke Award.
+      </div>
+      <div align="justify">
+        <br />
+      </div>
+      <div align="justify">
+        <a href="http://www.amazon.fr/s%C3%A9paration-Christopher-Priest/dp/2070356981">http://www.amazon.fr/séparation-Christopher-Priest/dp/2070356981</a>
+      </div>
+    </div>
+  </content>
+  <link href="../authors_0/authors_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Priest,Christopher" />
+  <link href="http://www.goodreads.com/book/title/La%20s%C3%A9paration" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/La%20s%C3%A9paration" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/La%20s%C3%A9paration%20Priest%2CChristopher" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20s%C3%A9paration&amp;field-author=Priest%2CChristopher" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/PriestChristopher" type="text/html" rel="related" title="Priest,Christopher sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur ISFDB" target="_blank" />
+</entry>

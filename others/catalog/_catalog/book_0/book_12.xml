@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Le Médianoche amoureux</title>
+  <id>urn:book:b64f7763-c7b4-4b0c-80fe-babe9af2f497</id>
+  <updated>2019-08-30T11:32:09Z</updated>
+  <link href="./book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le Médianoche amoureux" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Michel%20Tournier/Le%20Medianoche%20amoureux%20%2812%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Michel%20Tournier/Le%20Medianoche%20amoureux%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Michel%20Tournier/Le%20Medianoche%20amoureux%20%2812%29/Le%20Medianoche%20amoureux%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="249 KB" />
+  <link href="../../Michel%20Tournier/Le%20Medianoche%20amoureux%20%2812%29/Le%20Medianoche%20amoureux%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="350 KB" />
+  <author>
+    <name>Michel Tournier</name>
+    <uri>../authors_0/authors_3_Page_1.xml</uri>
+  </author>
+  <published>2011-05-23T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Nouvelles" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Nouvelles, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      14 contes et nouvelles.
+      <br />
+      <br />
+      C'étaient des statues sculptées dans le sable,
+    d'une étrange et poignante beauté. Les corps se
+    lovaient dans une faible dépression, ceints d'un lambeau
+    de tissu gris souillé de vase. On songeait à Adam et
+    Eve avant que Dieu vînt souffler la vie dans leurs narines
+    de limon. Le rocher de Tombelaine émergeait de la brume.
+    Suspendu comme un mirage saharien au-dessus des nuées, le
+    Mont-Saint-Michel brillait de toutes ses tuiles vermeilles, de
+    tous les vitraux de sa pyramide abbatiale.
+      <br />
+      ------
+      <br />
+      — Oui, mais une table, une chaise, on sait à
+    quoi ça sert. Un écrivain, c’est utile ?
+      <br />
+      Il fallait bien que la question fût posée. Je
+    leur dis que la société est menacée de mort par
+    les forces d’ordre et d’organisation qui
+    pèsent sur elle. Tout pouvoir – politique, policier
+    ou administratif – est conservateur. Si rien ne
+    l’équilibre, il engendrera une société
+    bloquée, semblable à une ruche, à une
+    fourmilière, à une termitière. Il n’y aura
+    plus rien d’humain, c’est-à-dire
+    d’imprévu, de créatif parmi les hommes.
+    L’écrivain a pour fonction naturelle d’allumer
+    par ses livres des foyers de réflexion, de contestation,
+    de remise en cause de l’ordre établi. Inlassablement
+    il lance des appels à la révolte, des rappels au
+    désordre, parce qu’il n’y a rien
+    d’humain sans création, mais toute création
+    dérange. C’est pourquoi il est si souvent poursuivi
+    et persécuté. Et je citai François Villon, plus
+    souvent en prison qu’en relaxe, Germaine de Staël,
+    défiant le pouvoir napoléonien et se refusant à
+    écrire l’unique phrase de soumission qui lui aurait
+    valu la faveur du tyran, Victor Hugo, exilé vingt ans sur
+    son îlot. Et Jules Vallès, et Soljenitsyne et bien
+    d’autres.
+      <br />
+      — Il faut écrire debout, jamais à genoux.
+    La vie est un travail qu’il faut toujours faire debout,
+    dis-je enfin.
+    </div>
+  </content>
+  <link href="../authors_0/authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Tournier" />
+  <link href="http://www.goodreads.com/book/title/Le%20M%C3%A9dianoche%20amoureux" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Le%20M%C3%A9dianoche%20amoureux" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Le%20M%C3%A9dianoche%20amoureux%20Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20M%C3%A9dianoche%20amoureux&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/TournierMichel" type="text/html" rel="related" title="Michel Tournier sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur ISFDB" target="_blank" />
+</entry>

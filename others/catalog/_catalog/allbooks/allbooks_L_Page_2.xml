@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par L</title>
+  <id>Calibre2opds:allbooks:L</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_L_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par L" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Livres d�butant par L" />
+  <entry>
+    <title>Le zappeur de mondes</title>
+    <id>calibre:book:59</id>
+    <updated>2019-08-30T11:37:27Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20zappeur%20de%20mondes%20%2859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20zappeur%20de%20mondes%20%2859%29/Le%20zappeur%20de%20mondes%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="265 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20zappeur%20de%20mondes%20%2859%29/Le%20zappeur%20de%20mondes%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="379 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1965-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Philip K. Dick n'a guère voyagé. Mais sans avoir presque jamais quitté sa Californie natale, il continue, plus de vingt ans après sa mort, à entraîner des générations de lecteurs dans d'affolants périples qui, faisant éclater le cadre convenu de la "...</summary>
+    <link href="../book_0/book_59.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les Météores</title>
+    <id>calibre:book:3</id>
+    <updated>2019-08-30T11:41:15Z</updated>
+    <link href="../../Michel%20Tournier/Les%20Meteores%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Tournier/Les%20Meteores%20%283%29/Les%20Meteores%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="508 KB" />
+    <link href="../../Michel%20Tournier/Les%20Meteores%20%283%29/Les%20Meteores%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="761 KB" />
+    <author>
+      <name>Michel Tournier</name>
+      <uri>../authors_0/authors_3_Page_1.xml</uri>
+    </author>
+    <published>2011-04-06T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Romans" />
+    <category term="Lang:fr" />
+    <summary>4e de couverture :Deux jumeaux, Jean et Paul, forment un couple fraternel si uni qu'on l'appelle Jean-Paul. Mais Jean veut briser cette chaîne et essaie de se marier. Paul fait échouer ce projet. Désespéré, Jean part seul en voyage de noces à Venise....</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les Orpailleurs</title>
+    <id>calibre:book:138</id>
+    <updated>2019-08-03T07:10:01Z</updated>
+    <link href="../../Thierry%20Jonquet/Les%20Orpailleurs%20%28138%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Thierry%20Jonquet/Les%20Orpailleurs%20%28138%29/Les%20Orpailleurs%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="268 KB" />
+    <link href="../../Thierry%20Jonquet/Les%20Orpailleurs%20%28138%29/Les%20Orpailleurs%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="477 KB" />
+    <author>
+      <name>Thierry Jonquet</name>
+      <uri>../authors_0/authors_44_Page_1.xml</uri>
+    </author>
+    <published>2010-04-15T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Il n'est pas si fréquent que les mots d'un écrivain trouvent un écho si puissant dans le coeur de celui qui les découvre ; un coeur qui bat, saigne et qui s'ouvre à la découverte de ces gosses, en plein Paris, victimes de barbarie ; un coeur qui hurl...</summary>
+    <link href="../book_0/book_138.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les Particules élémentaires</title>
+    <id>calibre:book:119</id>
+    <updated>2019-08-30T11:34:01Z</updated>
+    <link href="../../Michel%20Houellebecq/Les%20Particules%20elementaires%20%28119%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Houellebecq/Les%20Particules%20elementaires%20%28119%29/Les%20Particules%20elementaires%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="297 KB" />
+    <link href="../../Michel%20Houellebecq/Les%20Particules%20elementaires%20%28119%29/Les%20Particules%20elementaires%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="426 KB" />
+    <author>
+      <name>Michel Houellebecq</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>1998-01-01T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Les particules élémentaires est la chronique du déclin d'une civilisation - la nôtre - qu'illustre l'existence plate et morose de deux demi-frères, Michel et Bruno, confrontés à leur misérable condition. Car tandis que Bruno s'abîme dans une quête dé...</summary>
+    <link href="../book_0/book_119.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les chaînes de l'avenir</title>
+    <id>calibre:book:71</id>
+    <updated>2019-08-30T11:37:18Z</updated>
+    <link href="../../Philip%20K.%20Dick/Les%20chaines%20de%20l%27avenir%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Les%20chaines%20de%20l%27avenir%20%2871%29/Les%20chaines%20de%20l%27avenir%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="298 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20chaines%20de%20l%27avenir%20%2871%29/Les%20chaines%20de%20l%27avenir%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="414 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1956-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Jones prévoyait l'avenir. Non pas à la façon vague d'un diseur de bonne aventure, mais de manière précise, dans tous ses détails. Il se souvenait de l'avenir. L'ennui, c'était que son don était limité à une année. Et le drame, c'était qu'il ne pouvai...</summary>
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les joueurs de Titan</title>
+    <id>calibre:book:70</id>
+    <updated>2019-08-30T11:37:07Z</updated>
+    <link href="../../Philip%20K.%20Dick/Les%20joueurs%20de%20Titan%20%2870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Les%20joueurs%20de%20Titan%20%2870%29/Les%20joueurs%20de%20Titan%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="246 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20joueurs%20de%20Titan%20%2870%29/Les%20joueurs%20de%20Titan%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="378 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1978-01-15T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Librairie des Champs-Élysées</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>253pages. poche. Broché.</summary>
+    <link href="../book_0/book_70.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Loterie solaire</title>
+    <id>calibre:book:47</id>
+    <updated>2019-08-30T11:38:25Z</updated>
+    <link href="../../Philip%20K.%20Dick/Loterie%20solaire%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Loterie%20solaire%20%2847%29/Loterie%20solaire%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="207 KB" />
+    <link href="../../Philip%20K.%20Dick/Loterie%20solaire%20%2847%29/Loterie%20solaire%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="316 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1955-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>Au XXIIIe siècle, n'importe qui peut accéder au pouvoir. Le dirigeant du monde, ou meneur de jeu, est désigné par tirage au sort. Et comme dans toute société ludique, ce sont les règles qui régissent la vie, le hasard venant régulièrement en remettre...</summary>
+    <link href="../book_0/book_47.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Loup des mers</title>
+    <id>calibre:book:103</id>
+    <updated>2019-08-30T11:34:22Z</updated>
+    <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/Le%20Loup%20des%20mers%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="329 KB" />
+    <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/Le%20Loup%20des%20mers%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="487 KB" />
+    <author>
+      <name>Jack London</name>
+      <uri>../authors_0/authors_20_Page_1.xml</uri>
+    </author>
+    <published>2013-08-14T10:44:06Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebooks libres et gratuits</dcterms:publisher>
+    <category term="Aventures" />
+    <category term="Lang:fr" />
+    <summary>1904 Traduction de Paul Gruyer et Louis Postif À la suite d'un naufrage, l'auteur est repêché par une goélette armée pour la chasse aux phoques, où sévit un capitaine cynique, d'une brutalité sauvage. Il restera «indomptable et sceptique jusqu'au bou...</summary>
+    <link href="../book_0/book_103.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lovecraft, contre le monde, contre la vie</title>
+    <id>calibre:book:124</id>
+    <updated>2019-08-30T11:33:13Z</updated>
+    <link href="../../Michel%20Houellebecq/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20%28124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Houellebecq/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20%28124%29/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="101 KB" />
+    <link href="../../Michel%20Houellebecq/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20%28124%29/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="151 KB" />
+    <author>
+      <name>Michel Houellebecq</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>1991-10-17T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Howard Phillips Lovecraft constitue un exemple pour tous ceux qui souhaitent apprendre à rater leur vie, et éventuellement, à réussir leur oeuvre Encore que, sur ce dernier point, le résultat ne soit pas garanti." Auteur de L'appel de Cthulhu, de Dag...</summary>
+    <link href="../book_0/book_124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le livre d'or de la science-fiction</title>
+    <id>calibre:book:82</id>
+    <updated>2019-08-30T11:35:55Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20livre%20d%27or%20de%20la%20science-fiction%20%2882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20livre%20d%27or%20de%20la%20science-fiction%20%2882%29/Le%20livre%20d%27or%20de%20la%20science-fiction%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="354 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20livre%20d%27or%20de%20la%20science-fiction%20%2882%29/Le%20livre%20d%27or%20de%20la%20science-fiction%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="567 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1996-01-30T06:41:35Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Vintage Books</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="Le livre d'or de la science-fiction" />
+    <summary>Le livre d'or de la science-fiction [8]: Philip K. Dick has established himself as a major figure in American literature. The landscape of his imagination features a wealth of concepts and fictional worlds: Nazi-rule in a postwar nightmare; androids ...</summary>
+    <link href="../book_0/book_82.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

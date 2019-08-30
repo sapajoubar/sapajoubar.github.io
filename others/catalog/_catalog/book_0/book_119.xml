@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Les Particules élémentaires</title>
+  <id>urn:book:df161777-f86e-4ca4-a732-19dab490abd1</id>
+  <updated>2019-08-30T11:34:01Z</updated>
+  <link href="./book_119.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Les Particules élémentaires" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Michel%20Houellebecq/Les%20Particules%20elementaires%20%28119%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Michel%20Houellebecq/Les%20Particules%20elementaires%20%28119%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Michel%20Houellebecq/Les%20Particules%20elementaires%20%28119%29/Les%20Particules%20elementaires%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="297 KB" />
+  <link href="../../Michel%20Houellebecq/Les%20Particules%20elementaires%20%28119%29/Les%20Particules%20elementaires%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="426 KB" />
+  <author>
+    <name>Michel Houellebecq</name>
+    <uri>../authors_0/authors_38_Page_1.xml</uri>
+  </author>
+  <published>1998-01-01T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Non lu" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Non lu, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">Les particules élémentaires
+    est la chronique du déclin d'une civilisation - la
+    nôtre - qu'illustre l'existence plate et morose de deux
+    demi-frères, Michel et Bruno, confrontés à leur
+    misérable condition. Car tandis que Bruno s'abîme
+    dans une quête désespérée du plaisir
+    sexuel, la vie amoureuse de Michel continue d'être un
+    pitoyable désastre. Ni résigné, ni satisfait, ce
+    dernier, chercheur en biologie, reste persuadé que ses
+    travaux seront déterminants pour l'avènement d'une
+    nouvelle espèce, asexuée et immortelle, et la
+    disparition - enfin ! - de l'humanité.</p>
+  </content>
+  <link href="../authors_0/authors_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Houellebecq" />
+  <link href="http://www.goodreads.com/book/title/Les%20Particules%20%C3%A9l%C3%A9mentaires" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Les%20Particules%20%C3%A9l%C3%A9mentaires" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Les%20Particules%20%C3%A9l%C3%A9mentaires%20Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Les%20Particules%20%C3%A9l%C3%A9mentaires&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/HouellebecqMichel" type="text/html" rel="related" title="Michel Houellebecq sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur ISFDB" target="_blank" />
+</entry>

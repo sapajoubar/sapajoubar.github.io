@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Lovecraft, Howard Philips</title>
+  <id>Calibre2opds:authors:41</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lovecraft, Howard Philips" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>L'abomination de Dunwich</title>
+    <id>calibre:book:125</id>
+    <updated>2019-08-30T11:33:05Z</updated>
+    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/L%27abomination%20de%20Dunwich%20-%20Lovecraft%2C%20Howard%20Philips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="278 KB" />
+    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/L%27abomination%20de%20Dunwich%20-%20Lovecraft%2C%20Howard%20Philips.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="392 KB" />
+    <author>
+      <name>Lovecraft, Howard Philips</name>
+      <uri>../authors_0/authors_41_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>Parce qu'un de leurs ancêtres s'est approprié un secret que les humains ne doivent pas connaître, ou parce qu'il a entr'ouvert une porte sur l'extérieur, certaines familles se transmettent une malédiction de génération en génération.C'est le cas des ...</summary>
+    <link href="../book_0/book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

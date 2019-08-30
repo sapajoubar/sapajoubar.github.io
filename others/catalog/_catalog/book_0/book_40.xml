@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Je vais encore me faire des amis !</title>
+  <id>urn:book:9d5deb7f-9abc-4d5e-9f8b-965f1b080d7d</id>
+  <updated>2019-08-30T11:39:00Z</updated>
+  <link href="./book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Je vais encore me faire des amis !" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="341 KB" />
+  <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="470 KB" />
+  <author>
+    <name>Mocky,Jean-Pierre</name>
+    <uri>../authors_0/authors_27_Page_1.xml</uri>
+  </author>
+  <published>2015-04-22T10:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>LE CHERCHE MIDI</dcterms:publisher>
+  <category term="Autobiographie" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Autobiographie, Lang:en
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Jean-Pierre Mocky n’est pas seulement une légende
+    du cinéma français : inclassable et rebelle, il
+    ressemble aux personnages de ses films. Aujourd’hui, une
+    fois n’est pas coutume, il troque sa caméra contre
+    une plume bien affûtée… et tout le monde y
+    passe ! Famille, amours, réalisateurs, acteurs : la
+    mémoire vive et le verbe haut, il nous livre une
+    savoureuse galerie de portraits, riche en coups de cœur,
+    coups de gueule et coups de sang. Amateurs de
+    révélations, réjouissez-vous. Adeptes du
+    politiquement correct, s’abstenir. Enfant, Mocky est
+    figurant chez Marcel Carné, puis Jean Cocteau. À 20
+    ans, Michelangelo Antonioni fait de lui une vedette. Pourtant,
+    l’emploi d’acteur sied mal à sa soif de
+    liberté : passé derrière la caméra, ce
+    disciple de Fritz Lang et de Luis Buñuel saura toujours
+    attirer les plus grandes stars, leur réservant
+    d’audacieux contre-emplois dans des films insolites et
+    satiriques. « Langue de bois, connais pas ! », telle
+    est la devise de Mocky l’indomptable, dont la longue
+    filmographie illustre ses nombreuses révoltes et
+    indignations : scandales politiques et religieux, crimes
+    sexuels, abus de faiblesse… Ennemi juré de la
+    bien-pensance, il a souvent payé cher son
+    indépendance et son franc-parler. S’il a su nouer
+    des amitiés durables dans le métier, sa route est
+    semée de fâcheries d’un soir et de brouilles
+    définitives. Bourvil, de Funès, Delon, Deneuve,
+    Visconti, Chaplin, Serrault, Godard, Eastwood et bien
+    d’autres jalonnent son parcours atypique, pour le
+    meilleur et pour le pire. Qu’importe ! Son amour du
+    cinéma prévaut sur le reste : après quelque
+    soixante ans de carrière, il tourne plus que jamais et
+    fourmille de projets. Mais au fond, qu’est-ce qui fait
+    courir Mocky ? On le découvre au fil d’un récit
+    truculent, sulfureux, drôle et nostalgique, où
+    l’auteur, évoquant sans fard ses blessures de
+    jeunesse, nous dévoile une part de sensibilité
+    inattendue. </p>
+  </content>
+  <link href="../authors_0/authors_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Mocky,Jean-Pierre" />
+  <link href="http://www.goodreads.com/book/title/Je%20vais%20encore%20me%20faire%20des%20amis%20%21" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Je%20vais%20encore%20me%20faire%20des%20amis%20%21" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20Mocky%2CJean-Pierre" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Je%20vais%20encore%20me%20faire%20des%20amis%20%21&amp;field-author=Mocky%2CJean-Pierre" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/MockyJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur ISFDB" target="_blank" />
+</entry>

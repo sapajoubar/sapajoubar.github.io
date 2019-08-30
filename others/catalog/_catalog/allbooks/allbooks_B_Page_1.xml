@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par B</title>
+  <id>Calibre2opds:allbooks:B</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par B" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <entry>
+    <title>Baise-moi (Littérature Française) (French Edition)</title>
+    <id>calibre:book:39</id>
+    <updated>2019-08-30T11:38:44Z</updated>
+    <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="293 KB" />
+    <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="386 KB" />
+    <author>
+      <name>Virginie Despentes</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2012-12-18T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Grasset</dcterms:publisher>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le Bal Des Schizos</title>
+    <id>calibre:book:89</id>
+    <updated>2019-08-30T11:36:25Z</updated>
+    <link href="../../Philip%20K.%20Dick/Le%20Bal%20Des%20Schizos%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Le%20Bal%20Des%20Schizos%20%2889%29/Le%20Bal%20Des%20Schizos%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="288 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Bal%20Des%20Schizos%20%2889%29/Le%20Bal%20Des%20Schizos%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="439 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1991-01-15T06:40:23Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Pocket</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Autrefois, il y a eu un vrai Louis Rosen, mais il a disparu depuis belle lurette, et moi je suis là à sa place. S'il m'arrive quelque chose, ils ont les bandes pour en créer un autre. C'est réussi, hein ? Même mon père a failli s'y laisser prendre.– ...</summary>
+    <link href="../book_0/book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Blade Runner</title>
+    <id>calibre:book:92</id>
+    <updated>2019-08-30T11:34:50Z</updated>
+    <link href="../../Philip%20K.%20Dick/Blade%20Runner%20%2892%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Blade%20Runner%20%2892%29/Blade%20Runner%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="280 KB" />
+    <link href="../../Philip%20K.%20Dick/Blade%20Runner%20%2892%29/Blade%20Runner%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="408 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2000-01-15T06:40:40Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Nel 1992 la Guerra Mondiale ha ucciso milioni di persone, e condannato all'estinzione intere specie, costringendo l'umanità ad andare nello spazio. Chi è rimasto sogna di possedere un animale vivente, e le compagnie producono copie incredibilmente re...</summary>
+    <link href="../book_0/book_92.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Bulle Cassée</title>
+    <id>calibre:book:68</id>
+    <updated>2019-08-30T11:37:12Z</updated>
+    <link href="../../Philip%20K.%20Dick/La%20Bulle%20Cassee%20%2868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/La%20Bulle%20Cassee%20%2868%29/La%20Bulle%20Cassee%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="352 KB" />
+    <link href="../../Philip%20K.%20Dick/La%20Bulle%20Cassee%20%2868%29/La%20Bulle%20Cassee%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="544 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1993-01-15T06:41:18Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>10-18</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Présentation de l'éditeurEcouter de la musique reste le seul plaisir de Jim, disc-jockey vedette d'une station locale à San Francisco. C'est sûr qu'entre son ex-femme Pat dont il n'arrive pas à se défaire et un patron qui ne supporte plus ses espiègl...</summary>
+    <link href="../book_0/book_68.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Bye Bye Blondie</title>
+    <id>calibre:book:5</id>
+    <updated>2019-08-30T11:41:26Z</updated>
+    <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/Bye%20Bye%20Blondie%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="225 KB" />
+    <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/Bye%20Bye%20Blondie%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="376 KB" />
+    <author>
+      <name>Virginie Despentes</name>
+      <uri>../authors_0/authors_5_Page_1.xml</uri>
+    </author>
+    <published>2006-02-28T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>LGF/Le Livre de Poche</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:fr" />
+    <summary>« Une fille qu’on rencontre en HP n’est pas une fille qui rend heureux. Il voulait jouer contre le reste du monde, avoir raison contre toutes les évidences,il pensait que c’était ça l’amour. Il voulait prendre ce risque, avec elle, et qu’ils arrivent...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le bec en l'air</title>
+    <id>calibre:book:49</id>
+    <updated>2019-08-30T11:38:23Z</updated>
+    <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/Le%20bec%20en%20l%27air%20-%20Alphonse%20Allais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="167 KB" />
+    <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/Le%20bec%20en%20l%27air%20-%20Alphonse%20Allais.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="252 KB" />
+    <author>
+      <name>Alphonse Allais</name>
+      <uri>../authors_0/authors_31_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Lang:en" />
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

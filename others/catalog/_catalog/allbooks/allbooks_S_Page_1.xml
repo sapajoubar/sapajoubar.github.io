@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Livres d�butant par S</title>
+  <id>Calibre2opds:allbooks:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
+  <entry>
+    <title>Sexe et mensonges</title>
+    <id>calibre:book:16</id>
+    <updated>2019-08-30T11:40:21Z</updated>
+    <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/Sexe%20et%20mensonges%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="550 KB" />
+    <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/Sexe%20et%20mensonges%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="445 KB" />
+    <author>
+      <name>Leïla Slimani</name>
+      <uri>../authors_0/authors_12_Page_1.xml</uri>
+    </author>
+    <published>2017-06-09T09:22:22Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Les Arènes</dcterms:publisher>
+    <category term="Lang:fr" />
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Simulacres</title>
+    <id>calibre:book:72</id>
+    <updated>2019-08-30T11:35:07Z</updated>
+    <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/Simulacres%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="299 KB" />
+    <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/Simulacres%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="552 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1964-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Vol. n°594</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Siva</title>
+    <id>calibre:book:80</id>
+    <updated>2019-08-30T11:35:44Z</updated>
+    <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/Siva%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="308 KB" />
+    <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/Siva%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="470 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>2006-03-09T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Folio</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <category term="la trilogie divine" />
+    <summary>la trilogie divine [1]: Mélange de science-fiction spéculative, de récit autobiographique, de questionnement métaphysique et de délires schizophréniques, La trilogie divine compte parmi les œuvres les plus déroutantes de Philip K. Dick.Quatrième de c...</summary>
+    <link href="../book_0/book_80.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Substance Mort</title>
+    <id>calibre:book:77</id>
+    <updated>2019-08-30T11:35:29Z</updated>
+    <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/Substance%20Mort%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+    <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/Substance%20Mort%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="577 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1977-01-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:fr" />
+    <summary>Un voyage sans retour au bout de la schizophrénie, une plongée glaçante dans l'enfer des paradis artificiels.Quatrième de couvertureDans une Amérique imaginaire livrée à l'effacement des singularités et à la paranoïa technologique, les derniers survi...</summary>
+    <link href="../book_0/book_77.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sur le territoire de Milton Lumky</title>
+    <id>calibre:book:79</id>
+    <updated>2019-08-30T11:35:35Z</updated>
+    <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/Sur%20le%20territoire%20de%20Milton%20Lumky%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="308 KB" />
+    <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/Sur%20le%20territoire%20de%20Milton%20Lumky%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="458 KB" />
+    <author>
+      <name>Philip K. Dick</name>
+      <uri>../authors_0/authors_29_Page_1.xml</uri>
+    </author>
+    <published>1958-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Alexandriz</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Bruce est un jeune commercial plein d'avenir. Au volant de sa Mercury flambant neuve, il arpente les Etats de l'Ouest à la recherche des meilleures affaires pour le compte de ses employeurs. Mais un jour, sa tournée l'amène dans la bourgade anonyme q...</summary>
+    <link href="../book_0/book_79.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sur les cimes du désespoir</title>
+    <id>calibre:book:33</id>
+    <updated>2019-08-30T11:39:37Z</updated>
+    <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/Sur%20les%20cimes%20du%20desespoir%20-%20Emil%20Cioran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="181 KB" />
+    <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/Sur%20les%20cimes%20du%20desespoir%20-%20Emil%20Cioran.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="227 KB" />
+    <author>
+      <name>Emil Cioran</name>
+      <uri>../authors_0/authors_22_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>LGF (1991)</dcterms:publisher>
+    <category term="Essai" />
+    <category term="Essais et philosophie" />
+    <category term="Lang:fr" />
+    <summary>(édition originale de 1934)Une constatation que je peux vérifier, à mon grand regret, à chaque instant: seuls sont heureux ceux qui ne pensent jamais, autrement dit ceux qui ne pensent que le strict minimum nécessaire pour vivre. La vraie pensée ress...</summary>
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sérotonine</title>
+    <id>calibre:book:104</id>
+    <updated>2019-08-26T01:23:54Z</updated>
+    <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/Serotonine%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="316 KB" />
+    <link href="../../Michel%20Houellebecq/Serotonine%20%28104%29/Serotonine%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="481 KB" />
+    <author>
+      <name>Michel Houellebecq</name>
+      <uri>../authors_0/authors_38_Page_1.xml</uri>
+    </author>
+    <published>2019-01-02T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Flammarion</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="amazon" />
+    <category term="Lang:fr" />
+    <summary>"Mes croyances sont limitées, mais elles sont violentes. Je crois à la possibilité du royaume restreint. Je crois à l’amour" écrivait récemment Michel Houellebecq. Le narrateur de Sérotonine approuverait sans réserve. Son récit traverse une France qu...</summary>
+    <link href="../book_0/book_104.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

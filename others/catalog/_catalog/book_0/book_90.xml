@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Les clans de la lune alphane</title>
+  <id>urn:book:8d618d07-5e42-4eeb-bef2-a156e25254d7</id>
+  <updated>2019-08-30T11:34:38Z</updated>
+  <link href="./book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Les clans de la lune alphane" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
+  <link href="../../Philip%20K.%20Dick/Les%20clans%20de%20la%20lune%20alphane%20%2890%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Philip%20K.%20Dick/Les%20clans%20de%20la%20lune%20alphane%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Philip%20K.%20Dick/Les%20clans%20de%20la%20lune%20alphane%20%2890%29/Les%20clans%20de%20la%20lune%20alphane%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="289 KB" />
+  <link href="../../Philip%20K.%20Dick/Les%20clans%20de%20la%20lune%20alphane%20%2890%29/Les%20clans%20de%20la%20lune%20alphane%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="465 KB" />
+  <author>
+    <name>Philip K. Dick</name>
+    <uri>../authors_0/authors_29_Page_1.xml</uri>
+  </author>
+  <published>1964-01-13T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Science Fiction, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">
+      Chuck Rittersdorf est programmeur de simulacre pour le
+    compte de la CIA, un travail médiocre et
+    répétitif dont il s'accommode parfaitement. Ce n'est
+    cependant pas le cas de sa femme, Mary, une brillante
+    psychologue qui a décidé que son mari devait employer
+    ses talents créatifs à de meilleures fins.
+    Hélas, sa demande de divorce ne produit pas sur Chuck
+    l'électrochoc espéré, initiant au contraire une
+    longue et pénible déchéance qui le mène au
+    bord du suicide. Sur le point de commettre l'irréparable,
+    le programmeur commence alors à entrevoir la
+    vérité : et si tout cela n'était que la partie
+    émergée d'un terrible complot ? Quels liens existent
+    entre la CIA, Mary, un fongus ganymédien, et les terribles
+    clans de la lune alphane ?
+      <br />
+    </p>
+    <h3 xmlns="">Biographie de l'auteur</h3>
+    <p xmlns="">
+      Philip K. Dick (1928-1982) : à travers une œuvre
+    imposante, il ne cessera de traiter ses thèmes de
+    prédilection : la juxtaposition de deux niveaux de
+    réalité - l'un " objectivement " déterminé,
+    l'autre n'étant qu'un monde d'apparences - et la
+    paranoïa qu'implique ces manipulations de la
+    réalité dont personne ne connaît le degré
+    exact de " virtualité ".
+      <br />
+    </p>
+  </content>
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Philip K. Dick" />
+  <link href="http://www.goodreads.com/book/title/Les%20clans%20de%20la%20lune%20alphane" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Les%20clans%20de%20la%20lune%20alphane" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Les%20clans%20de%20la%20lune%20alphane%20Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Les%20clans%20de%20la%20lune%20alphane&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DickPhilipK." type="text/html" rel="related" title="Philip K. Dick sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur ISFDB" target="_blank" />
+</entry>

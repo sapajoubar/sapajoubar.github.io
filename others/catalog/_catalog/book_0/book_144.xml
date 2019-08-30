@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La zone du dehors</title>
+  <id>urn:book:9b9101ad-3dbb-4a0b-9cc1-fd6dd9155720</id>
+  <updated>2019-08-30T11:32:32Z</updated>
+  <link href="./book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La zone du dehors" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/La%20zone%20du%20dehors%20-%20Damasio%2CAlain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="667 KB" />
+  <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/La%20zone%20du%20dehors%20-%20Damasio%2CAlain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="991 KB" />
+  <author>
+    <name>Damasio,Alain</name>
+    <uri>../authors_0/authors_47_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="SF" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      SF, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">2084. Orwell est loin désormais. Le totalitarisme a
+    pris les traits bonhommes de la social-démocratie.
+    Souriez, vous êtes gérés ! Le citoyen ne
+    s'opprime plus : il se fabrique. À la pâte
+    à norme, au confort, au consensus. Copie qu'on forme, tout
+    simplement. Au cœur de cette glu, un mouvement, une force
+    de frappe, des fous : la Volte. Le Dehors est leur
+    espace, subvertir leur seule arme. Emmenés par Capt,
+    philosophe et stratège, le peintre Kamio et le fulgurant
+    Slift que rien ne bloque ni ne borne, ils iront au bout de leur
+    volution. En perdant beaucoup. En gagnant tout. Premier roman
+    ici réécrit, La Zone du Dehors est un livre de combat
+    contre nos sociétés de contrôle. Celle que nos
+    gouvernements, nos multinationales, nos technologies et nos
+    médias nous tissent aux fibres, tranquillement. Avec notre
+    plus complice consentement. Peut-être est-il temps
+    d'apprendre à boxer chaos debout contre le swing de la
+    norme ?            
+     </p>
+  </content>
+  <link href="../authors_0/authors_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Damasio,Alain" />
+  <link href="http://www.goodreads.com/book/title/La%20zone%20du%20dehors" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/La%20zone%20du%20dehors" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/La%20zone%20du%20dehors%20Damasio%2CAlain" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20zone%20du%20dehors&amp;field-author=Damasio%2CAlain" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Damasio%2CAlain" type="text/html" rel="related" title="Damasio,Alain sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Damasio%2CAlain" type="text/html" rel="related" title="Damasio,Alain sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DamasioAlain" type="text/html" rel="related" title="Damasio,Alain sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Damasio%2CAlain" type="text/html" rel="related" title="Damasio,Alain sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Damasio%2CAlain" type="text/html" rel="related" title="Damasio,Alain sur ISFDB" target="_blank" />
+</entry>

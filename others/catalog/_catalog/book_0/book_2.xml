@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Apocalypse bébé</title>
+  <id>urn:book:9073a3dc-2401-48e7-b4a9-c108cd66c774</id>
+  <updated>2019-08-30T11:32:13Z</updated>
+  <link href="./book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Apocalypse bébé" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/Apocalypse%20bebe%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="306 KB" />
+  <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/Apocalypse%20bebe%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="488 KB" />
+  <author>
+    <name>Virginie Despentes</name>
+    <uri>../authors_0/authors_5_Page_1.xml</uri>
+  </author>
+  <published>2010-08-17T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="Roman" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Roman, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Valentine Galtan, adolescente énigmatique et difficile,
+    a disparu. La narratrice, Lucie, anti-héroïne
+    trentenaire, détective privée sans conviction ni
+    talent, engagée par la grand-mère de Valentine pour
+    surveiller ses faits et gestes, l'a perdue sur un quai de
+    métro parisien. Comment la retrouver ? Que faire des
+    édifiantes photos de Valentine qui la montrent si
+    expérimentée avec les garçons ? Aurait-elle
+    rejoint à Barcelone cette mère qu'elle n'a jamais
+    connue ?</p>
+    <br xmlns="" />
+    <br xmlns="" />
+    <p xmlns="">Le mieux pour Lucie serait de faire équipe avec la
+    Hyène, une 'privée 'aux méthodes radicales, une
+    femme puissante, au corps souple plein d'une violence qui
+    s'exprime par saccades : moyennant finances et aussi par
+    amusement, La Hyène accepte le marché. Voici les
+    collègues mal appariées, l'une lesbienne volcanique,
+    l'autre hétéro à basse fréquence qui
+    traversent la France et l'Espagne jusqu'à Barcelone à
+    la recherche de la petite fugueuse.</p>
+  </content>
+  <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Virginie Despentes" />
+  <link href="http://www.goodreads.com/book/title/Apocalypse%20b%C3%A9b%C3%A9" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Apocalypse%20b%C3%A9b%C3%A9" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Apocalypse%20b%C3%A9b%C3%A9%20Virginie%20Despentes" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Apocalypse%20b%C3%A9b%C3%A9&amp;field-author=Virginie%20Despentes" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DespentesVirginie" type="text/html" rel="related" title="Virginie Despentes sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur ISFDB" target="_blank" />
+</entry>

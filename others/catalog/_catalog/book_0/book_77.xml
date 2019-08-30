@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Substance Mort</title>
+  <id>urn:book:2d322d13-7c86-409a-a17a-ca85ed5401c2</id>
+  <updated>2019-08-30T11:35:29Z</updated>
+  <link href="./book_77.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Substance Mort" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
+  <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/Substance%20Mort%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+  <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/Substance%20Mort%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="577 KB" />
+  <author>
+    <name>Philip K. Dick</name>
+    <uri>../authors_0/authors_29_Page_1.xml</uri>
+  </author>
+  <published>1977-01-04T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Science Fiction, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">Un voyage sans retour au bout de la schizophrénie, une
+    plongée glaçante dans l'enfer des paradis
+    artificiels.</p>
+    <h3 xmlns="">Quatrième de couverture</h3>
+    <p xmlns="">Dans une Amérique imaginaire livrée à
+    l'effacement des singularités et à la paranoïa
+    technologique, les derniers survivants de la contre-culture des
+    années 60 achèvent de brûler leur cerveau au
+    moyen de la plus redoutable des drogues, la Substance Mort.Dans
+    cette Amérique plus vraie que nature, Fred, qui travaille
+    incognito pour la brigade des stups, le corps dissimulé
+    sous un «complet brouillé», est chargé par
+    ses supérieurs d'espionner Bob Actor, un toxicomane qui
+    n'est autre que lui-même.Un voyage sans retour au bout de
+    la schizophrénie, une plongée glaçante dans
+    l'enfer des paradis artificiels.</p>
+    <h3 xmlns="">Biographie de l'auteur</h3>
+    <p xmlns="">Publié pour la première fois en 1952, Philip K.
+    Dick (1928-1982) s’oriente rapidement, après des
+    débuts assez classiques, vers une science-fiction plus
+    personnelle, où se déploient un questionnement
+    permanent de la réalité et une réflexion
+    radicale sur la folie. Explorateur inlassable de mondes
+    schizophrènes, désorganisés et équivoques,
+    Philip K. Dick clame tout au long de ses œuvres que la
+    réalité n’est qu’une illusion, figée
+    par une perception humaine imparfaite. L’important
+    investissement personnel qu’il plaça dans ses textes
+    fut à la mesure d’une existence instable, faite de
+    divorces multiples, de tentatives de suicide ou de délires
+    mystiques.</p>
+  </content>
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Philip K. Dick" />
+  <link href="http://www.goodreads.com/book/title/Substance%20Mort" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Substance%20Mort" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Substance%20Mort%20Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Substance%20Mort&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DickPhilipK." type="text/html" rel="related" title="Philip K. Dick sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur ISFDB" target="_blank" />
+</entry>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>VOYAGE au bout de la nuit</title>
+  <id>urn:book:d82a8248-8918-41b2-86c9-066f0fc42a81</id>
+  <updated>2019-08-30T11:41:14Z</updated>
+  <link href="./book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="VOYAGE au bout de la nuit" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/VOYAGE%20au%20bout%20de%20la%20nuit%20-%20Louis-Ferdinand%20Celine.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+  <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/VOYAGE%20au%20bout%20de%20la%20nuit%20-%20Louis-Ferdinand%20Celine.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
+  <author>
+    <name>Louis-Ferdinand Celine</name>
+    <uri>../authors_0/authors_16_Page_1.xml</uri>
+  </author>
+  <published>2010-10-25T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Non lu" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Non lu, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <i>Voyage au bout de la nuit</i>
+         est un récit
+      à la première personne dans lequel Bardamu raconte
+      son expérience de la première guerre, du 
+        <a href="http://fr.wikipedia.org/wiki/Colonialisme" title="Colonialisme">colonialisme</a>
+         en Afrique et de
+      l'Amérique de l'entre-deux guerres.
+      </p>
+      <p>
+        Bardamu a vu la 
+        <a href="http://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale" title="Première Guerre mondiale">Grande
+      Guerre</a>
+         et l'ineptie meurtrière de ses
+      supérieurs dans les tranchées. C'est la fin de son
+      innocence. C'est le point de départ de sa descente sans
+      retour. Ce long récit est une dénonciation des
+      horreurs de la guerre mais aussi le point de départ du
+      pessimisme qui traverse tout le récit.
+      </p>
+      <p>
+        Bardamu part ensuite pour l'
+        <a href="http://fr.wikipedia.org/wiki/Afrique" title="Afrique">Afrique</a>
+         où le
+        <a href="http://fr.wikipedia.org/wiki/Colonialisme" title="Colonialisme">colonialisme</a>
+         est le purgatoire
+      des Européens sans destinée. Pour Bardamu, c'est
+      même l'Enfer et il s'enfuit vers l'
+        <a href="http://fr.wikipedia.org/wiki/%C3%89tats-Unis" title="États-Unis">Amérique</a>
+         de 
+        <a href="http://fr.wikipedia.org/wiki/Henry_Ford" title="Henry Ford">Ford</a>
+        , du dieu Dollar et des bordels.
+      Bardamu n'aime pas les États-Unis mais c'est
+      peut-être le seul lieu où il fit la rencontre d'un
+      être, Molly, qu'il aima jusqu'au bout de son voyage sans
+      fond. Mais la vocation de Bardamu, ce n'est pas de travailler
+      avec les machines des usines de 
+        <a href="http://fr.wikipedia.org/wiki/D%C3%A9troit_%28Michigan%29" title="Détroit (Michigan)">Détroit</a>
+        , mais de
+      côtoyer la misère humaine, quotidienne et
+      éternelle. Il retourne donc en France pour terminer ses
+      études en médecine et devenir médecin des
+      pauvres. Il devient alors médecin dans la banlieue
+      parisienne et côtoie la misère humaine tout comme
+      en Afrique ou dans les tranchées de la Première
+      Guerre mondiale.
+      </p>
+    </div>
+  </content>
+  <link href="../authors_0/authors_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Louis-Ferdinand Celine" />
+  <link href="http://www.goodreads.com/book/title/VOYAGE%20au%20bout%20de%20la%20nuit" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/VOYAGE%20au%20bout%20de%20la%20nuit" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/VOYAGE%20au%20bout%20de%20la%20nuit%20Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=VOYAGE%20au%20bout%20de%20la%20nuit&amp;field-author=Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/CelineLouis-Ferdinand" type="text/html" rel="related" title="Louis-Ferdinand Celine sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur ISFDB" target="_blank" />
+</entry>

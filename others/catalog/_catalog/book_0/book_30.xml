@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Vernon Subutex 3</title>
+  <id>urn:book:c0e1128b-30d3-4222-a6de-18377f739362</id>
+  <updated>2019-08-30T11:39:27Z</updated>
+  <link href="./book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Vernon Subutex 3" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/Vernon%20Subutex%203%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="735 KB" />
+  <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/Vernon%20Subutex%203%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="974 KB" />
+  <author>
+    <name>Virginie Despentes</name>
+    <uri>../authors_0/authors_5_Page_1.xml</uri>
+  </author>
+  <published>2017-05-23T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Grasset</dcterms:publisher>
+  <category term="Littérature française" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ***
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Littérature française, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">
+      <span style="orphans: 2; widows: 2;">Viriginie Despentes
+      conclut sa trilogie "Vernon Subutex" (Grasset) avec un 3e
+      opus plus dark que jamais. On y retrouve Vernon, le disquaire
+      gourou qui avait agrégé autour de lui et de sa
+      musique une petite communauté joyeuse et pacifique. La
+      bande poursuit un temps son rêve de communion
+      fraternelle avant de se prendre en pleine tête la
+      barbarie, la violence et le terrorisme. </span>
+    </p>
+  </content>
+  <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Virginie Despentes" />
+  <link href="http://www.goodreads.com/book/title/Vernon%20Subutex%203" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Vernon%20Subutex%203" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Vernon%20Subutex%203%20Virginie%20Despentes" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Vernon%20Subutex%203&amp;field-author=Virginie%20Despentes" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DespentesVirginie" type="text/html" rel="related" title="Virginie Despentes sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Virginie%20Despentes" type="text/html" rel="related" title="Virginie Despentes sur ISFDB" target="_blank" />
+</entry>

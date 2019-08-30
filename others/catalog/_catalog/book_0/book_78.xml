@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'invasion divine</title>
+  <id>urn:book:9c8fb0f2-21b4-4207-aad5-4a0adf355fe6</id>
+  <updated>2019-08-30T11:35:38Z</updated>
+  <link href="./book_78.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'invasion divine" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
+  <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/L%27invasion%20divine%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="298 KB" />
+  <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/L%27invasion%20divine%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="443 KB" />
+  <author>
+    <name>Philip K. Dick</name>
+    <uri>../authors_0/authors_29_Page_1.xml</uri>
+  </author>
+  <published>1981-01-04T11:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Alexandriz</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Lang:fr" />
+  <category term="la trilogie divine" />
+  <content type="text/html">
+    <p>
+      <strong>Collection:</strong>
+      Livre 2 dans la collection la trilogie divine
+    </p>
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Science Fiction, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="">«Ce monde présent, cette planète, tout ce qui
+    la compose, tous ceux qui l'habitent - tout dort ici.»
+    Voilà ce que déclare un enfant, Emmanuel. Un enfant
+    entré en fraude sur la Terre. Deuxième volet de La
+    trilogie divine.</p>
+    <h3 xmlns="">Quatrième de couverture</h3>
+    <p xmlns="">«Ce monde présent, cette planète, tout ce qui
+    la compose, tous ceux qui l'habitent - tout dort ici.»
+    Voilà ce que déclare un enfant, Emmanuel. Un enfant
+    entré en fraude sur la Terre. Il dit que notre univers est
+    un simulacre, un rideau de fumée, une illusion. Que la
+    création a échappé à son Créateur,
+    quel que soit le nom qu'on lui donne, Dieu ou SIVA. Qu'elle est
+    désormais régie par le Mal. Il vous dit d'ouvrir les
+    yeux, comme lui, sur cet univers parallèle que,
+    peut-être, une vague intuition, des doutes, certaines
+    incohérences dans votre vie quotidienne vous font
+    pressentir déjà. Dormez-vous ? Mélange de
+    science-fiction spéculative, de récit
+    autobiographique, de questionnement métaphysique et de
+    délires schizophréniques, La trilogie divine, qui
+    compte parmi les plus déroutants romans de Dick, est sans
+    doute l'œuvre qui a fait de lui un auteur culte.</p>
+  </content>
+  <link href="../series_0/series_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livre 2 dans la collection la trilogie divine" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Philip K. Dick" />
+  <link href="http://www.goodreads.com/book/title/L%27invasion%20divine" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/L%27invasion%20divine" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/L%27invasion%20divine%20Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27invasion%20divine&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DickPhilipK." type="text/html" rel="related" title="Philip K. Dick sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur ISFDB" target="_blank" />
+</entry>

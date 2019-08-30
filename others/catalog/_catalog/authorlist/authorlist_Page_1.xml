@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Auteurs</title>
+  <id>Calibre2opds:authorlist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Auteurs" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="page suivante (2 sur 2)" />
+  <entry>
+    <title>Alphonse Allais</title>
+    <id>Calibre2opds:authors:31</id>
+    <content type="text">Le bec en l'air, Vive la vie!</content>
+    <link href="../authors_0/authors_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Asimov,Isaac</title>
+    <id>Calibre2opds:authors:32</id>
+    <content type="text">Le Club des Veufs Noirs</content>
+    <link href="../authors_0/authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michel Bussi</title>
+    <id>Calibre2opds:authors:10</id>
+    <content type="text">Le Temps est assassin</content>
+    <link href="../authors_0/authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Didier Van Cauwelaert</title>
+    <id>Calibre2opds:authors:6</id>
+    <content type="text">2 livres</content>
+    <link href="../authors_0/authors_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Louis-Ferdinand Celine</title>
+    <id>Calibre2opds:authors:16</id>
+    <content type="text">VOYAGE au bout de la nuit</content>
+    <link href="../authors_0/authors_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Emil Cioran</title>
+    <id>Calibre2opds:authors:22</id>
+    <content type="text">Sur les cimes du désespoir</content>
+    <link href="../authors_0/authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jean d'Ormesson</title>
+    <id>Calibre2opds:authors:34</id>
+    <content type="text">Presque rien sur presque tout</content>
+    <link href="../authors_0/authors_34_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Damasio,Alain</title>
+    <id>Calibre2opds:authors:47</id>
+    <content type="text">2 livres</content>
+    <link href="../authors_0/authors_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Damasio, Alain</title>
+    <id>Calibre2opds:authors:46</id>
+    <content type="text">Les Furtifs</content>
+    <link href="../authors_0/authors_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Frédéric Dard</title>
+    <id>Calibre2opds:authors:24</id>
+    <content type="text">Le tueur en pantoufles</content>
+    <link href="../authors_0/authors_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Virginie Despentes</title>
+    <id>Calibre2opds:authors:5</id>
+    <content type="text">6 livres</content>
+    <link href="../authors_0/authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Philip K. Dick</title>
+    <id>Calibre2opds:authors:29</id>
+    <content type="text">42 livres</content>
+    <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Marc Dugain</title>
+    <id>Calibre2opds:authors:17</id>
+    <content type="text">2 livres</content>
+    <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Léo Ferré</title>
+    <id>Calibre2opds:authors:45</id>
+    <content type="text">Testament Phonographe</content>
+    <link href="../authors_0/authors_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gauz</title>
+    <id>Calibre2opds:authors:40</id>
+    <content type="text">Debout-payé</content>
+    <link href="../authors_0/authors_40_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Michel Houellebecq</title>
+    <id>Calibre2opds:authors:38</id>
+    <content type="text">8 livres</content>
+    <link href="../authors_0/authors_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Victor Hugo</title>
+    <id>Calibre2opds:authors:39</id>
+    <content type="text">Le Dernier Jour d'un Condamné</content>
+    <link href="../authors_0/authors_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thierry Jonquet</title>
+    <id>Calibre2opds:authors:44</id>
+    <content type="text">13 livres</content>
+    <link href="../authors_0/authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Agnès Ledig</title>
+    <id>Calibre2opds:authors:14</id>
+    <content type="text">3 livres</content>
+    <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Jack London</title>
+    <id>Calibre2opds:authors:20</id>
+    <content type="text">7 livres</content>
+    <link href="../authors_0/authors_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>H.P Lovecraft</title>
+    <id>Calibre2opds:authors:43</id>
+    <content type="text">L'appel de Cthulhu</content>
+    <link href="../authors_0/authors_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lovecraft, Howard Philips</title>
+    <id>Calibre2opds:authors:41</id>
+    <content type="text">L'abomination de Dunwich</content>
+    <link href="../authors_0/authors_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lovecraft, Howard Phillips</title>
+    <id>Calibre2opds:authors:33</id>
+    <content type="text">L'Affaire Charles Dexter Ward</content>
+    <link href="../authors_0/authors_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Howard Phillips Lovecraft</title>
+    <id>Calibre2opds:authors:42</id>
+    <content type="text">Les Montagnes Hallucinées</content>
+    <link href="../authors_0/authors_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Agnès Martin-Lugand</title>
+    <id>Calibre2opds:authors:4</id>
+    <content type="text">1 livre</content>
+    <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

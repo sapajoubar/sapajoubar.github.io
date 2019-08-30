@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La vérité avant-dernière</title>
+  <id>urn:book:b35b2cb2-0836-41b3-bfce-51910a8ca93c</id>
+  <updated>2019-08-30T11:37:34Z</updated>
+  <link href="./book_57.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La vérité avant-dernière" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
+  <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/La%20verite%20avant-derniere%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="347 KB" />
+  <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/La%20verite%20avant-derniere%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="497 KB" />
+  <author>
+    <name>Philip K. Dick</name>
+    <uri>../authors_0/authors_29_Page_1.xml</uri>
+  </author>
+  <published>1989-03-15T00:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <dcterms:publisher>Librairie générale française</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      ****
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Science Fiction, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <div xmlns="">
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">Ils
+      attendent dans des abris souterrains la fin de la guerre qui
+      ravage la surface depuis quinze ans. Ils fabriquent à
+      des cadences toujours accéléreés les solplombs
+      qui se battent là-haut à leur place.</div>
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">Mais
+      un jour, Nicholas Saint James, président de l'abri
+      communautaire antimicrobien Tom Mix, décide de remonter
+      vers la surface par un tunnel clandestin.</div>
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">La
+      mort l'attend sans doute là-haut.</div>
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">À
+      moins que la vérité ne soit pas celle que
+      délivrent les communiqués d'information et les
+      discours de Talbot Yancy, président de la
+      Dém-Ouest.</div>
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">S'il
+      y a une vérité...</div>
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">Et
+      là-haut, un paradis...</div>
+      <div style="text-align: justify;">
+         
+        <br />
+      </div>
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">Voici
+      l'un des chefs-d'œuvre, ironique et puissant, de Philip
+      K. Dick qui apparaît désormais comme l'un des
+      écrivains américains les plus représentatifs
+      du XXe siècle.</div>
+      <div align="justify" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 14px;">
+         
+        <br />
+      </div>
+      <div align="justify">
+        <font class="Apple-style-span" face="'MS Shell Dlg 2', sans-serif">
+          <span class="Apple-style-span" style="font-size: 14px;">
+            <a href="http://www.amazon.fr/v%C3%A9rite-avant-derni%C3%A8re-Philip-K-Dick/dp/2253049093">http://www.amazon.fr/vérite-avant-dernière-Philip-K-Dick/dp/2253049093</a>
+          </span>
+        </font>
+      </div>
+    </div>
+  </content>
+  <link href="../authors_0/authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Philip K. Dick" />
+  <link href="http://www.goodreads.com/book/title/La%20v%C3%A9rit%C3%A9%20avant-derni%C3%A8re" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/La%20v%C3%A9rit%C3%A9%20avant-derni%C3%A8re" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/La%20v%C3%A9rit%C3%A9%20avant-derni%C3%A8re%20Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20v%C3%A9rit%C3%A9%20avant-derni%C3%A8re&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DickPhilipK." type="text/html" rel="related" title="Philip K. Dick sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Philip%20K.%20Dick" type="text/html" rel="related" title="Philip K. Dick sur ISFDB" target="_blank" />
+</entry>

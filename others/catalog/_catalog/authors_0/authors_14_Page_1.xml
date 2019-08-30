@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Agnès Ledig</title>
+  <id>Calibre2opds:authors:14</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Agnès Ledig" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>Marie d’en haut</title>
+    <id>calibre:book:29</id>
+    <updated>2019-08-30T11:39:24Z</updated>
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/Marie%20d%27en%20haut%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/Marie%20d%27en%20haut%20-%20Agnes%20Ledig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="2 MB" />
+    <author>
+      <name>Agnès Ledig</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2012-12-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Ebookdz.com</dcterms:publisher>
+    <category term="Littérature" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>On regrettera plus tard (LITT.GENERALE) (French Edition)</title>
+    <id>calibre:book:20</id>
+    <updated>2019-08-30T11:40:48Z</updated>
+    <link href="../../Agnes%20Ledig/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agnes%20Ledig/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2820%29/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28F%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="253 KB" />
+    <link href="../../Agnes%20Ledig/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2820%29/On%20regrettera%20plus%20tard%20%28LITT.GENERALE%29%20%28F%20-%20Agnes%20Ledig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="378 KB" />
+    <author>
+      <name>Agnès Ledig</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2016-03-01T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Albin Michel</dcterms:publisher>
+    <category term="Littérature" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>De tes nouvelles (LITT.GENERALE) (French Edition)</title>
+    <id>calibre:book:19</id>
+    <updated>2019-08-30T11:40:37Z</updated>
+    <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20E%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="316 KB" />
+    <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20E%20-%20Agnes%20Ledig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="454 KB" />
+    <author>
+      <name>Agnès Ledig</name>
+      <uri>../authors_0/authors_14_Page_1.xml</uri>
+    </author>
+    <published>2017-02-28T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Albin Michel</dcterms:publisher>
+    <category term="Roman" />
+    <category term="Lang:fr" />
+    <summary>Anna-Nina, pétillante et légère, est une petite fille en forme de trait d'union. Entre Eric, son père, et Valentine, qui les a accueillis quelques mois plus tôt par un soir d'orage et détresse. maintenant qu'Eric et Anna-Nina sont revenus chez Valent...</summary>
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Avenue Des Géants</title>
+  <id>urn:book:4785f93f-b69e-46e0-800c-0e4d83c2ce0d</id>
+  <updated>2019-08-30T11:41:12Z</updated>
+  <link href="./book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Avenue Des Géants" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/Avenue%20Des%20Geants%20-%20Marc%20Dugain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="631 KB" />
+  <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/Avenue%20Des%20Geants%20-%20Marc%20Dugain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="785 KB" />
+  <author>
+    <name>Marc Dugain</name>
+    <uri>../authors_0/authors_17_Page_1.xml</uri>
+  </author>
+  <published>2012-04-11T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Non lu" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Non lu, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">Al Kenner serait un adolescent ordinaire
+    s'il ne mesurait pas près de 2,20 mètres et si son QI
+    n'était pas supérieur à celui d'Einstein. Sa vie
+    bascule par hasard le jour de l'assassinat de John Fitzgerald
+    Kennedy. Plus jamais il ne sera le même. Désormais,
+    il entre en lutte contre ses mauvaises pensées.
+    Observateur intransigeant d'une époque qui lui
+    échappe, il mène seul un combat
+    désespéré contre le mal qui l'habite.
+    Inspiré d'un personnage réel, Avenue des Géants,
+    récit du cheminement intérieur d'un tueur hors du
+    commun, est aussi un hymne à la route, aux grands espaces,
+    aux mouvements hippies, dans cette société
+    américaine des années 60 en plein bouleversement,
+    où le pacifisme s'illusionne dans les décombres de la
+    guerre du Vietnam.</p>
+  </content>
+  <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Marc Dugain" />
+  <link href="http://www.goodreads.com/book/title/Avenue%20Des%20G%C3%A9ants" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Avenue%20Des%20G%C3%A9ants" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Avenue%20Des%20G%C3%A9ants%20Marc%20Dugain" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Avenue%20Des%20G%C3%A9ants&amp;field-author=Marc%20Dugain" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur Goodreads" target="_blank" />
+  <link href="http://en.wikipedia.org/wiki/Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DugainMarc" type="text/html" rel="related" title="Marc Dugain sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur ISFDB" target="_blank" />
+</entry>

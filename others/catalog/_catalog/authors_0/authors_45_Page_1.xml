@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Léo Ferré</title>
+  <id>Calibre2opds:authors:45</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Léo Ferré" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>Testament Phonographe</title>
+    <id>calibre:book:130</id>
+    <updated>2019-08-30T11:33:45Z</updated>
+    <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="9 MB" />
+    <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="10 MB" />
+    <author>
+      <name>Léo Ferré</name>
+      <uri>../authors_0/authors_45_Page_1.xml</uri>
+    </author>
+    <published>1979-12-31T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Edizioni Gufo Del Tramonto</dcterms:publisher>
+    <category term="littérature XXes" />
+    <category term="Petite bibliotheque anarchiste" />
+    <category term="ABProd'" />
+    <category term="Poésie" />
+    <category term="Lang:fr" />
+    <summary>Léo Albert Charles Antoine Ferré, né le 24 août 1916 à Monaco et mort le 14 juillet 1993 à Castellina in Chianti (Toscane), est un poète, musicien et chanteur franco-monégasque. Ayant réalisé plus d'une quarantaine d'albums originaux couvrant une pér...</summary>
+    <link href="../book_0/book_130.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
