@@ -4,8 +4,8 @@
   <id>urn:book:ae0d39d1-ef30-45f7-89e0-cec51494ed16</id>
   <updated>2019-08-30T11:39:37Z</updated>
   <link href="./book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sur les cimes du désespoir" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -71,11 +71,11 @@
   </content>
   <link href="../authors_0/authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Emil Cioran" />
   <link href="http://www.goodreads.com/book/title/Sur%20les%20cimes%20du%20d%C3%A9sespoir" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Sur%20les%20cimes%20du%20d%C3%A9sespoir" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Sur%20les%20cimes%20du%20d%C3%A9sespoir" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Sur%20les%20cimes%20du%20d%C3%A9sespoir%20Emil%20Cioran" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Sur%20les%20cimes%20du%20d%C3%A9sespoir&amp;field-author=Emil%20Cioran" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Emil%20Cioran" type="text/html" rel="related" title="Emil Cioran sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Emil%20Cioran" type="text/html" rel="related" title="Emil Cioran sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Emil%20Cioran" type="text/html" rel="related" title="Emil Cioran sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/CioranEmil" type="text/html" rel="related" title="Emil Cioran sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Emil%20Cioran" type="text/html" rel="related" title="Emil Cioran sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Emil%20Cioran" type="text/html" rel="related" title="Emil Cioran sur ISFDB" target="_blank" />

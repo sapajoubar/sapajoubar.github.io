@@ -4,8 +4,8 @@
   <id>urn:book:15113519-cd82-40dc-b8e3-bd5082e238ba</id>
   <updated>2019-08-30T11:32:49Z</updated>
   <link href="./book_127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'appel de Cthulhu" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -31,11 +31,11 @@
   </content>
   <link href="../authors_0/authors_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de H.P Lovecraft" />
   <link href="http://www.goodreads.com/book/title/L%27appel%20de%20Cthulhu" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/L%27appel%20de%20Cthulhu" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/L%27appel%20de%20Cthulhu" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/L%27appel%20de%20Cthulhu%20H.P%20Lovecraft" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27appel%20de%20Cthulhu&amp;field-author=H.P%20Lovecraft" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/H.P%20Lovecraft" type="text/html" rel="related" title="H.P Lovecraft sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/H.P%20Lovecraft" type="text/html" rel="related" title="H.P Lovecraft sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/H.P%20Lovecraft" type="text/html" rel="related" title="H.P Lovecraft sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/LovecraftH.P" type="text/html" rel="related" title="H.P Lovecraft sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=H.P%20Lovecraft" type="text/html" rel="related" title="H.P Lovecraft sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?H.P%20Lovecraft" type="text/html" rel="related" title="H.P Lovecraft sur ISFDB" target="_blank" />

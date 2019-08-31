@@ -4,8 +4,8 @@
   <id>urn:book:3e14bf78-68a0-4e97-8154-ea6f3158ec5d</id>
   <updated>2019-08-30T11:33:05Z</updated>
   <link href="./book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'abomination de Dunwich" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -59,11 +59,11 @@
   </content>
   <link href="../authors_0/authors_41_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Lovecraft, Howard Philips" />
   <link href="http://www.goodreads.com/book/title/L%27abomination%20de%20Dunwich" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/L%27abomination%20de%20Dunwich" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/L%27abomination%20de%20Dunwich" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/L%27abomination%20de%20Dunwich%20Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27abomination%20de%20Dunwich&amp;field-author=Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/LovecraftHowardPhilips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lovecraft%2C%20Howard%20Philips" type="text/html" rel="related" title="Lovecraft, Howard Philips sur ISFDB" target="_blank" />

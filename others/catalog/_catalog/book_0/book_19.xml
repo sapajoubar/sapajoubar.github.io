@@ -4,8 +4,8 @@
   <id>urn:book:f3d32aba-a03b-48eb-9d84-6dc3ad8198da</id>
   <updated>2019-08-30T11:40:37Z</updated>
   <link href="./book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="De tes nouvelles (LITT.GENERALE) (French Edition)" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -54,11 +54,11 @@
   </content>
   <link href="../authors_0/authors_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Agnès Ledig" />
   <link href="http://www.goodreads.com/book/title/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29&amp;field-author=Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/LedigAgn%C3%A8s" type="text/html" rel="related" title="Agnès Ledig sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Agn%C3%A8s%20Ledig" type="text/html" rel="related" title="Agnès Ledig sur ISFDB" target="_blank" />

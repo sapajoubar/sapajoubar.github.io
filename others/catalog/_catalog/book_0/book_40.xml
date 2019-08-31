@@ -4,8 +4,8 @@
   <id>urn:book:9d5deb7f-9abc-4d5e-9f8b-965f1b080d7d</id>
   <updated>2019-08-30T11:39:00Z</updated>
   <link href="./book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Je vais encore me faire des amis !" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
@@ -75,11 +75,11 @@
   </content>
   <link href="../authors_0/authors_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Mocky,Jean-Pierre" />
   <link href="http://www.goodreads.com/book/title/Je%20vais%20encore%20me%20faire%20des%20amis%20%21" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Je%20vais%20encore%20me%20faire%20des%20amis%20%21" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Je%20vais%20encore%20me%20faire%20des%20amis%20%21" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20Mocky%2CJean-Pierre" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Je%20vais%20encore%20me%20faire%20des%20amis%20%21&amp;field-author=Mocky%2CJean-Pierre" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/MockyJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Mocky%2CJean-Pierre" type="text/html" rel="related" title="Mocky,Jean-Pierre sur ISFDB" target="_blank" />

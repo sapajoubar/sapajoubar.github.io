@@ -4,8 +4,8 @@
   <id>urn:book:2aadaa16-8334-43da-915f-fdd6f96ad6b0</id>
   <updated>2019-08-30T11:32:56Z</updated>
   <link href="./book_126.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Les Montagnes Hallucinées" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -33,11 +33,11 @@
   </content>
   <link href="../authors_0/authors_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Howard Phillips Lovecraft" />
   <link href="http://www.goodreads.com/book/title/Les%20Montagnes%20Hallucin%C3%A9es" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Les%20Montagnes%20Hallucin%C3%A9es" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Les%20Montagnes%20Hallucin%C3%A9es" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Les%20Montagnes%20Hallucin%C3%A9es%20Howard%20Phillips%20Lovecraft" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Les%20Montagnes%20Hallucin%C3%A9es&amp;field-author=Howard%20Phillips%20Lovecraft" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Howard%20Phillips%20Lovecraft" type="text/html" rel="related" title="Howard Phillips Lovecraft sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Howard%20Phillips%20Lovecraft" type="text/html" rel="related" title="Howard Phillips Lovecraft sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Howard%20Phillips%20Lovecraft" type="text/html" rel="related" title="Howard Phillips Lovecraft sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/LovecraftHowardPhillips" type="text/html" rel="related" title="Howard Phillips Lovecraft sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Howard%20Phillips%20Lovecraft" type="text/html" rel="related" title="Howard Phillips Lovecraft sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Howard%20Phillips%20Lovecraft" type="text/html" rel="related" title="Howard Phillips Lovecraft sur ISFDB" target="_blank" />

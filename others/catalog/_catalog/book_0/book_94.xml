@@ -4,8 +4,8 @@
   <id>urn:book:b20a97cf-463c-4886-8c83-08e8412e077f</id>
   <updated>2019-08-30T11:34:46Z</updated>
   <link href="./book_94.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le vagabond des étoiles" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -30,11 +30,11 @@
   </content>
   <link href="../authors_0/authors_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Jack London" />
   <link href="http://www.goodreads.com/book/title/Le%20vagabond%20des%20%C3%A9toiles" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Le%20vagabond%20des%20%C3%A9toiles" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Le%20vagabond%20des%20%C3%A9toiles" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Le%20vagabond%20des%20%C3%A9toiles%20Jack%20London" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20vagabond%20des%20%C3%A9toiles&amp;field-author=Jack%20London" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Jack%20London" type="text/html" rel="related" title="Jack London sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Jack%20London" type="text/html" rel="related" title="Jack London sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Jack%20London" type="text/html" rel="related" title="Jack London sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/LondonJack" type="text/html" rel="related" title="Jack London sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jack%20London" type="text/html" rel="related" title="Jack London sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jack%20London" type="text/html" rel="related" title="Jack London sur ISFDB" target="_blank" />

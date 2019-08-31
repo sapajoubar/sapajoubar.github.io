@@ -4,8 +4,8 @@
   <id>urn:book:8a7d8efb-ba86-455c-90e3-7b30c1e6afc4</id>
   <updated>2019-08-30T11:38:46Z</updated>
   <link href="./book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La malédiction d'Edgar" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -35,11 +35,11 @@
   </content>
   <link href="../authors_0/authors_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Marc Dugain" />
   <link href="http://www.goodreads.com/book/title/La%20mal%C3%A9diction%20d%27Edgar" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/La%20mal%C3%A9diction%20d%27Edgar" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/La%20mal%C3%A9diction%20d%27Edgar" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/La%20mal%C3%A9diction%20d%27Edgar%20Marc%20Dugain" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20mal%C3%A9diction%20d%27Edgar&amp;field-author=Marc%20Dugain" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/DugainMarc" type="text/html" rel="related" title="Marc Dugain sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Marc%20Dugain" type="text/html" rel="related" title="Marc Dugain sur ISFDB" target="_blank" />

@@ -4,8 +4,8 @@
   <id>urn:book:8336378f-c924-4b40-a6b8-77e325318c09</id>
   <updated>2019-08-30T11:40:11Z</updated>
   <link href="./book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Vendredi ou la vie sauvage" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Michel%20Tournier/Vendredi%20ou%20la%20vie%20sauvage%20%2838%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
@@ -78,11 +78,11 @@
   </content>
   <link href="../authors_0/authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Tournier" />
   <link href="http://www.goodreads.com/book/title/Vendredi%20ou%20la%20vie%20sauvage" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Vendredi%20ou%20la%20vie%20sauvage" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Vendredi%20ou%20la%20vie%20sauvage" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Vendredi%20ou%20la%20vie%20sauvage%20Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Vendredi%20ou%20la%20vie%20sauvage&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/TournierMichel" type="text/html" rel="related" title="Michel Tournier sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur ISFDB" target="_blank" />

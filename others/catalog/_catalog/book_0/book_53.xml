@@ -4,8 +4,8 @@
   <id>urn:book:6bf6fe0d-dd72-4b3f-89e6-65ab6cb5ff7d</id>
   <updated>2019-08-30T11:38:07Z</updated>
   <link href="./book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La séparation" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
@@ -79,11 +79,11 @@
   </content>
   <link href="../authors_0/authors_35_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Priest,Christopher" />
   <link href="http://www.goodreads.com/book/title/La%20s%C3%A9paration" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/La%20s%C3%A9paration" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/La%20s%C3%A9paration" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/La%20s%C3%A9paration%20Priest%2CChristopher" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20s%C3%A9paration&amp;field-author=Priest%2CChristopher" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/PriestChristopher" type="text/html" rel="related" title="Priest,Christopher sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Priest%2CChristopher" type="text/html" rel="related" title="Priest,Christopher sur ISFDB" target="_blank" />

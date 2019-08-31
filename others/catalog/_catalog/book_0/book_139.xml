@@ -4,8 +4,8 @@
   <id>urn:book:0e773951-b781-421c-930c-a677a1985d29</id>
   <updated>2019-08-03T07:09:56Z</updated>
   <link href="./book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Mon Vieux" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -43,11 +43,11 @@
   </content>
   <link href="../authors_0/authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Thierry Jonquet" />
   <link href="http://www.goodreads.com/book/title/Mon%20Vieux" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Mon%20Vieux" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Mon%20Vieux" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Mon%20Vieux%20Thierry%20Jonquet" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Mon%20Vieux&amp;field-author=Thierry%20Jonquet" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/JonquetThierry" type="text/html" rel="related" title="Thierry Jonquet sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Thierry%20Jonquet" type="text/html" rel="related" title="Thierry Jonquet sur ISFDB" target="_blank" />

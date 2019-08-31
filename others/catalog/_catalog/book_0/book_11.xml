@@ -4,8 +4,8 @@
   <id>urn:book:8376ae21-6fa9-4fde-a1fe-d23f60b178b3</id>
   <updated>2019-08-30T11:41:59Z</updated>
   <link href="./book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le Temps est assassin" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -59,11 +59,11 @@
   </content>
   <link href="../authors_0/authors_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Bussi" />
   <link href="http://www.goodreads.com/book/title/Le%20Temps%20est%20assassin" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Le%20Temps%20est%20assassin" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Le%20Temps%20est%20assassin" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Le%20Temps%20est%20assassin%20Michel%20Bussi" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20Temps%20est%20assassin&amp;field-author=Michel%20Bussi" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/BussiMichel" type="text/html" rel="related" title="Michel Bussi sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Bussi" type="text/html" rel="related" title="Michel Bussi sur ISFDB" target="_blank" />

@@ -4,8 +4,8 @@
   <id>urn:book:d82a8248-8918-41b2-86c9-066f0fc42a81</id>
   <updated>2019-08-30T11:41:14Z</updated>
   <link href="./book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="VOYAGE au bout de la nuit" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Louis-Ferdinand%20Celine/VOYAGE%20au%20bout%20de%20la%20nuit%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -83,11 +83,11 @@
   </content>
   <link href="../authors_0/authors_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Louis-Ferdinand Celine" />
   <link href="http://www.goodreads.com/book/title/VOYAGE%20au%20bout%20de%20la%20nuit" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/VOYAGE%20au%20bout%20de%20la%20nuit" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/VOYAGE%20au%20bout%20de%20la%20nuit" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/VOYAGE%20au%20bout%20de%20la%20nuit%20Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=VOYAGE%20au%20bout%20de%20la%20nuit&amp;field-author=Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/CelineLouis-Ferdinand" type="text/html" rel="related" title="Louis-Ferdinand Celine sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Louis-Ferdinand%20Celine" type="text/html" rel="related" title="Louis-Ferdinand Celine sur ISFDB" target="_blank" />

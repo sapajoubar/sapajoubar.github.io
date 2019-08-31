@@ -4,8 +4,8 @@
   <id>urn:book:0d9a96a2-0331-4cbd-a207-bbb04187e263</id>
   <updated>2019-08-30T11:37:58Z</updated>
   <link href="./book_51.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'Affaire Charles Dexter Ward" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
@@ -48,11 +48,11 @@
   </content>
   <link href="../authors_0/authors_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Lovecraft, Howard Phillips" />
   <link href="http://www.goodreads.com/book/title/L%27Affaire%20Charles%20Dexter%20Ward" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/L%27Affaire%20Charles%20Dexter%20Ward" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/L%27Affaire%20Charles%20Dexter%20Ward" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/L%27Affaire%20Charles%20Dexter%20Ward%20Lovecraft%2C%20Howard%20Phillips" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27Affaire%20Charles%20Dexter%20Ward&amp;field-author=Lovecraft%2C%20Howard%20Phillips" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Lovecraft%2C%20Howard%20Phillips" type="text/html" rel="related" title="Lovecraft, Howard Phillips sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Lovecraft%2C%20Howard%20Phillips" type="text/html" rel="related" title="Lovecraft, Howard Phillips sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Lovecraft%2C%20Howard%20Phillips" type="text/html" rel="related" title="Lovecraft, Howard Phillips sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/LovecraftHowardPhillips" type="text/html" rel="related" title="Lovecraft, Howard Phillips sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lovecraft%2C%20Howard%20Phillips" type="text/html" rel="related" title="Lovecraft, Howard Phillips sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lovecraft%2C%20Howard%20Phillips" type="text/html" rel="related" title="Lovecraft, Howard Phillips sur ISFDB" target="_blank" />

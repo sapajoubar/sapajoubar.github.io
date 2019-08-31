@@ -4,8 +4,8 @@
   <id>urn:book:5464e1ea-370e-4c43-ab75-04d0dce3dd53</id>
   <updated>2019-08-30T11:38:13Z</updated>
   <link href="./book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le Club des Veufs Noirs" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authors_0/authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Asimov,Isaac" />
   <link href="../../Asimov%2CIsaac/Le%20Club%20des%20Veufs%20Noirs%20%2850%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
@@ -52,11 +52,11 @@
   <link href="../series_0/series_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livre 1 dans la collection Veufs Noirs" />
   <link href="../authors_0/authors_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Asimov,Isaac" />
   <link href="http://www.goodreads.com/book/title/Le%20Club%20des%20Veufs%20Noirs" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Le%20Club%20des%20Veufs%20Noirs" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Le%20Club%20des%20Veufs%20Noirs" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Le%20Club%20des%20Veufs%20Noirs%20Asimov%2CIsaac" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20Club%20des%20Veufs%20Noirs&amp;field-author=Asimov%2CIsaac" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Asimov%2CIsaac" type="text/html" rel="related" title="Asimov,Isaac sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Asimov%2CIsaac" type="text/html" rel="related" title="Asimov,Isaac sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Asimov%2CIsaac" type="text/html" rel="related" title="Asimov,Isaac sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/AsimovIsaac" type="text/html" rel="related" title="Asimov,Isaac sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Asimov%2CIsaac" type="text/html" rel="related" title="Asimov,Isaac sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Asimov%2CIsaac" type="text/html" rel="related" title="Asimov,Isaac sur ISFDB" target="_blank" />
