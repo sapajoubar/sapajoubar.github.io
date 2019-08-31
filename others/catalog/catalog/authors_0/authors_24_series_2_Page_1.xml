@@ -9,16 +9,17 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_24_series_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Collection: Frédéric DARD" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="./authors_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Frédéric Dard" />
   <entry>
     <title>1951 - Le tueur en pantoufles</title>
     <id>calibre:book:35</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:51Z</updated>
     <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/Le%20tueur%20en%20pantoufles%20-%20Frederic%20Dard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="421 KB" />
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/Le%20tueur%20en%20pantoufles%20-%20Frederic%20Dard.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="504 KB" />
     <author>
       <name>Frédéric Dard</name>
       <uri>../authors_0/authors_24_Page_1.xml</uri>

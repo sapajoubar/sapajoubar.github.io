@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./allbooks_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par R" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
   <entry>
     <title>Radio Libre Albemuth</title>
     <id>calibre:book:61</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:36Z</updated>
     <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/Radio%20Libre%20Albemuth%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="305 KB" />
+    <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/Radio%20Libre%20Albemuth%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="453 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -34,9 +35,10 @@
   <entry>
     <title>Le Retour de Jules</title>
     <id>calibre:book:15</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:16Z</updated>
     <link href="../../Didier%20Van%20Cauwelaert/Le%20Retour%20de%20Jules%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Didier%20Van%20Cauwelaert/Le%20Retour%20de%20Jules%20%2815%29/Le%20Retour%20de%20Jules%20-%20Didier%20Van%20Cauwelaert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="151 KB" />
+    <link href="../../Didier%20Van%20Cauwelaert/Le%20Retour%20de%20Jules%20%2815%29/Le%20Retour%20de%20Jules%20-%20Didier%20Van%20Cauwelaert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="211 KB" />
     <author>
       <name>Didier Van Cauwelaert</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -52,9 +54,10 @@
   <entry>
     <title>Le Roi Des Elfes</title>
     <id>calibre:book:46</id>
-    <updated>2018-04-29T05:31:25Z</updated>
+    <updated>2019-08-30T11:38:34Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/Le%20Roi%20Des%20Elfes%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="306 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/Le%20Roi%20Des%20Elfes%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="462 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>

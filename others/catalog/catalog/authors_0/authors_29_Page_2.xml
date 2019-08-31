@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_29_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Philip K. Dick" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>Message de Frolix 8</title>
     <id>calibre:book:85</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:36:13Z</updated>
     <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/Message%20de%20Frolix%208%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="349 KB" />
+    <link href="../../Philip%20K.%20Dick/Message%20de%20Frolix%208%20%2885%29/Message%20de%20Frolix%208%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="495 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -33,9 +34,10 @@
   <entry>
     <title>L'oeil dans le ciel</title>
     <id>calibre:book:64</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:58Z</updated>
     <link href="../../Philip%20K.%20Dick/L%27oeil%20dans%20le%20ciel%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/L%27oeil%20dans%20le%20ciel%20%2864%29/L%27oeil%20dans%20le%20ciel%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="314 KB" />
+    <link href="../../Philip%20K.%20Dick/L%27oeil%20dans%20le%20ciel%20%2864%29/L%27oeil%20dans%20le%20ciel%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="419 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -50,9 +52,10 @@
   <entry>
     <title>O Nation Sans Pudeur</title>
     <id>calibre:book:58</id>
-    <updated>2018-06-05T05:23:08Z</updated>
+    <updated>2019-08-30T11:37:33Z</updated>
     <link href="../../Philip%20K.%20Dick/O%20Nation%20Sans%20Pudeur%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/O%20Nation%20Sans%20Pudeur%20%2858%29/O%20Nation%20Sans%20Pudeur%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="388 KB" />
+    <link href="../../Philip%20K.%20Dick/O%20Nation%20Sans%20Pudeur%20%2858%29/O%20Nation%20Sans%20Pudeur%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="625 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -68,9 +71,10 @@
   <entry>
     <title>Les pantins cosmiques</title>
     <id>calibre:book:86</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:36:05Z</updated>
     <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/Les%20pantins%20cosmiques%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="170 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20pantins%20cosmiques%20%2886%29/Les%20pantins%20cosmiques%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="254 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -86,9 +90,10 @@
   <entry>
     <title>Paycheck</title>
     <id>calibre:book:73</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:14Z</updated>
     <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/Paycheck%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="461 KB" />
+    <link href="../../Philip%20K.%20Dick/Paycheck%20%2873%29/Paycheck%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="619 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -104,9 +109,10 @@
   <entry>
     <title>Le Profanateur</title>
     <id>calibre:book:74</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:09Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/Le%20Profanateur%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="192 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Profanateur%20%2874%29/Le%20Profanateur%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="293 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -122,9 +128,10 @@
   <entry>
     <title>Le Roi Des Elfes</title>
     <id>calibre:book:46</id>
-    <updated>2018-04-29T05:31:25Z</updated>
+    <updated>2019-08-30T11:38:34Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/Le%20Roi%20Des%20Elfes%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="306 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/Le%20Roi%20Des%20Elfes%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="462 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -138,9 +145,10 @@
   <entry>
     <title>Simulacres</title>
     <id>calibre:book:72</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:07Z</updated>
     <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/Simulacres%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="299 KB" />
+    <link href="../../Philip%20K.%20Dick/Simulacres%20%2872%29/Simulacres%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="552 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -155,9 +163,10 @@
   <entry>
     <title>Substance Mort</title>
     <id>calibre:book:77</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:29Z</updated>
     <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/Substance%20Mort%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+    <link href="../../Philip%20K.%20Dick/Substance%20Mort%20%2877%29/Substance%20Mort%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="577 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -173,9 +182,10 @@
   <entry>
     <title>Sur le territoire de Milton Lumky</title>
     <id>calibre:book:79</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:35Z</updated>
     <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/Sur%20le%20territoire%20de%20Milton%20Lumky%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="308 KB" />
+    <link href="../../Philip%20K.%20Dick/Sur%20le%20territoire%20de%20Milton%20Lumky%20%2879%29/Sur%20le%20territoire%20de%20Milton%20Lumky%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="458 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -191,9 +201,10 @@
   <entry>
     <title>Ubik</title>
     <id>calibre:book:75</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:21Z</updated>
     <link href="../../Philip%20K.%20Dick/Ubik%20%2875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Ubik%20%2875%29/Ubik%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="330 KB" />
+    <link href="../../Philip%20K.%20Dick/Ubik%20%2875%29/Ubik%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="520 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -209,9 +220,10 @@
   <entry>
     <title>Les voix de l'asphalte</title>
     <id>calibre:book:81</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:55Z</updated>
     <link href="../../Philip%20K.%20Dick/Les%20voix%20de%20l%27asphalte%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Les%20voix%20de%20l%27asphalte%20%2881%29/Les%20voix%20de%20l%27asphalte%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="384 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20voix%20de%20l%27asphalte%20%2881%29/Les%20voix%20de%20l%27asphalte%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="650 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>

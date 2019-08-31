@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jack London" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>Avant Adam ( (Les demi-hommes))</title>
     <id>calibre:book:98</id>
-    <updated>2018-11-15T06:30:56Z</updated>
+    <updated>2019-08-30T11:34:18Z</updated>
     <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="179 KB" />
+    <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="250 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -33,9 +34,10 @@
   <entry>
     <title>Croc-Blanc</title>
     <id>calibre:book:26</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:08Z</updated>
     <link href="../../Jack%20London/Croc-Blanc%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Croc-Blanc%20%2826%29/Croc-Blanc%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="577 KB" />
+    <link href="../../Jack%20London/Croc-Blanc%20%2826%29/Croc-Blanc%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="400 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -53,9 +55,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Une invasion sans précédent</title>
     <id>calibre:book:95</id>
-    <updated>2018-11-15T06:29:28Z</updated>
+    <updated>2019-08-30T11:34:25Z</updated>
     <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/Une%20invasion%20sans%20precedent%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="35 KB" />
+    <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/Une%20invasion%20sans%20precedent%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="62 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -71,9 +74,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le vagabond des étoiles</title>
     <id>calibre:book:94</id>
-    <updated>2018-11-15T06:27:33Z</updated>
+    <updated>2019-08-30T11:34:46Z</updated>
     <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/Le%20vagabond%20des%20etoiles%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="390 KB" />
+    <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/Le%20vagabond%20des%20etoiles%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="568 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -86,9 +90,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le Loup des mers</title>
     <id>calibre:book:103</id>
-    <updated>2019-01-17T04:33:56Z</updated>
+    <updated>2019-08-30T11:34:22Z</updated>
     <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/Le%20Loup%20des%20mers%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="329 KB" />
+    <link href="../../Jack%20London/Le%20Loup%20des%20mers%20%28103%29/Le%20Loup%20des%20mers%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="487 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -104,9 +109,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le Peuple de l'Abîme</title>
     <id>calibre:book:96</id>
-    <updated>2018-11-15T06:29:53Z</updated>
+    <updated>2019-08-30T11:34:33Z</updated>
     <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/Le%20Peuple%20de%20l%27Abime%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="231 KB" />
+    <link href="../../Jack%20London/Le%20Peuple%20de%20l%27Abime%20%2896%29/Le%20Peuple%20de%20l%27Abime%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="349 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -122,9 +128,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le Talon de Fer</title>
     <id>calibre:book:97</id>
-    <updated>2018-11-15T06:30:19Z</updated>
+    <updated>2019-08-30T11:34:24Z</updated>
     <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/Le%20Talon%20de%20Fer%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="345 KB" />
+    <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/Le%20Talon%20de%20Fer%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="514 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>

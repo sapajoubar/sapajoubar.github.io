@@ -2,15 +2,16 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Gilles &amp; Jeanne</title>
   <id>urn:book:4fc24177-60c2-4bee-8832-eba1ec83c29a</id>
-  <updated>2018-02-24T11:11:47Z</updated>
+  <updated>2019-08-30T11:40:10Z</updated>
   <link href="./book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Gilles &amp; Jeanne" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/Gilles%20%26%20Jeanne%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="143 KB" />
+  <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/Gilles%20%26%20Jeanne%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="194 KB" />
   <author>
     <name>Michel Tournier</name>
     <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -55,11 +56,11 @@
   </content>
   <link href="../authors_0/authors_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Tournier" />
   <link href="http://www.goodreads.com/book/title/Gilles%20%26%20Jeanne" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Gilles%20%26%20Jeanne" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Gilles%20%26%20Jeanne" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Gilles%20%26%20Jeanne%20Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Gilles%20%26%20Jeanne&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/TournierMichel" type="text/html" rel="related" title="Michel Tournier sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Tournier" type="text/html" rel="related" title="Michel Tournier sur ISFDB" target="_blank" />

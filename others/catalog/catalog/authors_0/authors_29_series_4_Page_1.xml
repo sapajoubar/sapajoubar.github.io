@@ -9,16 +9,17 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_29_series_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Collection: la trilogie divine" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="./authors_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Philip K. Dick" />
   <entry>
     <title>1 - Radio Libre Albemuth</title>
     <id>calibre:book:61</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:36Z</updated>
     <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/Radio%20Libre%20Albemuth%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="305 KB" />
+    <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/Radio%20Libre%20Albemuth%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="453 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -35,9 +36,10 @@
   <entry>
     <title>1 - Siva</title>
     <id>calibre:book:80</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:44Z</updated>
     <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/Siva%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="308 KB" />
+    <link href="../../Philip%20K.%20Dick/Siva%20%2880%29/Siva%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="470 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -54,9 +56,10 @@
   <entry>
     <title>2 - L'invasion divine</title>
     <id>calibre:book:78</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:38Z</updated>
     <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/L%27invasion%20divine%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="298 KB" />
+    <link href="../../Philip%20K.%20Dick/L%27invasion%20divine%20%2878%29/L%27invasion%20divine%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="443 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -73,9 +76,10 @@
   <entry>
     <title>3 - La transmigration de Timothy Archer</title>
     <id>calibre:book:91</id>
-    <updated>2018-06-05T05:23:11Z</updated>
+    <updated>2019-08-30T11:34:47Z</updated>
     <link href="../../Philip%20K.%20Dick/La%20transmigration%20de%20Timothy%20Archer%20%2891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/La%20transmigration%20de%20Timothy%20Archer%20%2891%29/La%20transmigration%20de%20Timothy%20Archer%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="353 KB" />
+    <link href="../../Philip%20K.%20Dick/La%20transmigration%20de%20Timothy%20Archer%20%2891%29/La%20transmigration%20de%20Timothy%20Archer%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="497 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>

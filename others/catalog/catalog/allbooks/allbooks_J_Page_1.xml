@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./allbooks_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par J" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
   <entry>
     <title>Le vagabond des étoiles</title>
     <id>calibre:book:94</id>
-    <updated>2018-11-15T06:27:33Z</updated>
+    <updated>2019-08-30T11:34:46Z</updated>
     <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/Le%20vagabond%20des%20etoiles%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="390 KB" />
+    <link href="../../Jack%20London/Le%20vagabond%20des%20etoiles%20%2894%29/Le%20vagabond%20des%20etoiles%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="568 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -30,9 +31,10 @@
   <entry>
     <title>Je vais encore me faire des amis !</title>
     <id>calibre:book:40</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:39:00Z</updated>
     <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="341 KB" />
+    <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="470 KB" />
     <author>
       <name>Mocky,Jean-Pierre</name>
       <uri>../authors_0/authors_27_Page_1.xml</uri>
@@ -48,9 +50,10 @@
   <entry>
     <title>Journal Extime</title>
     <id>calibre:book:18</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:31Z</updated>
     <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/Journal%20Extime%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="156 KB" />
+    <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/Journal%20Extime%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="244 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -65,9 +68,10 @@
   <entry>
     <title>Jules (LITT.GENERALE) (French Edition)</title>
     <id>calibre:book:6</id>
-    <updated>2018-02-24T11:11:46Z</updated>
+    <updated>2019-08-30T11:41:26Z</updated>
     <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20-%20Didier%20Van%20Cauwelaert.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="242 KB" />
+    <link href="../../Didier%20Van%20Cauwelaert/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%286%29/Jules%20%28LITT.GENERALE%29%20%28French%20Edition%29%20-%20Didier%20Van%20Cauwelaert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="343 KB" />
     <author>
       <name>Didier Van Cauwelaert</name>
       <uri>../authors_0/authors_6_Page_1.xml</uri>
@@ -82,9 +86,10 @@
   <entry>
     <title>J’ai toujours cette musique dans la tête</title>
     <id>calibre:book:4</id>
-    <updated>2018-02-24T11:11:46Z</updated>
+    <updated>2019-08-30T11:41:28Z</updated>
     <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20-%20Agnes%20Martin-Lugand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="566 KB" />
+    <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20-%20Agnes%20Martin-Lugand.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="831 KB" />
     <author>
       <name>Agnès Martin-Lugand</name>
       <uri>../authors_0/authors_4_Page_1.xml</uri>

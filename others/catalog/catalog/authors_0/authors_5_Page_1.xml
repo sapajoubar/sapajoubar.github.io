@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Virginie Despentes" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>Apocalypse bébé</title>
     <id>calibre:book:2</id>
-    <updated>2018-02-24T11:09:14Z</updated>
+    <updated>2019-08-30T11:32:13Z</updated>
     <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/Apocalypse%20bebe%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="306 KB" />
+    <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/Apocalypse%20bebe%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="488 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -33,9 +34,10 @@
   <entry>
     <title>Baise-moi (Littérature Française) (French Edition)</title>
     <id>calibre:book:39</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:38:44Z</updated>
     <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="293 KB" />
+    <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="386 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -49,9 +51,10 @@
   <entry>
     <title>Bye Bye Blondie</title>
     <id>calibre:book:5</id>
-    <updated>2018-02-24T11:11:46Z</updated>
+    <updated>2019-08-30T11:41:26Z</updated>
     <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/Bye%20Bye%20Blondie%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="225 KB" />
+    <link href="../../Virginie%20Despentes/Bye%20Bye%20Blondie%20%285%29/Bye%20Bye%20Blondie%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="376 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -68,9 +71,10 @@
   <entry>
     <title>Les Chiennes savantes</title>
     <id>calibre:book:41</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:38:57Z</updated>
     <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/Les%20Chiennes%20savantes%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="268 KB" />
+    <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/Les%20Chiennes%20savantes%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="369 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -87,9 +91,10 @@
   <entry>
     <title>King Kong théorie</title>
     <id>calibre:book:9</id>
-    <updated>2018-02-24T11:11:46Z</updated>
+    <updated>2019-08-30T11:41:34Z</updated>
     <link href="../../Virginie%20Despentes/King%20Kong%20theorie%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/King%20Kong%20theorie%20%289%29/King%20Kong%20theorie%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="225 KB" />
+    <link href="../../Virginie%20Despentes/King%20Kong%20theorie%20%289%29/King%20Kong%20theorie%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="285 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -106,9 +111,10 @@
   <entry>
     <title>Vernon Subutex 3</title>
     <id>calibre:book:30</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:27Z</updated>
     <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/Vernon%20Subutex%203%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="735 KB" />
+    <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/Vernon%20Subutex%203%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="974 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <title>Biblioth�que g�r�e par Calibre</title>
+  <title>Bibliothèque gérée par Calibre</title>
   <id />
   <author>
     <name>David Pierron</name>
@@ -8,8 +8,8 @@
     <email>dpierron+calibre2opds@gmail.com</email>
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
-  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Biblioth�que g�r�e par Calibre" />
-  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
+  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Bibliothèque gérée par Calibre" />
+  <link href="./index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
   <entry>
     <title>Documentation de Calibre2opds</title>
     <id>urn:calibre2opds:about</id>

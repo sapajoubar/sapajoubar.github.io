@@ -2,14 +2,15 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Extension du domaine de la lutte</title>
   <id>urn:book:534a9548-eabc-4d82-8cf5-8b7aef45f93f</id>
-  <updated>2019-02-20T05:29:35Z</updated>
+  <updated>2019-08-30T11:34:09Z</updated>
   <link href="./book_118.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Extension du domaine de la lutte" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Michel%20Houellebecq/Extension%20du%20domaine%20de%20la%20lutte%20%28118%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Michel%20Houellebecq/Extension%20du%20domaine%20de%20la%20lutte%20%28118%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Michel%20Houellebecq/Extension%20du%20domaine%20de%20la%20lutte%20%28118%29/Extension%20du%20domaine%20de%20la%20lutte%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="174 KB" />
+  <link href="../../Michel%20Houellebecq/Extension%20du%20domaine%20de%20la%20lutte%20%28118%29/Extension%20du%20domaine%20de%20la%20lutte%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="238 KB" />
   <author>
     <name>Michel Houellebecq</name>
     <uri>../authors_0/authors_38_Page_1.xml</uri>
@@ -56,11 +57,11 @@
   </content>
   <link href="../authors_0/authors_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Michel Houellebecq" />
   <link href="http://www.goodreads.com/book/title/Extension%20du%20domaine%20de%20la%20lutte" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Extension%20du%20domaine%20de%20la%20lutte" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Extension%20du%20domaine%20de%20la%20lutte" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Extension%20du%20domaine%20de%20la%20lutte%20Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Extension%20du%20domaine%20de%20la%20lutte&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/HouellebecqMichel" type="text/html" rel="related" title="Michel Houellebecq sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Michel%20Houellebecq" type="text/html" rel="related" title="Michel Houellebecq sur ISFDB" target="_blank" />

@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./allbooks_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par T" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
   <entry>
     <title>Le Talon de Fer</title>
     <id>calibre:book:97</id>
-    <updated>2018-11-15T06:30:19Z</updated>
+    <updated>2019-08-30T11:34:24Z</updated>
     <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/Le%20Talon%20de%20Fer%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="345 KB" />
+    <link href="../../Jack%20London/Le%20Talon%20de%20Fer%20%2897%29/Le%20Talon%20de%20Fer%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="514 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -33,9 +34,10 @@
   <entry>
     <title>Le Temps est assassin</title>
     <id>calibre:book:11</id>
-    <updated>2018-02-24T11:11:46Z</updated>
+    <updated>2019-08-30T11:41:59Z</updated>
     <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/Le%20Temps%20est%20assassin%20-%20Michel%20Bussi.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="494 KB" />
+    <link href="../../Michel%20Bussi/Le%20Temps%20est%20assassin%20%2811%29/Le%20Temps%20est%20assassin%20-%20Michel%20Bussi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="771 KB" />
     <author>
       <name>Michel Bussi</name>
       <uri>../authors_0/authors_10_Page_1.xml</uri>
@@ -51,9 +53,10 @@
   <entry>
     <title>Testament Phonographe</title>
     <id>calibre:book:130</id>
-    <updated>2019-05-26T02:26:55Z</updated>
+    <updated>2019-08-30T11:33:45Z</updated>
     <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="9 MB" />
+    <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="10 MB" />
     <author>
       <name>Léo Ferré</name>
       <uri>../authors_0/authors_45_Page_1.xml</uri>
@@ -72,9 +75,10 @@
   <entry>
     <title>De tes nouvelles (LITT.GENERALE) (French Edition)</title>
     <id>calibre:book:19</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:37Z</updated>
     <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20E%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="316 KB" />
+    <link href="../../Agnes%20Ledig/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20Edition%29%20%2819%29/De%20tes%20nouvelles%20%28LITT.GENERALE%29%20%28French%20E%20-%20Agnes%20Ledig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="454 KB" />
     <author>
       <name>Agnès Ledig</name>
       <uri>../authors_0/authors_14_Page_1.xml</uri>

@@ -2,15 +2,16 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Le Monstespan</title>
   <id>urn:book:7cd9f6af-6169-4a79-8a26-3cab51f4a7e0</id>
-  <updated>2018-02-24T11:11:48Z</updated>
+  <updated>2019-08-26T01:22:54Z</updated>
   <link href="./book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le Monstespan" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+  <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
   <author>
     <name>Jean Teulé</name>
     <uri>../authors_0/authors_18_Page_1.xml</uri>
@@ -82,11 +83,11 @@
   </content>
   <link href="../authors_0/authors_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Jean Teulé" />
   <link href="http://www.goodreads.com/book/title/Le%20Monstespan" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Le%20Monstespan" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Le%20Monstespan" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Le%20Monstespan%20Jean%20Teul%C3%A9" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20Monstespan&amp;field-author=Jean%20Teul%C3%A9" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/Teul%C3%A9Jean" type="text/html" rel="related" title="Jean Teulé sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jean%20Teul%C3%A9" type="text/html" rel="related" title="Jean Teulé sur ISFDB" target="_blank" />

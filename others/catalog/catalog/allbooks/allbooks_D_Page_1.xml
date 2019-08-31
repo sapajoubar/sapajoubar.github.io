@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par D" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
   <entry>
     <title>Dans le jardin de l'ogre (Gallimard, 28 août)</title>
     <id>calibre:book:36</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:40:01Z</updated>
     <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="216 KB" />
+    <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="345 KB" />
     <author>
       <name>Leïla Slimani</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -33,9 +34,10 @@
   <entry>
     <title>Debout-payé</title>
     <id>calibre:book:117</id>
-    <updated>2019-01-24T11:58:19Z</updated>
+    <updated>2019-08-26T01:23:28Z</updated>
     <link href="../../Gauz/Debout-paye%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Gauz/Debout-paye%20%28117%29/Debout-paye%20-%20Gauz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="375 KB" />
+    <link href="../../Gauz/Debout-paye%20%28117%29/Debout-paye%20-%20Gauz.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="506 KB" />
     <author>
       <name>Gauz</name>
       <uri>../authors_0/authors_40_Page_1.xml</uri>
@@ -54,10 +56,11 @@
   <entry>
     <title>Le Dernier Jour d'un Condamné</title>
     <id>calibre:book:105</id>
-    <updated>2019-01-17T04:50:54Z</updated>
+    <updated>2019-08-30T11:34:10Z</updated>
     <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="137 KB" />
     <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.mobi" type="application/x-mobipocket-ebook" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format MOBI" displaysize="299 KB" />
+    <link href="../../Victor%20Hugo/Le%20Dernier%20Jour%20d%27un%20Condamne%20%28105%29/Le%20Dernier%20Jour%20d%27un%20Condamne%20-%20Victor%20Hugo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="180 KB" />
     <author>
       <name>Victor Hugo</name>
       <uri>../authors_0/authors_39_Page_1.xml</uri>
@@ -72,9 +75,10 @@
   <entry>
     <title>Deus Irae</title>
     <id>calibre:book:65</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:48Z</updated>
     <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/Deus%20Irae%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="273 KB" />
+    <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/Deus%20Irae%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="407 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -94,9 +98,10 @@
   <entry>
     <title>Dr Bloodmoney</title>
     <id>calibre:book:55</id>
-    <updated>2018-06-05T04:28:31Z</updated>
+    <updated>2019-08-30T11:37:46Z</updated>
     <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/Dr%20Bloodmoney%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+    <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/Dr%20Bloodmoney%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="573 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -112,9 +117,10 @@
   <entry>
     <title>Du Passé Faisons Table Rase</title>
     <id>calibre:book:132</id>
-    <updated>2019-05-26T02:27:50Z</updated>
+    <updated>2019-08-03T07:10:15Z</updated>
     <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/Du%20Passe%20Faisons%20Table%20Rase%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="196 KB" />
+    <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/Du%20Passe%20Faisons%20Table%20Rase%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="315 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -129,9 +135,10 @@
   <entry>
     <title>Décadence, Vie et mort du judéo-christianisme</title>
     <id>calibre:book:31</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:40:04Z</updated>
     <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christiani%20-%20Michel%20Onfray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="834 KB" />
+    <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christiani%20-%20Michel%20Onfray.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
     <author>
       <name>Michel Onfray</name>
       <uri>../authors_0/authors_15_Page_1.xml</uri>
@@ -146,9 +153,10 @@
   <entry>
     <title>Le dieu venu du Centaure</title>
     <id>calibre:book:83</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:35:57Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20dieu%20venu%20du%20Centaure%20%2883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20dieu%20venu%20du%20Centaure%20%2883%29/Le%20dieu%20venu%20du%20Centaure%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="301 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20dieu%20venu%20du%20Centaure%20%2883%29/Le%20dieu%20venu%20du%20Centaure%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="486 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>

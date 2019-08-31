@@ -9,17 +9,18 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./recent_MORE_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Plus anciens encore" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ajouts r�cents" />
   <link href="./recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Plus anciens encore" />
   <link href="../recent/recent_MORE_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="page suivante (4 sur 4)" />
   <entry>
     <title>Det_Entrez dans la danse [17 avril 2018]</title>
     <id>calibre:book:43</id>
-    <updated>2018-04-17T05:50:57Z</updated>
+    <updated>2019-08-30T11:38:44Z</updated>
     <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/det_Entrez%20dans%20la%20danse%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="806 KB" />
+    <link href="../../Jean%20Teule/det_Entrez%20dans%20la%20danse%20%2843%29/det_Entrez%20dans%20la%20danse%20-%20Jean%20Teule.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="934 KB" />
     <author>
       <name>Jean Teulé</name>
       <uri>../authors_0/authors_18_Page_1.xml</uri>
@@ -38,9 +39,10 @@
   <entry>
     <title>Baise-moi (Littérature Française) (French Edition) [24 février 2018]</title>
     <id>calibre:book:39</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:38:44Z</updated>
     <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="293 KB" />
+    <link href="../../Virginie%20Despentes/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20Edition%29%20%2839%29/Baise-moi%20%28Litterature%20Francaise%29%20%28French%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="386 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -54,9 +56,10 @@
   <entry>
     <title>Chanson douce [24 février 2018]</title>
     <id>calibre:book:42</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:38:56Z</updated>
     <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/Chanson%20douce%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="355 KB" />
+    <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/Chanson%20douce%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="462 KB" />
     <author>
       <name>Leïla Slimani</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -72,9 +75,10 @@
   <entry>
     <title>Les Chiennes savantes [24 février 2018]</title>
     <id>calibre:book:41</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:38:57Z</updated>
     <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/Les%20Chiennes%20savantes%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="268 KB" />
+    <link href="../../Virginie%20Despentes/Les%20Chiennes%20savantes%20%2841%29/Les%20Chiennes%20savantes%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="369 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -91,9 +95,10 @@
   <entry>
     <title>Je vais encore me faire des amis ! [24 février 2018]</title>
     <id>calibre:book:40</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:39:00Z</updated>
     <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="341 KB" />
+    <link href="../../Mocky%2CJean-Pierre/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20%2840%29/Je%20vais%20encore%20me%20faire%20des%20amis%20%21%20-%20Mocky%2CJean-Pierre.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="470 KB" />
     <author>
       <name>Mocky,Jean-Pierre</name>
       <uri>../authors_0/authors_27_Page_1.xml</uri>
@@ -109,9 +114,10 @@
   <entry>
     <title>L'Arrache-coeur [24 février 2018]</title>
     <id>calibre:book:25</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:07Z</updated>
     <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/L%27Arrache-coeur%20-%20Boris%20Vian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="208 KB" />
+    <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/L%27Arrache-coeur%20-%20Boris%20Vian.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="290 KB" />
     <author>
       <name>Boris Vian</name>
       <uri>../authors_0/authors_19_Page_1.xml</uri>
@@ -127,9 +133,10 @@
   <entry>
     <title>Croc-Blanc [24 février 2018]</title>
     <id>calibre:book:26</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:08Z</updated>
     <link href="../../Jack%20London/Croc-Blanc%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Croc-Blanc%20%2826%29/Croc-Blanc%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="577 KB" />
+    <link href="../../Jack%20London/Croc-Blanc%20%2826%29/Croc-Blanc%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="400 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -147,9 +154,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Dans le jardin de l'ogre (Gallimard, 28 août) [24 février 2018]</title>
     <id>calibre:book:36</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:40:01Z</updated>
     <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="216 KB" />
+    <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="345 KB" />
     <author>
       <name>Leïla Slimani</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -165,9 +173,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Décadence, Vie et mort du judéo-christianisme [24 février 2018]</title>
     <id>calibre:book:31</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:40:04Z</updated>
     <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christiani%20-%20Michel%20Onfray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="834 KB" />
+    <link href="../../Michel%20Onfray/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christianisme%20%2831%29/Decadence%2C%20Vie%20et%20mort%20du%20judeo-christiani%20-%20Michel%20Onfray.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
     <author>
       <name>Michel Onfray</name>
       <uri>../authors_0/authors_15_Page_1.xml</uri>
@@ -182,9 +191,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le Miroir des idées [24 février 2018]</title>
     <id>calibre:book:28</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:18Z</updated>
     <link href="../../Michel%20Tournier/Le%20Miroir%20des%20idees%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Le%20Miroir%20des%20idees%20%2828%29/Le%20Miroir%20des%20idees%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="185 KB" />
+    <link href="../../Michel%20Tournier/Le%20Miroir%20des%20idees%20%2828%29/Le%20Miroir%20des%20idees%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="247 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -199,9 +209,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le Roi des aulnes [24 février 2018]</title>
     <id>calibre:book:32</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:42Z</updated>
     <link href="../../Michel%20Tournier/Le%20Roi%20des%20aulnes%20%2832%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Le%20Roi%20des%20aulnes%20%2832%29/Le%20Roi%20des%20aulnes%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="355 KB" />
+    <link href="../../Michel%20Tournier/Le%20Roi%20des%20aulnes%20%2832%29/Le%20Roi%20des%20aulnes%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="566 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -215,9 +226,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le tueur en pantoufles [24 février 2018]</title>
     <id>calibre:book:35</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:51Z</updated>
     <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/Le%20tueur%20en%20pantoufles%20-%20Frederic%20Dard.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="421 KB" />
+    <link href="../../Frederic%20Dard/Le%20tueur%20en%20pantoufles%20%2835%29/Le%20tueur%20en%20pantoufles%20-%20Frederic%20Dard.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="504 KB" />
     <author>
       <name>Frédéric Dard</name>
       <uri>../authors_0/authors_24_Page_1.xml</uri>
@@ -234,9 +246,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Macbeth [24 février 2018]</title>
     <id>calibre:book:34</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:55Z</updated>
     <link href="../../William%20Shakespeare/Macbeth%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../William%20Shakespeare/Macbeth%20%2834%29/Macbeth%20-%20William%20Shakespeare.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="176 KB" />
+    <link href="../../William%20Shakespeare/Macbeth%20%2834%29/Macbeth%20-%20William%20Shakespeare.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="231 KB" />
     <author>
       <name>William Shakespeare</name>
       <uri>../authors_0/authors_23_Page_1.xml</uri>
@@ -249,9 +262,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Marie d’en haut [24 février 2018]</title>
     <id>calibre:book:29</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:24Z</updated>
     <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/Marie%20d%27en%20haut%20-%20Agnes%20Ledig.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Agnes%20Ledig/Marie%20d%27en%20haut%20%2829%29/Marie%20d%27en%20haut%20-%20Agnes%20Ledig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="2 MB" />
     <author>
       <name>Agnès Ledig</name>
       <uri>../authors_0/authors_14_Page_1.xml</uri>
@@ -266,9 +280,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Le Monstespan [24 février 2018]</title>
     <id>calibre:book:24</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-26T01:22:54Z</updated>
     <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Jean%20Teule/Le%20Monstespan%20%2824%29/Le%20Monstespan%20-%20Jean%20Teule.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
     <author>
       <name>Jean Teulé</name>
       <uri>../authors_0/authors_18_Page_1.xml</uri>
@@ -284,9 +299,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Muchachas 1 [24 février 2018]</title>
     <id>calibre:book:37</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:40:10Z</updated>
     <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/Muchachas%201%20-%20Katherine%20Pancol.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="311 KB" />
+    <link href="../../Katherine%20Pancol/Muchachas%201%20%2837%29/Muchachas%201%20-%20Katherine%20Pancol.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="534 KB" />
     <author>
       <name>Katherine Pancol</name>
       <uri>../authors_0/authors_26_Page_1.xml</uri>
@@ -304,9 +320,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Petites proses [24 février 2018]</title>
     <id>calibre:book:27</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:12Z</updated>
     <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/Petites%20proses%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="218 KB" />
+    <link href="../../Michel%20Tournier/Petites%20proses%20%2827%29/Petites%20proses%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="287 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -319,9 +336,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Sur les cimes du désespoir [24 février 2018]</title>
     <id>calibre:book:33</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:37Z</updated>
     <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/Sur%20les%20cimes%20du%20desespoir%20-%20Emil%20Cioran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="181 KB" />
+    <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/Sur%20les%20cimes%20du%20desespoir%20-%20Emil%20Cioran.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="227 KB" />
     <author>
       <name>Emil Cioran</name>
       <uri>../authors_0/authors_22_Page_1.xml</uri>
@@ -338,9 +356,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Vendredi ou la vie sauvage [24 février 2018]</title>
     <id>calibre:book:38</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:40:11Z</updated>
     <link href="../../Michel%20Tournier/Vendredi%20ou%20la%20vie%20sauvage%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Vendredi%20ou%20la%20vie%20sauvage%20%2838%29/Vendredi%20ou%20la%20vie%20sauvage%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Michel%20Tournier/Vendredi%20ou%20la%20vie%20sauvage%20%2838%29/Vendredi%20ou%20la%20vie%20sauvage%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -355,9 +374,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Vernon Subutex 3 [24 février 2018]</title>
     <id>calibre:book:30</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:27Z</updated>
     <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/Vernon%20Subutex%203%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="735 KB" />
+    <link href="../../Virginie%20Despentes/Vernon%20Subutex%203%20%2830%29/Vernon%20Subutex%203%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="974 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -373,9 +393,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Avenue Des Géants [24 février 2018]</title>
     <id>calibre:book:23</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:41:12Z</updated>
     <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/Avenue%20Des%20Geants%20-%20Marc%20Dugain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="631 KB" />
+    <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/Avenue%20Des%20Geants%20-%20Marc%20Dugain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="785 KB" />
     <author>
       <name>Marc Dugain</name>
       <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -390,9 +411,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Gaspard, Melchior Et Balthazar [24 février 2018]</title>
     <id>calibre:book:17</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:31Z</updated>
     <link href="../../Michel%20Tournier/Gaspard%2C%20Melchior%20Et%20Balthazar%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Gaspard%2C%20Melchior%20Et%20Balthazar%20%2817%29/Gaspard%2C%20Melchior%20Et%20Balthazar%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="236 KB" />
+    <link href="../../Michel%20Tournier/Gaspard%2C%20Melchior%20Et%20Balthazar%20%2817%29/Gaspard%2C%20Melchior%20Et%20Balthazar%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="353 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -405,9 +427,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Gilles &amp; Jeanne [24 février 2018]</title>
     <id>calibre:book:13</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:10Z</updated>
     <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/Gilles%20%26%20Jeanne%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="143 KB" />
+    <link href="../../Michel%20Tournier/Gilles%20%26%20Jeanne%20%2813%29/Gilles%20%26%20Jeanne%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="194 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -423,9 +446,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>Journal Extime [24 février 2018]</title>
     <id>calibre:book:18</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:31Z</updated>
     <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/Journal%20Extime%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="156 KB" />
+    <link href="../../Michel%20Tournier/Journal%20Extime%20%2818%29/Journal%20Extime%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="244 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>
@@ -440,9 +464,10 @@ L'histoire commence avant la naissance de Croc-Blanc, un chien loup. Le roman su
   <entry>
     <title>La Goutte d'or [24 février 2018]</title>
     <id>calibre:book:14</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:21Z</updated>
     <link href="../../Michel%20Tournier/La%20Goutte%20d%27or%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Tournier/La%20Goutte%20d%27or%20%2814%29/La%20Goutte%20d%27or%20-%20Michel%20Tournier.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="249 KB" />
+    <link href="../../Michel%20Tournier/La%20Goutte%20d%27or%20%2814%29/La%20Goutte%20d%27or%20-%20Michel%20Tournier.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="353 KB" />
     <author>
       <name>Michel Tournier</name>
       <uri>../authors_0/authors_3_Page_1.xml</uri>

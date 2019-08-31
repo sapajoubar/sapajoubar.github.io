@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_22_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Emil Cioran" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>Sur les cimes du désespoir</title>
     <id>calibre:book:33</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:37Z</updated>
     <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/Sur%20les%20cimes%20du%20desespoir%20-%20Emil%20Cioran.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="181 KB" />
+    <link href="../../Emil%20Cioran/Sur%20les%20cimes%20du%20desespoir%20%2833%29/Sur%20les%20cimes%20du%20desespoir%20-%20Emil%20Cioran.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="227 KB" />
     <author>
       <name>Emil Cioran</name>
       <uri>../authors_0/authors_22_Page_1.xml</uri>

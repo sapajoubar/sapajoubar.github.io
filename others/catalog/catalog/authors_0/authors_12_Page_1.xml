@@ -9,16 +9,17 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Leïla Slimani" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>Chanson douce</title>
     <id>calibre:book:42</id>
-    <updated>2018-02-24T11:11:49Z</updated>
+    <updated>2019-08-30T11:38:56Z</updated>
     <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/Chanson%20douce%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="355 KB" />
+    <link href="../../Leila%20Slimani/Chanson%20douce%20%2842%29/Chanson%20douce%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="462 KB" />
     <author>
       <name>Leïla Slimani</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -34,9 +35,10 @@
   <entry>
     <title>Dans le jardin de l'ogre (Gallimard, 28 août)</title>
     <id>calibre:book:36</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:40:01Z</updated>
     <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="216 KB" />
+    <link href="../../Leila%20Slimani/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20aout%29%20%2836%29/Dans%20le%20jardin%20de%20l%27ogre%20%28Gallimard%2C%2028%20ao%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="345 KB" />
     <author>
       <name>Leïla Slimani</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -52,9 +54,10 @@
   <entry>
     <title>Sexe et mensonges</title>
     <id>calibre:book:16</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:40:21Z</updated>
     <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/Sexe%20et%20mensonges%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="550 KB" />
+    <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/Sexe%20et%20mensonges%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="445 KB" />
     <author>
       <name>Leïla Slimani</name>
       <uri>../authors_0/authors_12_Page_1.xml</uri>

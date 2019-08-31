@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par A" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
   <entry>
     <title>Ad vitam eternam</title>
     <id>calibre:book:131</id>
-    <updated>2019-05-26T02:27:34Z</updated>
+    <updated>2019-08-03T07:09:43Z</updated>
     <link href="../../Thierry%20Jonquet/Ad%20vitam%20eternam%20%28131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Ad%20vitam%20eternam%20%28131%29/Ad%20vitam%20eternam%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="322 KB" />
+    <link href="../../Thierry%20Jonquet/Ad%20vitam%20eternam%20%28131%29/Ad%20vitam%20eternam%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="485 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -32,9 +33,10 @@
   <entry>
     <title>L'Affaire Charles Dexter Ward</title>
     <id>calibre:book:51</id>
-    <updated>2018-05-11T03:50:33Z</updated>
+    <updated>2019-08-30T11:37:58Z</updated>
     <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/L%27Affaire%20Charles%20Dexter%20Ward%20-%20Lovecraft%2C%20Howard%20Phillips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="377 KB" />
+    <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/L%27Affaire%20Charles%20Dexter%20Ward%20-%20Lovecraft%2C%20Howard%20Phillips.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="250 KB" />
     <author>
       <name>Lovecraft, Howard Phillips</name>
       <uri>../authors_0/authors_33_Page_1.xml</uri>
@@ -53,9 +55,10 @@
   <entry>
     <title>Apocalypse bébé</title>
     <id>calibre:book:2</id>
-    <updated>2018-02-24T11:09:14Z</updated>
+    <updated>2019-08-30T11:32:13Z</updated>
     <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/Apocalypse%20bebe%20-%20Virginie%20Despentes.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="306 KB" />
+    <link href="../../Virginie%20Despentes/Apocalypse%20bebe%20%282%29/Apocalypse%20bebe%20-%20Virginie%20Despentes.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="488 KB" />
     <author>
       <name>Virginie Despentes</name>
       <uri>../authors_0/authors_5_Page_1.xml</uri>
@@ -71,9 +74,10 @@
   <entry>
     <title>L'Arrache-coeur</title>
     <id>calibre:book:25</id>
-    <updated>2018-02-24T11:11:48Z</updated>
+    <updated>2019-08-30T11:39:07Z</updated>
     <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/L%27Arrache-coeur%20-%20Boris%20Vian.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="208 KB" />
+    <link href="../../Boris%20Vian/L%27Arrache-coeur%20%2825%29/L%27Arrache-coeur%20-%20Boris%20Vian.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="290 KB" />
     <author>
       <name>Boris Vian</name>
       <uri>../authors_0/authors_19_Page_1.xml</uri>
@@ -89,9 +93,10 @@
   <entry>
     <title>Avant Adam ( (Les demi-hommes))</title>
     <id>calibre:book:98</id>
-    <updated>2018-11-15T06:30:56Z</updated>
+    <updated>2019-08-30T11:34:18Z</updated>
     <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="179 KB" />
+    <link href="../../Jack%20London/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20%2898%29/Avant%20Adam%20%28%20%28Les%20demi-hommes%29%29%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="250 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>
@@ -107,9 +112,10 @@
   <entry>
     <title>Avenue Des Géants</title>
     <id>calibre:book:23</id>
-    <updated>2018-02-24T11:11:47Z</updated>
+    <updated>2019-08-30T11:41:12Z</updated>
     <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/Avenue%20Des%20Geants%20-%20Marc%20Dugain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="631 KB" />
+    <link href="../../Marc%20Dugain/Avenue%20Des%20Geants%20%2823%29/Avenue%20Des%20Geants%20-%20Marc%20Dugain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="785 KB" />
     <author>
       <name>Marc Dugain</name>
       <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -124,9 +130,10 @@
   <entry>
     <title>L'appel de Cthulhu</title>
     <id>calibre:book:127</id>
-    <updated>2019-05-02T05:12:14Z</updated>
+    <updated>2019-08-30T11:32:49Z</updated>
     <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/L%27appel%20de%20Cthulhu%20-%20H.P%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="252 KB" />
+    <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/L%27appel%20de%20Cthulhu%20-%20H.P%20Lovecraft.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="298 KB" />
     <author>
       <name>H.P Lovecraft</name>
       <uri>../authors_0/authors_43_Page_1.xml</uri>

@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./allbooks_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Livres d�butant par I" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tous les livres" />
   <entry>
     <title>Ils Sont Votre épouvante Et Vous êtes Leur Crainte: Roman Noir</title>
     <id>calibre:book:133</id>
-    <updated>2019-05-26T02:28:20Z</updated>
+    <updated>2019-08-03T07:10:17Z</updated>
     <link href="../../Thierry%20Jonquet/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20Crainte_%20Roman%20Noir%20%28133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20Crainte_%20Roman%20Noir%20%28133%29/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="359 KB" />
+    <link href="../../Thierry%20Jonquet/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20Crainte_%20Roman%20Noir%20%28133%29/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="515 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -32,9 +33,10 @@
   <entry>
     <title>Interventions 2</title>
     <id>calibre:book:123</id>
-    <updated>2019-03-28T05:19:08Z</updated>
+    <updated>2019-08-30T11:33:34Z</updated>
     <link href="../../Michel%20Houellebecq/interventions%202%20%28123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Michel%20Houellebecq/interventions%202%20%28123%29/interventions%202%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="202 KB" />
+    <link href="../../Michel%20Houellebecq/interventions%202%20%28123%29/interventions%202%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="482 KB" />
     <author>
       <name>Michel Houellebecq</name>
       <uri>../authors_0/authors_38_Page_1.xml</uri>
@@ -49,9 +51,10 @@
   <entry>
     <title>Une invasion sans précédent</title>
     <id>calibre:book:95</id>
-    <updated>2018-11-15T06:29:28Z</updated>
+    <updated>2019-08-30T11:34:25Z</updated>
     <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/Une%20invasion%20sans%20precedent%20-%20Jack%20London.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="35 KB" />
+    <link href="../../Jack%20London/Une%20invasion%20sans%20precedent%20%2895%29/Une%20invasion%20sans%20precedent%20-%20Jack%20London.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="62 KB" />
     <author>
       <name>Jack London</name>
       <uri>../authors_0/authors_20_Page_1.xml</uri>

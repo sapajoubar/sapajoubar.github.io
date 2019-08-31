@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_45_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Léo Ferré" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>Testament Phonographe</title>
     <id>calibre:book:130</id>
-    <updated>2019-05-26T02:26:55Z</updated>
+    <updated>2019-08-30T11:33:45Z</updated>
     <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="9 MB" />
+    <link href="../../Leo%20Ferre/Testament%20Phonographe%20%28130%29/Testament%20Phonographe%20-%20Leo%20Ferre.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="10 MB" />
     <author>
       <name>Léo Ferré</name>
       <uri>../authors_0/authors_45_Page_1.xml</uri>

@@ -2,15 +2,16 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Sexe et mensonges</title>
   <id>urn:book:b4d0280c-b800-48e3-9f2a-4da36f6e0e2f</id>
-  <updated>2018-02-24T11:11:47Z</updated>
+  <updated>2019-08-30T11:40:21Z</updated>
   <link href="./book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sexe et mensonges" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/Sexe%20et%20mensonges%20-%20Leila%20Slimani.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="550 KB" />
+  <link href="../../Leila%20Slimani/Sexe%20et%20mensonges%20%2816%29/Sexe%20et%20mensonges%20-%20Leila%20Slimani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="445 KB" />
   <author>
     <name>Leïla Slimani</name>
     <uri>../authors_0/authors_12_Page_1.xml</uri>
@@ -31,11 +32,11 @@
   </content>
   <link href="../authors_0/authors_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Leïla Slimani" />
   <link href="http://www.goodreads.com/book/title/Sexe%20et%20mensonges" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Sexe%20et%20mensonges" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Sexe%20et%20mensonges" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Sexe%20et%20mensonges%20Le%C3%AFla%20Slimani" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Sexe%20et%20mensonges&amp;field-author=Le%C3%AFla%20Slimani" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Le%C3%AFla%20Slimani" type="text/html" rel="related" title="Leïla Slimani sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Le%C3%AFla%20Slimani" type="text/html" rel="related" title="Leïla Slimani sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Le%C3%AFla%20Slimani" type="text/html" rel="related" title="Leïla Slimani sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/SlimaniLe%C3%AFla" type="text/html" rel="related" title="Leïla Slimani sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Le%C3%AFla%20Slimani" type="text/html" rel="related" title="Leïla Slimani sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Le%C3%AFla%20Slimani" type="text/html" rel="related" title="Leïla Slimani sur ISFDB" target="_blank" />

@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_44_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Thierry Jonquet" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>Ad vitam eternam</title>
     <id>calibre:book:131</id>
-    <updated>2019-05-26T02:27:34Z</updated>
+    <updated>2019-08-03T07:09:43Z</updated>
     <link href="../../Thierry%20Jonquet/Ad%20vitam%20eternam%20%28131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Ad%20vitam%20eternam%20%28131%29/Ad%20vitam%20eternam%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="322 KB" />
+    <link href="../../Thierry%20Jonquet/Ad%20vitam%20eternam%20%28131%29/Ad%20vitam%20eternam%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="485 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -32,9 +33,10 @@
   <entry>
     <title>Du Passé Faisons Table Rase</title>
     <id>calibre:book:132</id>
-    <updated>2019-05-26T02:27:50Z</updated>
+    <updated>2019-08-03T07:10:15Z</updated>
     <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/Du%20Passe%20Faisons%20Table%20Rase%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="196 KB" />
+    <link href="../../Thierry%20Jonquet/Du%20Passe%20Faisons%20Table%20Rase%20%28132%29/Du%20Passe%20Faisons%20Table%20Rase%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="315 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -49,9 +51,10 @@
   <entry>
     <title>Ils Sont Votre épouvante Et Vous êtes Leur Crainte: Roman Noir</title>
     <id>calibre:book:133</id>
-    <updated>2019-05-26T02:28:20Z</updated>
+    <updated>2019-08-03T07:10:17Z</updated>
     <link href="../../Thierry%20Jonquet/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20Crainte_%20Roman%20Noir%20%28133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20Crainte_%20Roman%20Noir%20%28133%29/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="359 KB" />
+    <link href="../../Thierry%20Jonquet/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20Crainte_%20Roman%20Noir%20%28133%29/Ils%20Sont%20Votre%20epouvante%20Et%20Vous%20etes%20Leur%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="515 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -66,9 +69,10 @@
   <entry>
     <title>La Bête et La Belle</title>
     <id>calibre:book:128</id>
-    <updated>2019-05-14T00:23:28Z</updated>
+    <updated>2019-08-03T07:09:34Z</updated>
     <link href="../../Thierry%20Jonquet/La%20Bete%20et%20La%20Belle%20%28128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/La%20Bete%20et%20La%20Belle%20%28128%29/La%20Bete%20et%20La%20Belle%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="138 KB" />
+    <link href="../../Thierry%20Jonquet/La%20Bete%20et%20La%20Belle%20%28128%29/La%20Bete%20et%20La%20Belle%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="219 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -82,9 +86,10 @@
   <entry>
     <title>La Vigie Et Autres Nouvelles</title>
     <id>calibre:book:134</id>
-    <updated>2019-05-26T02:28:57Z</updated>
+    <updated>2019-08-03T07:10:08Z</updated>
     <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/La%20Vigie%20Et%20Autres%20Nouvelles%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="187 KB" />
+    <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/La%20Vigie%20Et%20Autres%20Nouvelles%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="285 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -98,9 +103,10 @@
   <entry>
     <title>Le Bal Des Débris</title>
     <id>calibre:book:135</id>
-    <updated>2019-05-26T02:29:13Z</updated>
+    <updated>2019-08-03T07:10:08Z</updated>
     <link href="../../Thierry%20Jonquet/Le%20Bal%20Des%20Debris%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Le%20Bal%20Des%20Debris%20%28135%29/Le%20Bal%20Des%20Debris%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="159 KB" />
+    <link href="../../Thierry%20Jonquet/Le%20Bal%20Des%20Debris%20%28135%29/Le%20Bal%20Des%20Debris%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="252 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -115,9 +121,10 @@
   <entry>
     <title>Le Manoir Des Immortelles</title>
     <id>calibre:book:136</id>
-    <updated>2019-05-26T02:29:27Z</updated>
+    <updated>2019-08-03T07:10:03Z</updated>
     <link href="../../Thierry%20Jonquet/Le%20Manoir%20Des%20Immortelles%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Le%20Manoir%20Des%20Immortelles%20%28136%29/Le%20Manoir%20Des%20Immortelles%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="123 KB" />
+    <link href="../../Thierry%20Jonquet/Le%20Manoir%20Des%20Immortelles%20%28136%29/Le%20Manoir%20Des%20Immortelles%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="185 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -131,9 +138,10 @@
   <entry>
     <title>Le secret du rabbin</title>
     <id>calibre:book:137</id>
-    <updated>2019-05-26T02:29:46Z</updated>
+    <updated>2019-08-03T07:10:00Z</updated>
     <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/Le%20secret%20du%20rabbin%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="205 KB" />
+    <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/Le%20secret%20du%20rabbin%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="312 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -148,9 +156,10 @@
   <entry>
     <title>Les Orpailleurs</title>
     <id>calibre:book:138</id>
-    <updated>2019-05-26T02:30:05Z</updated>
+    <updated>2019-08-03T07:10:01Z</updated>
     <link href="../../Thierry%20Jonquet/Les%20Orpailleurs%20%28138%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Les%20Orpailleurs%20%28138%29/Les%20Orpailleurs%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="268 KB" />
+    <link href="../../Thierry%20Jonquet/Les%20Orpailleurs%20%28138%29/Les%20Orpailleurs%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="477 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -165,9 +174,10 @@
   <entry>
     <title>Moloch</title>
     <id>calibre:book:129</id>
-    <updated>2019-05-17T05:07:09Z</updated>
+    <updated>2019-08-03T07:09:46Z</updated>
     <link href="../../Thierry%20Jonquet/Moloch%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Moloch%20%28129%29/Moloch%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="747 KB" />
+    <link href="../../Thierry%20Jonquet/Moloch%20%28129%29/Moloch%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="936 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -184,9 +194,10 @@
   <entry>
     <title>Mon Vieux</title>
     <id>calibre:book:139</id>
-    <updated>2019-05-26T02:30:20Z</updated>
+    <updated>2019-08-03T07:09:56Z</updated>
     <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/Mon%20Vieux%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="323 KB" />
+    <link href="../../Thierry%20Jonquet/Mon%20Vieux%20%28139%29/Mon%20Vieux%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="484 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -201,9 +212,10 @@
   <entry>
     <title>Mygale</title>
     <id>calibre:book:140</id>
-    <updated>2019-05-26T02:30:35Z</updated>
+    <updated>2019-08-03T07:09:49Z</updated>
     <link href="../../Thierry%20Jonquet/Mygale%20%28140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Mygale%20%28140%29/Mygale%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="126 KB" />
+    <link href="../../Thierry%20Jonquet/Mygale%20%28140%29/Mygale%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="194 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>
@@ -217,9 +229,10 @@
   <entry>
     <title>Vampires</title>
     <id>calibre:book:141</id>
-    <updated>2019-05-26T02:30:45Z</updated>
+    <updated>2019-08-03T07:09:41Z</updated>
     <link href="../../Thierry%20Jonquet/Vampires%20%28141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Vampires%20%28141%29/Vampires%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="153 KB" />
+    <link href="../../Thierry%20Jonquet/Vampires%20%28141%29/Vampires%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="248 KB" />
     <author>
       <name>Thierry Jonquet</name>
       <uri>../authors_0/authors_44_Page_1.xml</uri>

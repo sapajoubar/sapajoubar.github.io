@@ -2,15 +2,16 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Mangez-le si vous voulez</title>
   <id>urn:book:0530d3ec-8571-443b-8006-d7a03c14efe1</id>
-  <updated>2018-04-17T06:01:26Z</updated>
+  <updated>2019-08-30T11:38:32Z</updated>
   <link href="./book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Mangez-le si vous voulez" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/Mangez-le%20si%20vous%20voulez%20-%20Teule%2CJean.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="290 KB" />
+  <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/Mangez-le%20si%20vous%20voulez%20-%20Teule%2CJean.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="351 KB" />
   <author>
     <name>Teulé,Jean</name>
     <uri>../authors_0/authors_28_Page_1.xml</uri>
@@ -69,11 +70,11 @@
   </content>
   <link href="../authors_0/authors_28_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Teulé,Jean" />
   <link href="http://www.goodreads.com/book/title/Mangez-le%20si%20vous%20voulez" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Mangez-le%20si%20vous%20voulez" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Mangez-le%20si%20vous%20voulez" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/title/Mangez-le%20si%20vous%20voulez%20Teul%C3%A9%2CJean" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Mangez-le%20si%20vous%20voulez&amp;field-author=Teul%C3%A9%2CJean" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
   <link href="http://www.goodreads.com/book/author/Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur Goodreads" target="_blank" />
-  <link href="http://en.wikipedia.org/wiki/Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur Wikipedia" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur Wikipedia" target="_blank" />
   <link href="http://www.librarything.com/author/Teul%C3%A9Jean" type="text/html" rel="related" title="Teulé,Jean sur LibraryThing" target="_blank" />
   <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur Amazon" target="_blank" />
   <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Teul%C3%A9%2CJean" type="text/html" rel="related" title="Teulé,Jean sur ISFDB" target="_blank" />

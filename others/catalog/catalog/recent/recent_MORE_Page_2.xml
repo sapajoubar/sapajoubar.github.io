@@ -9,17 +9,18 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./recent_MORE_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Plus anciens encore" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ajouts r�cents" />
   <link href="./recent_MORE_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Plus anciens encore" />
   <link href="../recent/recent_MORE_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="page suivante (3 sur 4)" />
   <entry>
     <title>Deus Irae [5 juin 2018]</title>
     <id>calibre:book:65</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:48Z</updated>
     <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/Deus%20Irae%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="273 KB" />
+    <link href="../../Philip%20K.%20Dick/Deus%20Irae%20%2865%29/Deus%20Irae%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="407 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -39,9 +40,10 @@
   <entry>
     <title>Le Guerisseur De Cathedrales [5 juin 2018]</title>
     <id>calibre:book:63</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:39Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20Guerisseur%20De%20Cathedrales%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20Guerisseur%20De%20Cathedrales%20%2863%29/Le%20Guerisseur%20De%20Cathedrales%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="244 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Guerisseur%20De%20Cathedrales%20%2863%29/Le%20Guerisseur%20De%20Cathedrales%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="363 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -57,9 +59,10 @@
   <entry>
     <title>La brèche dans l'espace [5 juin 2018]</title>
     <id>calibre:book:66</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:54Z</updated>
     <link href="../../Philip%20K.%20Dick/La%20breche%20dans%20l%27espace%20%2866%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/La%20breche%20dans%20l%27espace%20%2866%29/La%20breche%20dans%20l%27espace%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="251 KB" />
+    <link href="../../Philip%20K.%20Dick/La%20breche%20dans%20l%27espace%20%2866%29/La%20breche%20dans%20l%27espace%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="374 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -75,9 +78,10 @@
   <entry>
     <title>Les chaînes de l'avenir [5 juin 2018]</title>
     <id>calibre:book:71</id>
-    <updated>2018-06-05T05:23:10Z</updated>
+    <updated>2019-08-30T11:37:18Z</updated>
     <link href="../../Philip%20K.%20Dick/Les%20chaines%20de%20l%27avenir%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Les%20chaines%20de%20l%27avenir%20%2871%29/Les%20chaines%20de%20l%27avenir%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="298 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20chaines%20de%20l%27avenir%20%2871%29/Les%20chaines%20de%20l%27avenir%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="414 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -93,9 +97,10 @@
   <entry>
     <title>Les joueurs de Titan [5 juin 2018]</title>
     <id>calibre:book:70</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:37:07Z</updated>
     <link href="../../Philip%20K.%20Dick/Les%20joueurs%20de%20Titan%20%2870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Les%20joueurs%20de%20Titan%20%2870%29/Les%20joueurs%20de%20Titan%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="246 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20joueurs%20de%20Titan%20%2870%29/Les%20joueurs%20de%20Titan%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="378 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -111,9 +116,10 @@
   <entry>
     <title>Les Machines à Illusions [5 juin 2018]</title>
     <id>calibre:book:67</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:57Z</updated>
     <link href="../../Philip%20K.%20Dick/Les%20Machines%20a%20Illusions%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Les%20Machines%20a%20Illusions%20%2867%29/Les%20Machines%20a%20Illusions%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="219 KB" />
+    <link href="../../Philip%20K.%20Dick/Les%20Machines%20a%20Illusions%20%2867%29/Les%20Machines%20a%20Illusions%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="327 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -133,9 +139,10 @@
   <entry>
     <title>L'oeil dans le ciel [5 juin 2018]</title>
     <id>calibre:book:64</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:58Z</updated>
     <link href="../../Philip%20K.%20Dick/L%27oeil%20dans%20le%20ciel%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/L%27oeil%20dans%20le%20ciel%20%2864%29/L%27oeil%20dans%20le%20ciel%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="314 KB" />
+    <link href="../../Philip%20K.%20Dick/L%27oeil%20dans%20le%20ciel%20%2864%29/L%27oeil%20dans%20le%20ciel%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="419 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -150,9 +157,10 @@
   <entry>
     <title>Radio Libre Albemuth [5 juin 2018]</title>
     <id>calibre:book:61</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:36:36Z</updated>
     <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/Radio%20Libre%20Albemuth%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="305 KB" />
+    <link href="../../Philip%20K.%20Dick/Radio%20Libre%20Albemuth%20%2861%29/Radio%20Libre%20Albemuth%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="453 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -169,9 +177,10 @@
   <entry>
     <title>Hommes, androïdes et machines [5 juin 2018]</title>
     <id>calibre:book:60</id>
-    <updated>2018-06-05T05:23:09Z</updated>
+    <updated>2019-08-30T11:37:22Z</updated>
     <link href="../../Philip%20K.%20Dick/Hommes%2C%20androides%20et%20machines%20%2860%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Hommes%2C%20androides%20et%20machines%20%2860%29/Hommes%2C%20androides%20et%20machines%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="107 KB" />
+    <link href="../../Philip%20K.%20Dick/Hommes%2C%20androides%20et%20machines%20%2860%29/Hommes%2C%20androides%20et%20machines%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="153 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -185,9 +194,10 @@
   <entry>
     <title>Le zappeur de mondes [5 juin 2018]</title>
     <id>calibre:book:59</id>
-    <updated>2018-06-05T05:23:08Z</updated>
+    <updated>2019-08-30T11:37:27Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20zappeur%20de%20mondes%20%2859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20zappeur%20de%20mondes%20%2859%29/Le%20zappeur%20de%20mondes%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="265 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20zappeur%20de%20mondes%20%2859%29/Le%20zappeur%20de%20mondes%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="379 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -203,9 +213,10 @@
   <entry>
     <title>O Nation Sans Pudeur [5 juin 2018]</title>
     <id>calibre:book:58</id>
-    <updated>2018-06-05T05:23:08Z</updated>
+    <updated>2019-08-30T11:37:33Z</updated>
     <link href="../../Philip%20K.%20Dick/O%20Nation%20Sans%20Pudeur%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/O%20Nation%20Sans%20Pudeur%20%2858%29/O%20Nation%20Sans%20Pudeur%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="388 KB" />
+    <link href="../../Philip%20K.%20Dick/O%20Nation%20Sans%20Pudeur%20%2858%29/O%20Nation%20Sans%20Pudeur%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="625 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -221,9 +232,10 @@
   <entry>
     <title>La vérité avant-dernière [5 juin 2018]</title>
     <id>calibre:book:57</id>
-    <updated>2018-06-05T05:22:27Z</updated>
+    <updated>2019-08-30T11:37:34Z</updated>
     <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/La%20verite%20avant-derniere%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="347 KB" />
+    <link href="../../Philip%20K.%20Dick/La%20verite%20avant-derniere%20%2857%29/La%20verite%20avant-derniere%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="497 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -239,9 +251,10 @@
   <entry>
     <title>Le Maître du Haut Château [5 juin 2018]</title>
     <id>calibre:book:56</id>
-    <updated>2018-06-05T04:35:49Z</updated>
+    <updated>2019-08-30T11:37:44Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/Le%20Maitre%20du%20Haut%20Chateau%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="386 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Maitre%20du%20Haut%20Chateau%20%2856%29/Le%20Maitre%20du%20Haut%20Chateau%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="587 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -257,9 +270,10 @@
   <entry>
     <title>Dr Bloodmoney [5 juin 2018]</title>
     <id>calibre:book:55</id>
-    <updated>2018-06-05T04:28:31Z</updated>
+    <updated>2019-08-30T11:37:46Z</updated>
     <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/Dr%20Bloodmoney%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="395 KB" />
+    <link href="../../Philip%20K.%20Dick/Dr%20Bloodmoney%20%2855%29/Dr%20Bloodmoney%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="573 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -275,9 +289,10 @@
   <entry>
     <title>-La bulle cassée [5 juin 2018]</title>
     <id>calibre:book:54</id>
-    <updated>2018-06-05T04:27:19Z</updated>
+    <updated>2019-08-30T11:37:51Z</updated>
     <link href="../../Philip%20K.%20Dick/-La%20bulle%20cassee%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/-La%20bulle%20cassee%20%2854%29/-La%20bulle%20cassee%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="352 KB" />
+    <link href="../../Philip%20K.%20Dick/-La%20bulle%20cassee%20%2854%29/-La%20bulle%20cassee%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="543 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -292,9 +307,10 @@
   <entry>
     <title>La séparation [11 mai 2018]</title>
     <id>calibre:book:53</id>
-    <updated>2018-05-11T03:53:38Z</updated>
+    <updated>2019-08-30T11:38:07Z</updated>
     <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/La%20separation%20-%20Priest%2CChristopher.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="496 KB" />
+    <link href="../../Priest%2CChristopher/La%20separation%20%2853%29/La%20separation%20-%20Priest%2CChristopher.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="742 KB" />
     <author>
       <name>Priest,Christopher</name>
       <uri>../authors_0/authors_35_Page_1.xml</uri>
@@ -310,9 +326,10 @@
   <entry>
     <title>Presque rien sur presque tout [11 mai 2018]</title>
     <id>calibre:book:52</id>
-    <updated>2018-05-11T03:52:16Z</updated>
+    <updated>2019-08-30T11:38:13Z</updated>
     <link href="../../Jean%20d%27Ormesson/Presque%20rien%20sur%20presque%20tout%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Jean%20d%27Ormesson/Presque%20rien%20sur%20presque%20tout%20%2852%29/Presque%20rien%20sur%20presque%20tout%20-%20Jean%20d%27Ormesson.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="478 KB" />
+    <link href="../../Jean%20d%27Ormesson/Presque%20rien%20sur%20presque%20tout%20%2852%29/Presque%20rien%20sur%20presque%20tout%20-%20Jean%20d%27Ormesson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="496 KB" />
     <author>
       <name>Jean d'Ormesson</name>
       <uri>../authors_0/authors_34_Page_1.xml</uri>
@@ -329,9 +346,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>L'Affaire Charles Dexter Ward [11 mai 2018]</title>
     <id>calibre:book:51</id>
-    <updated>2018-05-11T03:50:33Z</updated>
+    <updated>2019-08-30T11:37:58Z</updated>
     <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/L%27Affaire%20Charles%20Dexter%20Ward%20-%20Lovecraft%2C%20Howard%20Phillips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="377 KB" />
+    <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/L%27Affaire%20Charles%20Dexter%20Ward%20-%20Lovecraft%2C%20Howard%20Phillips.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="250 KB" />
     <author>
       <name>Lovecraft, Howard Phillips</name>
       <uri>../authors_0/authors_33_Page_1.xml</uri>
@@ -350,9 +368,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>Le Club des Veufs Noirs [11 mai 2018]</title>
     <id>calibre:book:50</id>
-    <updated>2018-05-11T03:46:08Z</updated>
+    <updated>2019-08-30T11:38:13Z</updated>
     <link href="../../Asimov%2CIsaac/Le%20Club%20des%20Veufs%20Noirs%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Asimov%2CIsaac/Le%20Club%20des%20Veufs%20Noirs%20%2850%29/Le%20Club%20des%20Veufs%20Noirs%20-%20Asimov%2CIsaac.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="300 KB" />
+    <link href="../../Asimov%2CIsaac/Le%20Club%20des%20Veufs%20Noirs%20%2850%29/Le%20Club%20des%20Veufs%20Noirs%20-%20Asimov%2CIsaac.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="488 KB" />
     <author>
       <name>Asimov,Isaac</name>
       <uri>../authors_0/authors_32_Page_1.xml</uri>
@@ -369,9 +388,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>Le bec en l'air [11 mai 2018]</title>
     <id>calibre:book:49</id>
-    <updated>2018-05-11T03:44:43Z</updated>
+    <updated>2019-08-30T11:38:23Z</updated>
     <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/Le%20bec%20en%20l%27air%20-%20Alphonse%20Allais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="167 KB" />
+    <link href="../../Alphonse%20Allais/Le%20bec%20en%20l%27air%20%2849%29/Le%20bec%20en%20l%27air%20-%20Alphonse%20Allais.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="252 KB" />
     <author>
       <name>Alphonse Allais</name>
       <uri>../authors_0/authors_31_Page_1.xml</uri>
@@ -384,9 +404,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>Vive la vie! [11 mai 2018]</title>
     <id>calibre:book:48</id>
-    <updated>2018-05-11T03:44:09Z</updated>
+    <updated>2019-08-30T11:38:23Z</updated>
     <link href="../../Alphonse%20Allais/Vive%20la%20vie%21%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Alphonse%20Allais/Vive%20la%20vie%21%20%2848%29/Vive%20la%20vie%21%20-%20Alphonse%20Allais.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="139 KB" />
+    <link href="../../Alphonse%20Allais/Vive%20la%20vie%21%20%2848%29/Vive%20la%20vie%21%20-%20Alphonse%20Allais.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="229 KB" />
     <author>
       <name>Alphonse Allais</name>
       <uri>../authors_0/authors_31_Page_1.xml</uri>
@@ -397,9 +418,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>Loterie solaire [5 mai 2018]</title>
     <id>calibre:book:47</id>
-    <updated>2018-05-05T09:55:07Z</updated>
+    <updated>2019-08-30T11:38:25Z</updated>
     <link href="../../Philip%20K.%20Dick/Loterie%20solaire%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Loterie%20solaire%20%2847%29/Loterie%20solaire%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="207 KB" />
+    <link href="../../Philip%20K.%20Dick/Loterie%20solaire%20%2847%29/Loterie%20solaire%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="316 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -415,9 +437,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>Le Roi Des Elfes [29 avril 2018]</title>
     <id>calibre:book:46</id>
-    <updated>2018-04-29T05:31:25Z</updated>
+    <updated>2019-08-30T11:38:34Z</updated>
     <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/Le%20Roi%20Des%20Elfes%20-%20Philip%20K.%20Dick.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="306 KB" />
+    <link href="../../Philip%20K.%20Dick/Le%20Roi%20Des%20Elfes%20%2846%29/Le%20Roi%20Des%20Elfes%20-%20Philip%20K.%20Dick.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="462 KB" />
     <author>
       <name>Philip K. Dick</name>
       <uri>../authors_0/authors_29_Page_1.xml</uri>
@@ -431,9 +454,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>La malédiction d'Edgar [29 avril 2018]</title>
     <id>calibre:book:45</id>
-    <updated>2018-04-29T05:14:39Z</updated>
+    <updated>2019-08-30T11:38:46Z</updated>
     <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/La%20malediction%20d%27Edgar%20-%20Marc%20Dugain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="634 KB" />
+    <link href="../../Marc%20Dugain/La%20malediction%20d%27Edgar%20%2845%29/La%20malediction%20d%27Edgar%20-%20Marc%20Dugain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="788 KB" />
     <author>
       <name>Marc Dugain</name>
       <uri>../authors_0/authors_17_Page_1.xml</uri>
@@ -448,9 +472,10 @@ Que seraient les hommes sans le tout ? Rien du tout. Ils n'existeraient même pa
   <entry>
     <title>Mangez-le si vous voulez [17 avril 2018]</title>
     <id>calibre:book:44</id>
-    <updated>2018-04-17T06:01:26Z</updated>
+    <updated>2019-08-30T11:38:32Z</updated>
     <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/Mangez-le%20si%20vous%20voulez%20-%20Teule%2CJean.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="290 KB" />
+    <link href="../../Teule%2CJean/Mangez-le%20si%20vous%20voulez%20%2844%29/Mangez-le%20si%20vous%20voulez%20-%20Teule%2CJean.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="351 KB" />
     <author>
       <name>Teulé,Jean</name>
       <uri>../authors_0/authors_28_Page_1.xml</uri>

@@ -9,15 +9,16 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./authors_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Lovecraft, Howard Phillips" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
     <title>L'Affaire Charles Dexter Ward</title>
     <id>calibre:book:51</id>
-    <updated>2018-05-11T03:50:33Z</updated>
+    <updated>2019-08-30T11:37:58Z</updated>
     <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/L%27Affaire%20Charles%20Dexter%20Ward%20-%20Lovecraft%2C%20Howard%20Phillips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="377 KB" />
+    <link href="../../Lovecraft%2C%20Howard%20Phillips/L%27Affaire%20Charles%20Dexter%20Ward%20%2851%29/L%27Affaire%20Charles%20Dexter%20Ward%20-%20Lovecraft%2C%20Howard%20Phillips.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="250 KB" />
     <author>
       <name>Lovecraft, Howard Phillips</name>
       <uri>../authors_0/authors_33_Page_1.xml</uri>

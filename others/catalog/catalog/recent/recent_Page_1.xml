@@ -9,20 +9,12 @@
   </author>
   <updated>1973-01-26T08:00:00Z</updated>
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ajouts r�cents" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Biblioth�que g�r�e par Calibre" />
-  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Biblioth�que g�r�e par Calibre" />
-  <entry>
-    <title>Deux mois pr�c�dents</title>
-    <id>Calibre2opds:recent:TWOMONTHS</id>
-    <content type="text">2 livres</content>
-    <link href="../recent/recent_TWOMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
-    <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
-    <updated>1973-01-26T08:00:00Z</updated>
-  </entry>
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <entry>
     <title>Trois mois pr�c�dents</title>
     <id>Calibre2opds:recent:THREEMONTHS</id>
-    <content type="text">17 livres</content>
+    <content type="text">5 livres</content>
     <link href="../recent/recent_THREEMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -30,7 +22,7 @@
   <entry>
     <title>Six mois pr�c�dents</title>
     <id>Calibre2opds:recent:SIXMONTHS</id>
-    <content type="text">10 livres</content>
+    <content type="text">21 livres</content>
     <link href="../recent/recent_SIXMONTHS_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -38,7 +30,7 @@
   <entry>
     <title>L'ann�e pr�c�dente</title>
     <id>Calibre2opds:recent:YEAR</id>
-    <content type="text">9 livres</content>
+    <content type="text">12 livres</content>
     <link href="../recent/recent_YEAR_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
