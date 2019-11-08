@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Itinéraire d'un salaud ordinaire</title>
+  <id>urn:book:56d11936-011b-4532-9dd3-8c6be67051a9</id>
+  <updated>2019-11-05T04:29:54Z</updated>
+  <link href="./book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Itinéraire d'un salaud ordinaire" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../../Didier%20Daeninckx/Itineraire%20d%27un%20salaud%20ordinaire%20%28195%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Didier%20Daeninckx/Itineraire%20d%27un%20salaud%20ordinaire%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Didier%20Daeninckx/Itineraire%20d%27un%20salaud%20ordinaire%20%28195%29/Itineraire%20d%27un%20salaud%20ordinaire%20-%20Didier%20Daeninckx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="302 KB" />
+  <author>
+    <name>Didier Daeninckx</name>
+    <uri>../authors_0/authors_53_Page_1.xml</uri>
+  </author>
+  <published>2006-05-10T10:00:00Z</published>
+  <dcterms:language>fr</dcterms:language>
+  <category term="Non lu" />
+  <category term="Lang:fr" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Pas de note
+    </p>
+    <p>
+      <strong>�tiquettes:</strong>
+      Non lu, Lang:fr
+    </p>
+    <p>
+      <strong>R�sum�:</strong>
+    </p>
+    <p xmlns="" class="description">Clément Duprest, brillant
+    étudiant en droit, intègre la police nationale en
+    1942. Contrairement à certains de ses collègues,
+    Duprest ne " fait pas de politique " : il va se contenter de
+    mettre au service de ses patrons son intelligence et son sens
+    de l'observation. Au sein de la " brigade des propos alarmistes
+    ", il est chargé de repérer et de neutraliser les
+    individus hostiles à Vichy... Ainsi commence la longue
+    carrière d'un fonctionnaire que certains diraient
+    irréprochable. Duprest sera mêlé, au cours de sa
+    vie, à nombre d'événements qui ont marqué
+    la chronique. Didier Daeninckx, à travers les faits et
+    gestes quotidiens d'un salaud tout à fait ordinaire, nous
+    invite à revisiter quarante ans d'histoire française,
+    depuis la rafle du Vel'd'Hiv jusqu'à la candidature de
+    Coluche à l'élection présidentielle de 1981 :
+    Occupation, Libération, décolonisation, affaires
+    politico-mafieuses, mouvements étudiants, grèves
+    ouvrières, répression policière... Comme dans
+    Meurtres pour mémoire, le savoir-faire du romancier
+    s'appuie à la fois sur une analyse très fine des
+    comportements humains et sur une multitude de détails
+    véridiques, qui rendent captivante cette traversée du
+    dernier demi-siècle.</p>
+  </content>
+  <link href="../authors_0/authors_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Livres de Didier Daeninckx" />
+  <link href="http://www.goodreads.com/book/title/Itin%C3%A9raire%20d%27un%20salaud%20ordinaire" type="text/html" rel="related" title="Ce livre sur Goodreads" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Itin%C3%A9raire%20d%27un%20salaud%20ordinaire" type="text/html" rel="related" title="Ce livre sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/title/Itin%C3%A9raire%20d%27un%20salaud%20ordinaire%20Didier%20Daeninckx" type="text/html" rel="related" title="Ce livre sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Itin%C3%A9raire%20d%27un%20salaud%20ordinaire&amp;field-author=Didier%20Daeninckx" type="text/html" rel="related" title="Ce livre sur Amazon" target="_blank" />
+  <link href="http://www.goodreads.com/book/author/Didier%20Daeninckx" type="text/html" rel="related" title="Didier Daeninckx sur Goodreads" target="_blank" />
+  <link href="http://fr.wikipedia.org/wiki/Didier%20Daeninckx" type="text/html" rel="related" title="Didier Daeninckx sur Wikipedia" target="_blank" />
+  <link href="http://www.librarything.com/author/DaeninckxDidier" type="text/html" rel="related" title="Didier Daeninckx sur LibraryThing" target="_blank" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Didier%20Daeninckx" type="text/html" rel="related" title="Didier Daeninckx sur Amazon" target="_blank" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Didier%20Daeninckx" type="text/html" rel="related" title="Didier Daeninckx sur ISFDB" target="_blank" />
+</entry>

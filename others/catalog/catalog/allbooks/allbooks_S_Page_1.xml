@@ -30,6 +30,25 @@
     <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Sigil User Guide</title>
+    <id>calibre:book:182</id>
+    <updated>2019-09-29T11:55:57Z</updated>
+    <link href="../../Dave%20Heiland/Sigil%20User%20Guide%20%28182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dave%20Heiland/Sigil%20User%20Guide%20%28182%29/Sigil%20User%20Guide%20-%20Dave%20Heiland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="9 MB" />
+    <author>
+      <name>Dave Heiland</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>2013-04-13T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Sigil" />
+    <category term="EPUB" />
+    <category term="ebook" />
+    <category term="editor" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Simulacres</title>
     <id>calibre:book:72</id>
     <updated>2019-08-30T11:35:07Z</updated>

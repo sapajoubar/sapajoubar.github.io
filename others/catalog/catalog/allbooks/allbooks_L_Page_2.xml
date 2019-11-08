@@ -125,6 +125,22 @@
     <link href="../book_0/book_70.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Lolita</title>
+    <id>calibre:book:176</id>
+    <updated>2019-11-05T07:06:35Z</updated>
+    <link href="../../Vladimir%20Nabokov/Lolita%20%28176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vladimir%20Nabokov/Lolita%20%28176%29/Lolita%20-%20Vladimir%20Nabokov.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="461 KB" />
+    <author>
+      <name>Vladimir Nabokov</name>
+      <uri>../authors_0/authors_49_Page_1.xml</uri>
+    </author>
+    <published>2012-02-15T05:54:14Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <link href="../book_0/book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Loterie solaire</title>
     <id>calibre:book:47</id>
     <updated>2019-08-30T11:38:25Z</updated>

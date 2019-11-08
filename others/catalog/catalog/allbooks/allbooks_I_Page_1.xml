@@ -49,6 +49,23 @@
     <link href="../book_0/book_123.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Itinéraire d'un salaud ordinaire</title>
+    <id>calibre:book:195</id>
+    <updated>2019-11-05T04:29:54Z</updated>
+    <link href="../../Didier%20Daeninckx/Itineraire%20d%27un%20salaud%20ordinaire%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Didier%20Daeninckx/Itineraire%20d%27un%20salaud%20ordinaire%20%28195%29/Itineraire%20d%27un%20salaud%20ordinaire%20-%20Didier%20Daeninckx.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="302 KB" />
+    <author>
+      <name>Didier Daeninckx</name>
+      <uri>../authors_0/authors_53_Page_1.xml</uri>
+    </author>
+    <published>2006-05-10T10:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Non lu" />
+    <category term="Lang:fr" />
+    <summary>Clément Duprest, brillant étudiant en droit, intègre la police nationale en 1942. Contrairement à certains de ses collègues, Duprest ne " fait pas de politique " : il va se contenter de mettre au service de ses patrons son intelligence et son sens de...</summary>
+    <link href="../book_0/book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Une invasion sans précédent</title>
     <id>calibre:book:95</id>
     <updated>2019-08-30T11:34:25Z</updated>

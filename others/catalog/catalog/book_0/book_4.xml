@@ -7,6 +7,7 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <link href="../authorlist/authorlist_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
   <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
   <link href="../../Agnes%20Martin-Lugand/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20%284%29/J%27ai%20toujours%20cette%20musique%20dans%20la%20tete%20-%20Agnes%20Martin-Lugand.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="566 KB" />

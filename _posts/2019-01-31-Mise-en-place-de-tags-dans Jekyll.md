@@ -4,7 +4,7 @@ title:  "Mise en place de tags et catégories dans Jekyll"
 tags: [astuce, jekyll]
 ---
 
-e me suis demandé qu’elle était la différence entre les termes tags et catégorie dans Jekyll.
+Je me suis demandé qu’elle était la différence entre les termes tags et catégorie dans Jekyll.
 Une catégorie permet de précéder le nom de votre post, dans l’url, par une catégorie.
 Par exemple : http://dodoalive.github.io/DodoAlive-Blog/Jekyll/2015/12/13/Mise-en-place-de-tags-et-categories-dans-Jekyll.html.
 

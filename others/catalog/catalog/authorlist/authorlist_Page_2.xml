@@ -13,10 +13,42 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
   <entry>
+    <title>Lovecraft, Howard Phillips</title>
+    <id>Calibre2opds:authors:33</id>
+    <content type="text">L'Affaire Charles Dexter Ward</content>
+    <link href="../authors_0/authors_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Howard Phillips Lovecraft</title>
+    <id>Calibre2opds:authors:42</id>
+    <content type="text">Les Montagnes Hallucinées</content>
+    <link href="../authors_0/authors_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Agnès Martin-Lugand</title>
+    <id>Calibre2opds:authors:4</id>
+    <content type="text">1 livre</content>
+    <link href="../authors_0/authors_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
     <title>Mocky,Jean-Pierre</title>
     <id>Calibre2opds:authors:27</id>
     <content type="text">1 livre</content>
     <link href="../authors_0/authors_27_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Vladimir Nabokov</title>
+    <id>Calibre2opds:authors:49</id>
+    <content type="text">Lolita</content>
+    <link href="../authors_0/authors_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
   </entry>

@@ -26,7 +26,7 @@
   <entry>
     <title>Auteurs</title>
     <id>Calibre2opds:authorlist</id>
-    <content type="text">Index alphab�tique des 40 auteurs</content>
+    <content type="text">Index alphab�tique des 44 auteurs</content>
     <link href="./authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./authors.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -34,7 +34,7 @@
   <entry>
     <title>Ajouts r�cents</title>
     <id>Calibre2opds:recent</id>
-    <content type="text">131 livres les plus r�cents</content>
+    <content type="text">135 livres les plus r�cents</content>
     <link href="./recent/recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./recent.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -42,7 +42,7 @@
   <entry>
     <title>Tous les livres</title>
     <id>Calibre2opds:allbooks</id>
-    <content type="text">Index alphab�tique des 131 livres</content>
+    <content type="text">Index alphab�tique des 135 livres</content>
     <link href="./allbooks/allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="./allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>

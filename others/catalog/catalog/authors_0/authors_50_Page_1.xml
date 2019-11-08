@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dave Heiland</title>
+  <id>Calibre2opds:authors:50</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./authors_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dave Heiland" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Auteurs" />
+  <entry>
+    <title>Sigil User Guide</title>
+    <id>calibre:book:182</id>
+    <updated>2019-09-29T11:55:57Z</updated>
+    <link href="../../Dave%20Heiland/Sigil%20User%20Guide%20%28182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dave%20Heiland/Sigil%20User%20Guide%20%28182%29/Sigil%20User%20Guide%20-%20Dave%20Heiland.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="9 MB" />
+    <author>
+      <name>Dave Heiland</name>
+      <uri>../authors_0/authors_50_Page_1.xml</uri>
+    </author>
+    <published>2013-04-13T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <category term="Sigil" />
+    <category term="EPUB" />
+    <category term="ebook" />
+    <category term="editor" />
+    <category term="Lang:en" />
+    <link href="../book_0/book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

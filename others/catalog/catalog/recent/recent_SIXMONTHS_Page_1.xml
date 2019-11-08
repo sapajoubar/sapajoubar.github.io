@@ -13,9 +13,104 @@
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />
   <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Ajouts r�cents" />
   <entry>
+    <title>FNA 1614 - Un ange s'est pendu [11 juin 2019]</title>
+    <id>calibre:book:147</id>
+    <updated>2019-09-29T04:42:16Z</updated>
+    <link href="../../Roland%20C.%20Wagner/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20%28147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roland%20C.%20Wagner/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20%28147%29/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20-%20Roland%20C.%20Wagner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="238 KB" />
+    <link href="../../Roland%20C.%20Wagner/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20%28147%29/FNA%201614%20-%20Un%20ange%20s%27est%20pendu%20-%20Roland%20C.%20Wagner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="353 KB" />
+    <author>
+      <name>Roland C. Wagner</name>
+      <uri>../authors_0/authors_48_Page_1.xml</uri>
+    </author>
+    <published>1988-02-29T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>Fleuve Noir</dcterms:publisher>
+    <category term="SF" />
+    <category term="FNA" />
+    <category term="Lang:fr" />
+    <summary>Un repas bien arrosé au restaurant... Quoi de plus normal ? Mais si trois des convives découvrent qu'ils n'ont pas passé la soirée avec le quatrième et que celui-ci se retrouve dans d'invraisemblables aventures au cours desquelles on cherche à lui vo...</summary>
+    <link href="../book_0/book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>FNA - Poupée aux yeux morts, la trilogie [11 juin 2019]</title>
+    <id>calibre:book:146</id>
+    <updated>2019-09-29T04:43:19Z</updated>
+    <link href="../../Roland%20C.%20Wagner/FNA%20-%20Poupee%20aux%20yeux%20morts%2C%20la%20trilogie%20%28146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roland%20C.%20Wagner/FNA%20-%20Poupee%20aux%20yeux%20morts%2C%20la%20trilogie%20%28146%29/FNA%20-%20Poupee%20aux%20yeux%20morts%2C%20la%20trilogie%20-%20Roland%20C.%20Wagner.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Roland%20C.%20Wagner/FNA%20-%20Poupee%20aux%20yeux%20morts%2C%20la%20trilogie%20%28146%29/FNA%20-%20Poupee%20aux%20yeux%20morts%2C%20la%20trilogie%20-%20Roland%20C.%20Wagner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
+    <author>
+      <name>Roland C. Wagner</name>
+      <uri>../authors_0/authors_48_Page_1.xml</uri>
+    </author>
+    <published>2012-12-15T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="SF" />
+    <category term="ABProd'" />
+    <category term="Lang:fr" />
+    <summary>Le présent volume est tiré des scans des éditions originales de Poupée aux yeux morts chez Fleuve Noir, collection Anticipation (FNA) Vous revenez d'un voyage d'un demi-siècle à une vitesse voisine de celle de la lumière. Pourtant, vous n'êtes plus q...</summary>
+    <link href="../book_0/book_146.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La zone du dehors [4 juin 2019]</title>
+    <id>calibre:book:144</id>
+    <updated>2019-08-30T11:32:32Z</updated>
+    <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/La%20zone%20du%20dehors%20-%20Damasio%2CAlain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="667 KB" />
+    <link href="../../Damasio%2CAlain/La%20zone%20du%20dehors%20%28144%29/La%20zone%20du%20dehors%20-%20Damasio%2CAlain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="991 KB" />
+    <author>
+      <name>Damasio,Alain</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>2084. Orwell est loin désormais. Le totalitarisme a pris les traits bonhommes de la social-démocratie. Souriez, vous êtes gérés ! Le citoyen ne s'opprime plus : il se fabrique. À la pâte à norme, au confort, au consensus. Copie qu'on forme, tout simp...</summary>
+    <link href="../book_0/book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Horde du Contrevent [4 juin 2019]</title>
+    <id>calibre:book:143</id>
+    <updated>2019-08-30T11:32:43Z</updated>
+    <link href="../../Damasio%2CAlain/La%20Horde%20du%20Contrevent%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Damasio%2CAlain/La%20Horde%20du%20Contrevent%20%28143%29/La%20Horde%20du%20Contrevent%20-%20Damasio%2CAlain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Damasio%2CAlain/La%20Horde%20du%20Contrevent%20%28143%29/La%20Horde%20du%20Contrevent%20-%20Damasio%2CAlain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="1 MB" />
+    <author>
+      <name>Damasio,Alain</name>
+      <uri>../authors_0/authors_47_Page_1.xml</uri>
+    </author>
+    <published>2010-12-27T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>La Volte</dcterms:publisher>
+    <category term="SF" />
+    <category term="Lang:en" />
+    <summary>Ils sont les vingt-trois membres de la trente-quatrième Horde. Ils ont été formés depuis l’enfance à accomplir une tâche précise, qui permettra la survie de la Horde. Car la longue ligne droite qui les mène à l’extrême Amont est dangereuse. Aucune de...</summary>
+    <link href="../book_0/book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Les Furtifs [4 juin 2019]</title>
+    <id>calibre:book:142</id>
+    <updated>2019-08-30T11:33:48Z</updated>
+    <link href="../../Damasio%2C%20Alain/Les%20Furtifs%20%28142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Damasio%2C%20Alain/Les%20Furtifs%20%28142%29/Les%20Furtifs%20-%20Damasio%2C%20Alain.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="1 MB" />
+    <link href="../../Damasio%2C%20Alain/Les%20Furtifs%20%28142%29/Les%20Furtifs%20-%20Damasio%2C%20Alain.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="2 MB" />
+    <author>
+      <name>Damasio, Alain</name>
+      <uri>../authors_0/authors_46_Page_1.xml</uri>
+    </author>
+    <published>2019-05-15T00:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:publisher>La Volte (Éditions)</dcterms:publisher>
+    <category term="SF" />
+    <category term="Lang:fr" />
+    <summary>Les Furtifspar Alain DamasioRésuméAVERTISSEMENT DE L’ÉDITEUR : Alain Damasio et l’éditeur ont créé une police exclusive par laquelle des personnages sont désignés dans le texte. Il est donc fortement recommandé d’utiliser la « police de l’éditeur » (...</summary>
+    <link href="../book_0/book_142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Vampires [26 mai 2019]</title>
     <id>calibre:book:141</id>
-    <updated>2019-08-03T07:09:41Z</updated>
+    <updated>2019-11-05T04:41:34Z</updated>
     <link href="../../Thierry%20Jonquet/Vampires%20%28141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Vampires%20%28141%29/Vampires%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="153 KB" />
     <link href="../../Thierry%20Jonquet/Vampires%20%28141%29/Vampires%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="248 KB" />
@@ -86,7 +181,7 @@
   <entry>
     <title>Le secret du rabbin [26 mai 2019]</title>
     <id>calibre:book:137</id>
-    <updated>2019-08-03T07:10:00Z</updated>
+    <updated>2019-09-09T05:40:35Z</updated>
     <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/Le%20secret%20du%20rabbin%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="205 KB" />
     <link href="../../Thierry%20Jonquet/Le%20secret%20du%20rabbin%20%28137%29/Le%20secret%20du%20rabbin%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="312 KB" />
@@ -139,7 +234,7 @@
   <entry>
     <title>La Vigie Et Autres Nouvelles [26 mai 2019]</title>
     <id>calibre:book:134</id>
-    <updated>2019-08-03T07:10:08Z</updated>
+    <updated>2019-09-29T10:29:57Z</updated>
     <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
     <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/La%20Vigie%20Et%20Autres%20Nouvelles%20-%20Thierry%20Jonquet.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="187 KB" />
     <link href="../../Thierry%20Jonquet/La%20Vigie%20Et%20Autres%20Nouvelles%20%28134%29/La%20Vigie%20Et%20Autres%20Nouvelles%20-%20Thierry%20Jonquet.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="285 KB" />
@@ -265,131 +360,5 @@
     <category term="Lang:fr" />
     <summary>Il n'est pas si fréquent que les mots d'un écrivain trouvent un écho si puissant dans le coeur de celui qui les découvre ; un coeur qui bat, saigne et qui s'ouvre à la découverte de ces gosses, en plein Paris, victimes de barbarie ; un coeur qui hurl...</summary>
     <link href="../book_0/book_128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>L'appel de Cthulhu [2 mai 2019]</title>
-    <id>calibre:book:127</id>
-    <updated>2019-08-30T11:32:49Z</updated>
-    <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/L%27appel%20de%20Cthulhu%20-%20H.P%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="252 KB" />
-    <link href="../../H.P%20Lovecraft/L%27appel%20de%20Cthulhu%20%28127%29/L%27appel%20de%20Cthulhu%20-%20H.P%20Lovecraft.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="298 KB" />
-    <author>
-      <name>H.P Lovecraft</name>
-      <uri>../authors_0/authors_43_Page_1.xml</uri>
-    </author>
-    <published>2014-07-14T10:00:00Z</published>
-    <dcterms:language>en</dcterms:language>
-    <category term="General Fiction" />
-    <category term="Lang:en" />
-    <link href="../book_0/book_127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Les Montagnes Hallucinées [2 mai 2019]</title>
-    <id>calibre:book:126</id>
-    <updated>2019-08-30T11:32:56Z</updated>
-    <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/Les%20Montagnes%20Hallucinees%20-%20Howard%20Phillips%20Lovecraft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="431 KB" />
-    <link href="../../Howard%20Phillips%20Lovecraft/Les%20Montagnes%20Hallucinees%20%28126%29/Les%20Montagnes%20Hallucinees%20-%20Howard%20Phillips%20Lovecraft.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="300 KB" />
-    <author>
-      <name>Howard Phillips Lovecraft</name>
-      <uri>../authors_0/authors_42_Page_1.xml</uri>
-    </author>
-    <published>1936-05-14T10:00:00Z</published>
-    <dcterms:language>fr</dcterms:language>
-    <dcterms:publisher>Feedbooks</dcterms:publisher>
-    <category term="Fiction" />
-    <category term="Horreur" />
-    <category term="Lang:fr" />
-    <link href="../book_0/book_126.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>L'abomination de Dunwich [2 mai 2019]</title>
-    <id>calibre:book:125</id>
-    <updated>2019-08-30T11:33:05Z</updated>
-    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/L%27abomination%20de%20Dunwich%20-%20Lovecraft%2C%20Howard%20Philips.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="278 KB" />
-    <link href="../../Lovecraft%2C%20Howard%20Philips/L%27abomination%20de%20Dunwich%20%28125%29/L%27abomination%20de%20Dunwich%20-%20Lovecraft%2C%20Howard%20Philips.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="392 KB" />
-    <author>
-      <name>Lovecraft, Howard Philips</name>
-      <uri>../authors_0/authors_41_Page_1.xml</uri>
-    </author>
-    <published>0101-01-01T00:00:00Z</published>
-    <dcterms:language>fr</dcterms:language>
-    <category term="SF" />
-    <category term="Lang:fr" />
-    <summary>Parce qu'un de leurs ancêtres s'est approprié un secret que les humains ne doivent pas connaître, ou parce qu'il a entr'ouvert une porte sur l'extérieur, certaines familles se transmettent une malédiction de génération en génération.C'est le cas des ...</summary>
-    <link href="../book_0/book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Lovecraft, contre le monde, contre la vie [28 mars 2019]</title>
-    <id>calibre:book:124</id>
-    <updated>2019-08-30T11:33:13Z</updated>
-    <link href="../../Michel%20Houellebecq/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20%28124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michel%20Houellebecq/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20%28124%29/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="101 KB" />
-    <link href="../../Michel%20Houellebecq/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20%28124%29/Lovecraft%2C%20contre%20le%20monde%2C%20contre%20la%20vie%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="151 KB" />
-    <author>
-      <name>Michel Houellebecq</name>
-      <uri>../authors_0/authors_38_Page_1.xml</uri>
-    </author>
-    <published>1991-10-17T10:00:00Z</published>
-    <dcterms:language>fr</dcterms:language>
-    <category term="Non lu" />
-    <category term="Lang:fr" />
-    <summary>Howard Phillips Lovecraft constitue un exemple pour tous ceux qui souhaitent apprendre à rater leur vie, et éventuellement, à réussir leur oeuvre Encore que, sur ce dernier point, le résultat ne soit pas garanti." Auteur de L'appel de Cthulhu, de Dag...</summary>
-    <link href="../book_0/book_124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>Interventions 2 [28 mars 2019]</title>
-    <id>calibre:book:123</id>
-    <updated>2019-08-30T11:33:34Z</updated>
-    <link href="../../Michel%20Houellebecq/interventions%202%20%28123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michel%20Houellebecq/interventions%202%20%28123%29/interventions%202%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="202 KB" />
-    <link href="../../Michel%20Houellebecq/interventions%202%20%28123%29/interventions%202%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="482 KB" />
-    <author>
-      <name>Michel Houellebecq</name>
-      <uri>../authors_0/authors_38_Page_1.xml</uri>
-    </author>
-    <published>2010-11-28T11:00:00Z</published>
-    <dcterms:language>fr</dcterms:language>
-    <category term="Non lu" />
-    <category term="Lang:fr" />
-    <summary>Les textes de ce recueil, lettres, entretiens ou articles, ont été publiés depuis 1992 dans des publications diverses, de la NRF à Paris Match, 20 ans ou Les lnrockuptibles. Ils n'étaient plus disponibles. Il y est question de cinéma, d'architecture,...</summary>
-    <link href="../book_0/book_123.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La Carte Et Le Territoire [28 mars 2019]</title>
-    <id>calibre:book:122</id>
-    <updated>2019-08-30T11:33:48Z</updated>
-    <link href="../../Michel%20Houellebecq/La%20Carte%20Et%20Le%20Territoire%20%28122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michel%20Houellebecq/La%20Carte%20Et%20Le%20Territoire%20%28122%29/La%20Carte%20Et%20Le%20Territoire%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="403 KB" />
-    <link href="../../Michel%20Houellebecq/La%20Carte%20Et%20Le%20Territoire%20%28122%29/La%20Carte%20Et%20Le%20Territoire%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="543 KB" />
-    <author>
-      <name>Michel Houellebecq</name>
-      <uri>../authors_0/authors_38_Page_1.xml</uri>
-    </author>
-    <published>2010-09-02T10:00:00Z</published>
-    <dcterms:language>fr</dcterms:language>
-    <category term="Non lu" />
-    <category term="Lang:fr" />
-    <summary>Si Jed Martin, le personnage principal de ce roman, devait vous en raconter l’histoire, il commencerait peut-être par vous parler d’une panne de chauffe-eau, un certain 15 décembre. Ou de son père, architecte connu et engagé, avec qui il passa seul d...</summary>
-    <link href="../book_0/book_122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
-  </entry>
-  <entry>
-    <title>La Possibilite Dune Ile. Roman [28 mars 2019]</title>
-    <id>calibre:book:121</id>
-    <updated>2019-08-30T11:34:03Z</updated>
-    <link href="../../Michel%20Houellebecq/La%20Possibilite%20Dune%20Ile.%20Roman%20%28121%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
-    <link href="../../Michel%20Houellebecq/La%20Possibilite%20Dune%20Ile.%20Roman%20%28121%29/La%20Possibilite%20Dune%20Ile.%20Roman%20-%20Michel%20Houellebecq.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="383 KB" />
-    <link href="../../Michel%20Houellebecq/La%20Possibilite%20Dune%20Ile.%20Roman%20%28121%29/La%20Possibilite%20Dune%20Ile.%20Roman%20-%20Michel%20Houellebecq.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format AZW3" displaysize="563 KB" />
-    <author>
-      <name>Michel Houellebecq</name>
-      <uri>../authors_0/authors_38_Page_1.xml</uri>
-    </author>
-    <published>2005-08-31T10:00:00Z</published>
-    <dcterms:language>fr</dcterms:language>
-    <category term="Non lu" />
-    <category term="Lang:fr" />
-    <summary>Le pitch ? Quel pitch ?Il est impossible d’en dévoiler un. Le quatrième roman de Michel Houellebecq, par son ampleur, ses ambitions, sa façon bien à lui de déjouer tout pronostic, échappe à cette pratique paresseuse de la critique moderne.Alors qu’en...</summary>
-    <link href="../book_0/book_121.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
 </feed>

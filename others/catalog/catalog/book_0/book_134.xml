@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>La Vigie Et Autres Nouvelles</title>
   <id>urn:book:5c6f7ac5-fdb6-4fb2-9d87-27f729420cc0</id>
-  <updated>2019-08-03T07:10:08Z</updated>
+  <updated>2019-09-29T10:29:57Z</updated>
   <link href="./book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La Vigie Et Autres Nouvelles" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />

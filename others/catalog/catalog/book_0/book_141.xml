@@ -2,7 +2,7 @@
 <entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <title>Vampires</title>
   <id>urn:book:956fb65d-7c60-451a-a66c-1077f815e6b3</id>
-  <updated>2019-08-03T07:09:41Z</updated>
+  <updated>2019-11-05T04:41:34Z</updated>
   <link href="./book_141.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Vampires" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Bibliothèque gérée par Calibre" />
   <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Bibliothèque gérée par Calibre" />

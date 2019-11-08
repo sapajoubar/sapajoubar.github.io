@@ -85,6 +85,24 @@
     <link href="../book_0/book_120.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
   </entry>
   <entry>
+    <title>Pour de Rire et pour de Vrai</title>
+    <id>calibre:book:198</id>
+    <updated>2019-11-08T05:06:44Z</updated>
+    <link href="../../Jacky%20Loisel/Pour%20de%20Rire%20et%20pour%20de%20Vrai%20%28198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jacky%20Loisel/Pour%20de%20Rire%20et%20pour%20de%20Vrai%20%28198%29/Pour%20de%20Rire%20et%20pour%20de%20Vrai%20-%20Jacky%20Loisel.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition" title="T�l�charger ce livre au format EPUB" displaysize="189 KB" />
+    <author>
+      <name>Jacky Loisel</name>
+      <uri>../authors_0/authors_55_Page_1.xml</uri>
+    </author>
+    <published>2019-11-04T11:00:00Z</published>
+    <dcterms:language>fr</dcterms:language>
+    <category term="Autobiographie" />
+    <category term="Aventure" />
+    <category term="Lang:fr" />
+    <summary>Cest ce que l'esprit quelque peu dérangé de son auteur a tenté d'exprimer avec la complicité de quidams quelquefois Vrais pour de rire et Faux pour de vrai ...</summary>
+    <link href="../book_0/book_198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
     <title>Presque rien sur presque tout</title>
     <id>calibre:book:52</id>
     <updated>2019-08-30T11:38:13Z</updated>

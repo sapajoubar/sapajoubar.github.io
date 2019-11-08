@@ -78,7 +78,7 @@
   <entry>
     <title>Livres d�butant par I</title>
     <id>Calibre2opds:allbooks:I</id>
-    <content type="text">3 livres</content>
+    <content type="text">4 livres</content>
     <link href="../allbooks/allbooks_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -102,7 +102,7 @@
   <entry>
     <title>Livres d�butant par L</title>
     <id>Calibre2opds:allbooks:L</id>
-    <content type="text">35 livres</content>
+    <content type="text">36 livres</content>
     <link href="../allbooks/allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -126,7 +126,7 @@
   <entry>
     <title>Livres d�butant par P</title>
     <id>Calibre2opds:allbooks:P</id>
-    <content type="text">7 livres</content>
+    <content type="text">8 livres</content>
     <link href="../allbooks/allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
@@ -142,7 +142,7 @@
   <entry>
     <title>Livres d�butant par S</title>
     <id>Calibre2opds:allbooks:S</id>
-    <content type="text">7 livres</content>
+    <content type="text">8 livres</content>
     <link href="../allbooks/allbooks_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
     <link href="../allbooks.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
     <updated>1973-01-26T08:00:00Z</updated>
