@@ -25,7 +25,7 @@ C'est pourquoi j'ai fait l'acquisition d'une [HiFiBerry Digi+](https://www.hifib
 
 ## installation du système
 
-Le système d'exploitation est une [Raspian light](https://www.hifiberry.com/build/download/). C'est une version allégée de Raspian sans interface graphique qui inclut uniquement la base du système d’exploitation,  modifiée pour la détection et la configuration automatique de la Hifiberry Digi+. J’ai téléchargé le fichier zip et j’ai copié son contenu sur la carte micro SD avec la commande "dd".
+Le système d'exploitation est une [Raspian light](https://www.raspberrypi.org/downloads/raspbian/). C'est une version allégée de Raspian sans interface graphique qui inclut uniquement la base du système d’exploitation. J’ai téléchargé le fichier zip et j’ai copié son contenu sur la carte micro SD avec la commande "dd".
 
 ## Activer la connexion ssh
 Depuis l’attaque qui visait les objets connectés en novembre 2016, la Fondation Raspberry Pi a décidé de ne plus activer les connexions SSH par défaut. Mais afin de ne pas bloquer les personnes optant pour une installation sans écran et sans clavier, headless donc, la Fondation a mis en place une solution simple et rapide pour activer le SSH. Il vous suffit de créer un fichier nommé ssh dans la partition boot (le fichier n’attend aucune extension).
@@ -37,43 +37,73 @@ Depuis l’attaque qui visait les objets connectés en novembre 2016, la Fondati
 
 
 Après avoir assigné une adresse IP fixe je peux me connecter :
-```highlight bash 
+```bash 
 ssh pi@192.168.0.9
 ``` 
+## Configuration des drivers pour la carte son digi+
 
-## Installation de MPD
-``` bash
-sudo apt-get install mpd mpc alsa-utils lame flac faad vorbis-tools
+Comme expliqué sur le site de [hifiberry](https://www.hifiberry.com/docs/software/configuring-linux-3-18-x/) il y a quelques modifications a faire pour que la carte soit reconnue : 
+Editer le fichier /boot/config.txt
+```bash
+pi@raspberrypi:~ $ sudo nano /boot/config.txt
 ```
-
-mon fichier /etc/mpd.conf :
-``` bash
-bind_to_address		"192.168.0.9"
-music_directory		"/media/DD1"
-audio_output {
-	type		"alsa"
-	name		"My ALSA Device"
-#	device		"hw:0,0"	# optional
-#	mixer_type      "software"      # optional
-#	mixer_device	"default"	# optional
-#	mixer_control	"PCM"		# optional
-#	mixer_index	"0"		# optional
-}
-``` 
+Commenter la ligne :
+```bash
+dtparam=audio=on
+```
+et ajouter à la fin du fichier :
+```bash
+dtoverlay=hifiberry-digi
+```
 
 
 ## Ajout d'un disque dur
 Mes fichiers musicaux sont au format FLAC et donc la carte SD n'est pas suffisante pour le stockage . Il est vite indispensable d'installer un disque dur externe.
-
-
 Par défaut, le Raspberry Pi ne délivre pas plus que 0.6A via USB. Nous avons besoin d’augmenter cette limite dans le but d’alimenter un disque dur externe. Pour ce faire, éditez le fichier /boot/config.txt et ajoutez :
 
 ``` bash
 max_usb_current=1
-``` 
+```
+
+Une fois le disque branché je peux l'identifier avec la commande ***fdisk***
+``` bash
+pi@raspberrypi:~ $  sudo fdisk -l
+Disk /dev/mmcblk0: 7.4 GiB, 7948206080 bytes, 15523840 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x6c586e13
+
+Device         Boot  Start      End  Sectors  Size Id Type
+/dev/mmcblk0p1        8192   532479   524288  256M  c W95 FAT32 (LBA)
+/dev/mmcblk0p2      532480 15523839 14991360  7.2G 83 Linux
+
+
+Disk /dev/sda: 74.5 GiB, 80026361856 bytes, 156301488 sectors
+Disk model: HTS541680J9SA00 
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x0007fdbb
+
+Device     Boot Start       End   Sectors  Size Id Type
+/dev/sda1        2048 156301311 156299264 74.5G 83 Linux
+ ``` 
+Notre disque est identifié sous : ***/dev/sda1***
+
+J'utilise la commande blkid comme indiqué dans le fichier ***fstab*** (voir plus bas)
+```bash
+pi@raspberrypi:~ $ blkid
+/dev/mmcblk0p1: LABEL_FATBOOT="boot" LABEL="boot" UUID="5203-DB74" TYPE="vfat" PARTUUID="6c586e13-01"
+/dev/mmcblk0p2: LABEL="rootfs" UUID="2ab3f8e1-7dc6-43f5-b0db-dd5759d51d4e" TYPE="ext4" PARTUUID="6c586e13-02"
+/dev/sda1: UUID="780f86cd-3c40-4032-a1a1-ea19c48a17c3" TYPE="ext4" PARTUUID="0007fdbb-01"
+```
+
 éditez le fichier /etc/fstab
 
-``` bash
+```bash
 # /etc/fstab: static file system information.
 #
 # Use 'blkid' to print the universally unique identifier for a
@@ -81,12 +111,36 @@ max_usb_current=1
 # that works even if disks are added and removed. See fstab(5).
 #
 # <file system> <mount point>   <type>  <options>       <dump>  <pass>
-proc            /proc           proc    defaults          0       0
-/dev/mmcblk0p1  /boot           vfat    defaults          0       2
-/dev/mmcblk0p2  /               ext4    defaults,noatime  0       1
-UUID=780f86cd-3c40-4032-a1a1-ea19c48a17c3    /media/DD1/  ext4    defaults          0     2
+bashproc            /proc           proc    defaults          0       0
+PARTUUID=6c586e13-01  /boot           vfat    defaults          0       2
+PARTUUID=6c586e13-02  /               ext4    defaults,noatime  0       1
+PARTUUID=0007fdbb-01  /media/DD1      ext4    defaults     0       2
 # a swapfile is not a swap partition, no line here
 #   use  dphys-swapfile swap[on|off]  for that
+``` 
+Je vois que dans cette version de Debian (buster) les disques sont identifiés avec leur **PARTUUID**, c'est donc ça que je vais utiliser pour identifier mon disque .
+
+## Installation de MPD
+```bash
+sudo apt-get install mpd mpc alsa-utils lame flac faad vorbis-tools
+```
+
+mon fichier /etc/mpd.conf :
+
+J'ai **uniquement** renseigné le chemin de mon disque dur et décommenté la ligne *mixer_type...*
+
+``` bash
+bind_to_address		"localhost"
+music_directory		"/media/DD1"
+audio_output {
+	type		"alsa"
+	name		"My ALSA Device"
+#	device		"hw:0,0"	# optional
+	mixer_type      "software"      # optional
+#	mixer_device	"default"	# optional
+#	mixer_control	"PCM"		# optional
+#	mixer_index	"0"		# optional
+}
 ``` 
 
 ## choix du client
@@ -95,12 +149,12 @@ UUID=780f86cd-3c40-4032-a1a1-ea19c48a17c3    /media/DD1/  ext4    defaults      
 
 
 
-<figure>
+<!--- <figure>
    <a href="http://jekyllrb.com">
-   <img src="/assets/2019-10-03 17-35-32.jpg" style="max-width: 200px;"
+   <img src="/assets/2019-10-03 17-35-32.jpg" style="max-width: 400px;"
       alt="Jekyll logo" />
    </a>
    <figcaption>This is the Jekyll logo</figcaption>
-</figure>
+</figure> --->
 
 
