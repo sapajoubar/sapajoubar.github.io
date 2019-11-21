@@ -328,12 +328,6 @@ footer .theme-by {
   color: #404040;
 }
 
-.post-preview a:focus,
-.post-preview a:hover {
-  text-decoration: none;
-  color: {{ site.hover-col }};
-}
-
 .post-preview .post-title {
   font-size: 30px;
   margin-top: 0;

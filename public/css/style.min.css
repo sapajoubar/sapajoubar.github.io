@@ -52,6 +52,9 @@ a:focus, a:hover {
 text-decoration : underline;
 color : #268bd2;
 }
+p a {
+  text-decoration: underline;
+}
 .gsc-cursor, .related-posts li a:hover, .slidetags a, .social-icons a, .tag-box a, .tag-ts {
 text-decoration : none;
 }

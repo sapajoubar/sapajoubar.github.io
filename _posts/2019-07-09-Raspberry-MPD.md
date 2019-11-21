@@ -145,9 +145,47 @@ audio_output {
 
 ## choix du client
 
-![My helpful screenshot](/assets/2019-10-03 17-35-32.jpg)
+Il existe une foule de [clients pour mpd](https://www.musicpd.org/clients/) .
 
+ Jai choisi un client en console : [ncmpcpp](https://rybczak.net/ncmpcpp/) qui est hyper complet et vraiment superbe !
 
+![My helpful screenshot](/assets/Capture1.jpg)
+
+```bash
+##############################################################################
+## This is the example configuration file. Copy it to $HOME/.ncmpcpp/config ##
+## or $XDG_CONFIG_HOME/ncmpcpp/config and set up your preferences.          ##
+##############################################################################
+#
+##### directories ######
+##
+## Directory for storing ncmpcpp related files.  Changing it is useful if you
+## want to store everything somewhere else and provide command line setting for
+## alternative location to config file which defines that while launching
+## ncmpcpp.
+##
+#
+ncmpcpp_directory = ~/.ncmpcpp
+#
+##
+## Directory for storing downloaded lyrics. It defaults to ~/.lyrics since other
+## MPD clients (eg. ncmpc) also use that location.
+##
+#
+lyrics_directory = ~/.lyrics
+#
+##### connection settings #####
+#
+mpd_host = 192.168.0.9
+#
+mpd_port = 6600
+#
+#mpd_connection_timeout = 5
+#
+## Needed for tag editor and file operations to work.
+##
+mpd_music_dir = /media/DD1
+```
 
 <!--- <figure>
    <a href="http://jekyllrb.com">
